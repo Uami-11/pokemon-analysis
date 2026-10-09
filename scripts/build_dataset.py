@@ -95,7 +95,7 @@ def build_type_chart(types: dict) -> dict[str, dict[str, float]]:
     chart: dict[str, dict[str, float]] = {}
     for name, payload in types.items():
         rel = payload["damage_relations"]
-        multipliers = {d["name"]: 1.0 for d in rel["double_damage_to"]}
+        multipliers = {d["name"]: 2.0 for d in rel["double_damage_to"]}
         multipliers.update({d["name"]: 0.5 for d in rel["half_damage_to"]})
         multipliers.update({d["name"]: 0.0 for d in rel["no_damage_to"]})
         chart[name] = multipliers
@@ -158,7 +158,9 @@ def build_row(species: dict, pokemon: dict, growth: dict, chart: dict) -> dict:
         "type2": defending[1] if len(defending) > 1 else "",
         "weight_kg": fmt_float(weight / 10) if weight else "",
         "generation": str(ROMAN[species["generation"]["name"].split("-")[1]]),
-        "is_legendary": "1" if species["is_legendary"] else "0",
+        # the raw CSV also flags mythicals (Mew, Deoxys ...) as legendary,
+        # so the same convention is used for the new rows
+        "is_legendary": "1" if species["is_legendary"] or species["is_mythical"] else "0",
     }
     return row
 
@@ -286,7 +288,7 @@ def main() -> None:
     if not added.empty:
         counts = added["generation"].astype(int).value_counts().sort_index()
         print("new rows per generation:", dict(counts))
-    print("column order:", ", ".join(ordered[:6]), ", ...')
+    print("column order:", ", ".join(ordered[:6]), ", ...")
 
 
 if __name__ == "__main__":

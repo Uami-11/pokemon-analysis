@@ -97,6 +97,10 @@ def fetch_static(refresh: bool = False) -> tuple[dict, dict]:
         growth[str(idx)] = get_json(f"{BASE_URL}/growth-rate/{idx}",
                                     f"growth_rate_{idx}.json", refresh, session)
         print(f"  growth-rate/{idx}")
+
+    # index of every official ability name (used by the data-quality checks)
+    get_json(f"{BASE_URL}/ability?limit=2000", "ability_index.json", refresh, session)
+    print("  ability?limit=2000")
     return types, growth
 
 
