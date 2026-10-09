@@ -1,0 +1,240 @@
+{
+ "id": 996,
+ "name": "frigibax",
+ "order": 949,
+ "gender_rate": 4,
+ "capture_rate": 45,
+ "base_happiness": 50,
+ "is_baby": false,
+ "is_legendary": false,
+ "is_mythical": false,
+ "hatch_counter": 40,
+ "has_gender_differences": false,
+ "forms_switchable": false,
+ "growth_rate": {
+  "name": "slow",
+  "url": "https://pokeapi.co/api/v2/growth-rate/1/"
+ },
+ "pokedex_numbers": [
+  {
+   "entry_number": 996,
+   "pokedex": {
+    "name": "national",
+    "url": "https://pokeapi.co/api/v2/pokedex/1/"
+   }
+  },
+  {
+   "entry_number": 388,
+   "pokedex": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/pokedex/31/"
+   }
+  },
+  {
+   "entry_number": 32,
+   "pokedex": {
+    "name": "hyperspace",
+    "url": "https://pokeapi.co/api/v2/pokedex/35/"
+   }
+  }
+ ],
+ "egg_groups": [
+  {
+   "name": "mineral",
+   "url": "https://pokeapi.co/api/v2/egg-group/10/"
+  },
+  {
+   "name": "dragon",
+   "url": "https://pokeapi.co/api/v2/egg-group/14/"
+  }
+ ],
+ "color": {
+  "name": "gray",
+  "url": "https://pokeapi.co/api/v2/pokemon-color/4/"
+ },
+ "shape": {
+  "name": "upright",
+  "url": "https://pokeapi.co/api/v2/pokemon-shape/6/"
+ },
+ "evolves_from_species": null,
+ "evolution_chain": {
+  "url": "https://pokeapi.co/api/v2/evolution-chain/527/"
+ },
+ "habitat": null,
+ "generation": {
+  "name": "generation-ix",
+  "url": "https://pokeapi.co/api/v2/generation/9/"
+ },
+ "names": [
+  {
+   "name": "セビエ",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Sebie",
+   "language": {
+    "name": "ja-roma",
+    "url": "https://pokeapi.co/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "드니차",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "涼脊龍",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Frigodo",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Frospino",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Frigibax",
+   "language": {
+    "name": "es",
+    "url": "https://pokeapi.co/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Frigibax",
+   "language": {
+    "name": "it",
+    "url": "https://pokeapi.co/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Frigibax",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "セビエ",
+   "language": {
+    "name": "ja",
+    "url": "https://pokeapi.co/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "凉脊龙",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Frigibax",
+   "language": {
+    "name": "es-419",
+    "url": "https://pokeapi.co/api/v2/language/14/"
+   }
+  }
+ ],
+ "pal_park_encounters": [],
+ "form_descriptions": [],
+ "flavor_text_entries": [
+  {
+   "flavor_text": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "scarlet",
+    "url": "https://pokeapi.co/api/v2/version/40/"
+   }
+  },
+  {
+   "flavor_text": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "violet",
+    "url": "https://pokeapi.co/api/v2/version/41/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "こおりビレポケモン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "genus": "얼음지느러미포켓몬",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "genus": "冰鰭寶可夢",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "genus": "Glaçaileron",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "genus": "Eisfinne",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "genus": "Ice Fin Pokémon",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "genus": "冰鳍宝可梦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "is_default": true,
+   "pokemon": {
+    "name": "frigibax",
+    "url": "https://pokeapi.co/api/v2/pokemon/996/"
+   }
+  }
+ ]
+}

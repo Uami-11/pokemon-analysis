@@ -1,0 +1,243 @@
+{
+ "id": 914,
+ "name": "quaquaval",
+ "order": 914,
+ "gender_rate": 1,
+ "capture_rate": 45,
+ "base_happiness": 50,
+ "is_baby": false,
+ "is_legendary": false,
+ "is_mythical": false,
+ "hatch_counter": 20,
+ "has_gender_differences": false,
+ "forms_switchable": false,
+ "growth_rate": {
+  "name": "medium-slow",
+  "url": "https://pokeapi.co/api/v2/growth-rate/4/"
+ },
+ "pokedex_numbers": [
+  {
+   "entry_number": 914,
+   "pokedex": {
+    "name": "national",
+    "url": "https://pokeapi.co/api/v2/pokedex/1/"
+   }
+  },
+  {
+   "entry_number": 9,
+   "pokedex": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/pokedex/31/"
+   }
+  },
+  {
+   "entry_number": 914,
+   "pokedex": {
+    "name": "champions",
+    "url": "https://pokeapi.co/api/v2/pokedex/36/"
+   }
+  }
+ ],
+ "egg_groups": [
+  {
+   "name": "water1",
+   "url": "https://pokeapi.co/api/v2/egg-group/2/"
+  },
+  {
+   "name": "flying",
+   "url": "https://pokeapi.co/api/v2/egg-group/4/"
+  }
+ ],
+ "color": {
+  "name": "blue",
+  "url": "https://pokeapi.co/api/v2/pokemon-color/2/"
+ },
+ "shape": {
+  "name": "upright",
+  "url": "https://pokeapi.co/api/v2/pokemon-shape/6/"
+ },
+ "evolves_from_species": {
+  "name": "quaxwell",
+  "url": "https://pokeapi.co/api/v2/pokemon-species/913/"
+ },
+ "evolution_chain": {
+  "url": "https://pokeapi.co/api/v2/evolution-chain/480/"
+ },
+ "habitat": null,
+ "generation": {
+  "name": "generation-ix",
+  "url": "https://pokeapi.co/api/v2/generation/9/"
+ },
+ "names": [
+  {
+   "name": "ウェーニバル",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Wanival",
+   "language": {
+    "name": "ja-roma",
+    "url": "https://pokeapi.co/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "웨이니발",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "狂歡浪舞鴨",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Palmaval",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Bailonda",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Quaquaval",
+   "language": {
+    "name": "es",
+    "url": "https://pokeapi.co/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Quaquaval",
+   "language": {
+    "name": "it",
+    "url": "https://pokeapi.co/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Quaquaval",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "ウェーニバル",
+   "language": {
+    "name": "ja",
+    "url": "https://pokeapi.co/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "狂欢浪舞鸭",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Quaquaval",
+   "language": {
+    "name": "es-419",
+    "url": "https://pokeapi.co/api/v2/language/14/"
+   }
+  }
+ ],
+ "pal_park_encounters": [],
+ "form_descriptions": [],
+ "flavor_text_entries": [
+  {
+   "flavor_text": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "scarlet",
+    "url": "https://pokeapi.co/api/v2/version/40/"
+   }
+  },
+  {
+   "flavor_text": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "violet",
+    "url": "https://pokeapi.co/api/v2/version/41/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "ダンサーポケモン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "genus": "댄서포켓몬",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "genus": "舞者寶可夢",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "genus": "Danseur",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "genus": "Tänzer",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "genus": "Dancer Pokémon",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "genus": "舞者宝可梦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "is_default": true,
+   "pokemon": {
+    "name": "quaquaval",
+    "url": "https://pokeapi.co/api/v2/pokemon/914/"
+   }
+  }
+ ]
+}

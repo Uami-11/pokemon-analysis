@@ -1,0 +1,260 @@
+{
+ "id": 970,
+ "name": "glimmora",
+ "order": 967,
+ "gender_rate": 4,
+ "capture_rate": 25,
+ "base_happiness": 50,
+ "is_baby": false,
+ "is_legendary": false,
+ "is_mythical": false,
+ "hatch_counter": 30,
+ "has_gender_differences": false,
+ "forms_switchable": false,
+ "growth_rate": {
+  "name": "medium-slow",
+  "url": "https://pokeapi.co/api/v2/growth-rate/4/"
+ },
+ "pokedex_numbers": [
+  {
+   "entry_number": 970,
+   "pokedex": {
+    "name": "national",
+    "url": "https://pokeapi.co/api/v2/pokedex/1/"
+   }
+  },
+  {
+   "entry_number": 309,
+   "pokedex": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/pokedex/31/"
+   }
+  },
+  {
+   "entry_number": 157,
+   "pokedex": {
+    "name": "kitakami",
+    "url": "https://pokeapi.co/api/v2/pokedex/32/"
+   }
+  },
+  {
+   "entry_number": 21,
+   "pokedex": {
+    "name": "hyperspace",
+    "url": "https://pokeapi.co/api/v2/pokedex/35/"
+   }
+  },
+  {
+   "entry_number": 970,
+   "pokedex": {
+    "name": "champions",
+    "url": "https://pokeapi.co/api/v2/pokedex/36/"
+   }
+  }
+ ],
+ "egg_groups": [
+  {
+   "name": "mineral",
+   "url": "https://pokeapi.co/api/v2/egg-group/10/"
+  }
+ ],
+ "color": {
+  "name": "blue",
+  "url": "https://pokeapi.co/api/v2/pokemon-color/2/"
+ },
+ "shape": {
+  "name": "ball",
+  "url": "https://pokeapi.co/api/v2/pokemon-shape/1/"
+ },
+ "evolves_from_species": {
+  "name": "glimmet",
+  "url": "https://pokeapi.co/api/v2/pokemon-species/969/"
+ },
+ "evolution_chain": {
+  "url": "https://pokeapi.co/api/v2/evolution-chain/508/"
+ },
+ "habitat": null,
+ "generation": {
+  "name": "generation-ix",
+  "url": "https://pokeapi.co/api/v2/generation/9/"
+ },
+ "names": [
+  {
+   "name": "キラフロル",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Kiraflor",
+   "language": {
+    "name": "ja-roma",
+    "url": "https://pokeapi.co/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "킬라플로르",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "晶光花",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Floréclat",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Lumiflora",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Glimmora",
+   "language": {
+    "name": "es",
+    "url": "https://pokeapi.co/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Glimmora",
+   "language": {
+    "name": "it",
+    "url": "https://pokeapi.co/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Glimmora",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "キラフロル",
+   "language": {
+    "name": "ja",
+    "url": "https://pokeapi.co/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "晶光花",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Glimmora",
+   "language": {
+    "name": "es-419",
+    "url": "https://pokeapi.co/api/v2/language/14/"
+   }
+  }
+ ],
+ "pal_park_encounters": [],
+ "form_descriptions": [],
+ "flavor_text_entries": [
+  {
+   "flavor_text": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "scarlet",
+    "url": "https://pokeapi.co/api/v2/version/40/"
+   }
+  },
+  {
+   "flavor_text": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "violet",
+    "url": "https://pokeapi.co/api/v2/version/41/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "こうせきポケモン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "genus": "광석포켓몬",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "genus": "礦石寶可夢",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "genus": "Minerai",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "genus": "Erz",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "genus": "Ore Pokémon",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "genus": "矿石宝可梦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "is_default": true,
+   "pokemon": {
+    "name": "glimmora",
+    "url": "https://pokeapi.co/api/v2/pokemon/970/"
+   }
+  },
+  {
+   "is_default": false,
+   "pokemon": {
+    "name": "glimmora-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10321/"
+   }
+  }
+ ]
+}

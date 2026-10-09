@@ -1,0 +1,239 @@
+{
+ "id": 930,
+ "name": "arboliva",
+ "order": 937,
+ "gender_rate": 4,
+ "capture_rate": 45,
+ "base_happiness": 50,
+ "is_baby": false,
+ "is_legendary": false,
+ "is_mythical": false,
+ "hatch_counter": 20,
+ "has_gender_differences": false,
+ "forms_switchable": false,
+ "growth_rate": {
+  "name": "medium-slow",
+  "url": "https://pokeapi.co/api/v2/growth-rate/4/"
+ },
+ "pokedex_numbers": [
+  {
+   "entry_number": 930,
+   "pokedex": {
+    "name": "national",
+    "url": "https://pokeapi.co/api/v2/pokedex/1/"
+   }
+  },
+  {
+   "entry_number": 86,
+   "pokedex": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/pokedex/31/"
+   }
+  },
+  {
+   "entry_number": 930,
+   "pokedex": {
+    "name": "champions",
+    "url": "https://pokeapi.co/api/v2/pokedex/36/"
+   }
+  }
+ ],
+ "egg_groups": [
+  {
+   "name": "plant",
+   "url": "https://pokeapi.co/api/v2/egg-group/7/"
+  }
+ ],
+ "color": {
+  "name": "green",
+  "url": "https://pokeapi.co/api/v2/pokemon-color/5/"
+ },
+ "shape": {
+  "name": "humanoid",
+  "url": "https://pokeapi.co/api/v2/pokemon-shape/12/"
+ },
+ "evolves_from_species": {
+  "name": "dolliv",
+  "url": "https://pokeapi.co/api/v2/pokemon-species/929/"
+ },
+ "evolution_chain": {
+  "url": "https://pokeapi.co/api/v2/evolution-chain/487/"
+ },
+ "habitat": null,
+ "generation": {
+  "name": "generation-ix",
+  "url": "https://pokeapi.co/api/v2/generation/9/"
+ },
+ "names": [
+  {
+   "name": "オリーヴァ",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Oliva",
+   "language": {
+    "name": "ja-roma",
+    "url": "https://pokeapi.co/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "올리르바",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "奧利瓦",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Arboliva",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Olithena",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Arboliva",
+   "language": {
+    "name": "es",
+    "url": "https://pokeapi.co/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Arboliva",
+   "language": {
+    "name": "it",
+    "url": "https://pokeapi.co/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Arboliva",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "オリーヴァ",
+   "language": {
+    "name": "ja",
+    "url": "https://pokeapi.co/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "奥利瓦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Arboliva",
+   "language": {
+    "name": "es-419",
+    "url": "https://pokeapi.co/api/v2/language/14/"
+   }
+  }
+ ],
+ "pal_park_encounters": [],
+ "form_descriptions": [],
+ "flavor_text_entries": [
+  {
+   "flavor_text": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "scarlet",
+    "url": "https://pokeapi.co/api/v2/version/40/"
+   }
+  },
+  {
+   "flavor_text": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "violet",
+    "url": "https://pokeapi.co/api/v2/version/41/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "オリーブポケモン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "genus": "올리브포켓몬",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "genus": "橄欖寶可夢",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "genus": "Olive",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "genus": "Olive",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "genus": "Olive Pokémon",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "genus": "橄榄宝可梦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "is_default": true,
+   "pokemon": {
+    "name": "arboliva",
+    "url": "https://pokeapi.co/api/v2/pokemon/930/"
+   }
+  }
+ ]
+}

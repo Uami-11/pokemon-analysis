@@ -1,0 +1,239 @@
+{
+ "id": 916,
+ "name": "oinkologne",
+ "order": 916,
+ "gender_rate": 0,
+ "capture_rate": 100,
+ "base_happiness": 50,
+ "is_baby": false,
+ "is_legendary": false,
+ "is_mythical": false,
+ "hatch_counter": 15,
+ "has_gender_differences": true,
+ "forms_switchable": false,
+ "growth_rate": {
+  "name": "medium",
+  "url": "https://pokeapi.co/api/v2/growth-rate/2/"
+ },
+ "pokedex_numbers": [
+  {
+   "entry_number": 916,
+   "pokedex": {
+    "name": "national",
+    "url": "https://pokeapi.co/api/v2/pokedex/1/"
+   }
+  },
+  {
+   "entry_number": 11,
+   "pokedex": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/pokedex/31/"
+   }
+  }
+ ],
+ "egg_groups": [
+  {
+   "name": "ground",
+   "url": "https://pokeapi.co/api/v2/egg-group/5/"
+  }
+ ],
+ "color": {
+  "name": "gray",
+  "url": "https://pokeapi.co/api/v2/pokemon-color/4/"
+ },
+ "shape": {
+  "name": "quadruped",
+  "url": "https://pokeapi.co/api/v2/pokemon-shape/8/"
+ },
+ "evolves_from_species": {
+  "name": "lechonk",
+  "url": "https://pokeapi.co/api/v2/pokemon-species/915/"
+ },
+ "evolution_chain": {
+  "url": "https://pokeapi.co/api/v2/evolution-chain/481/"
+ },
+ "habitat": null,
+ "generation": {
+  "name": "generation-ix",
+  "url": "https://pokeapi.co/api/v2/generation/9/"
+ },
+ "names": [
+  {
+   "name": "パフュートン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Perfuton",
+   "language": {
+    "name": "ja-roma",
+    "url": "https://pokeapi.co/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "퍼퓨돈",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "飄香豚",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Fragroin",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Fragrunz",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Oinkologne",
+   "language": {
+    "name": "es",
+    "url": "https://pokeapi.co/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Oinkologne",
+   "language": {
+    "name": "it",
+    "url": "https://pokeapi.co/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Oinkologne",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "パフュートン",
+   "language": {
+    "name": "ja",
+    "url": "https://pokeapi.co/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "飘香豚",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Oinkologne",
+   "language": {
+    "name": "es-419",
+    "url": "https://pokeapi.co/api/v2/language/14/"
+   }
+  }
+ ],
+ "pal_park_encounters": [],
+ "form_descriptions": [],
+ "flavor_text_entries": [
+  {
+   "flavor_text": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "scarlet",
+    "url": "https://pokeapi.co/api/v2/version/40/"
+   }
+  },
+  {
+   "flavor_text": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   },
+   "version": {
+    "name": "violet",
+    "url": "https://pokeapi.co/api/v2/version/41/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "ぶたポケモン",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "https://pokeapi.co/api/v2/language/1/"
+   }
+  },
+  {
+   "genus": "돼지포켓몬",
+   "language": {
+    "name": "ko",
+    "url": "https://pokeapi.co/api/v2/language/3/"
+   }
+  },
+  {
+   "genus": "豬寶可夢",
+   "language": {
+    "name": "zh-hant",
+    "url": "https://pokeapi.co/api/v2/language/4/"
+   }
+  },
+  {
+   "genus": "Pourceau",
+   "language": {
+    "name": "fr",
+    "url": "https://pokeapi.co/api/v2/language/5/"
+   }
+  },
+  {
+   "genus": "Schwein",
+   "language": {
+    "name": "de",
+    "url": "https://pokeapi.co/api/v2/language/6/"
+   }
+  },
+  {
+   "genus": "Hog Pokémon",
+   "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+   }
+  },
+  {
+   "genus": "猪宝可梦",
+   "language": {
+    "name": "zh-hans",
+    "url": "https://pokeapi.co/api/v2/language/12/"
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "is_default": true,
+   "pokemon": {
+    "name": "oinkologne-male",
+    "url": "https://pokeapi.co/api/v2/pokemon/916/"
+   }
+  },
+  {
+   "is_default": false,
+   "pokemon": {
+    "name": "oinkologne-female",
+    "url": "https://pokeapi.co/api/v2/pokemon/10254/"
+   }
+  }
+ ]
+}
