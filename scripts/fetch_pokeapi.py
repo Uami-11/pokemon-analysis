@@ -35,6 +35,10 @@ RAW_DIR = ROOT / "datasets" / "raw"
 # end of the national pokedex has to be extracted from the API.
 NEW_DEX_RANGE = range(802, 1026)
 
+# Base forms of everything already in the raw CSV. Needed to reconcile the
+# rows where the original file mixed in mega/regional-form data.
+BASE_DEX_RANGE = range(1, 802)
+
 # A deterministic sample of dex entries already present in the CSV. It is
 # re-extracted so the field mapping can be validated against the raw data
 # before it is trusted for the new rows.
@@ -129,7 +133,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--refresh", action="store_true",
                         help="re-download even if a cached copy exists")
-    parser.add_argument("--only", choices=["types", "new", "sample"],
+    parser.add_argument("--only", choices=["types", "new", "base", "sample"],
                         help="fetch a single group of endpoints")
     args = parser.parse_args()
 
@@ -141,6 +145,10 @@ def main() -> None:
         print(f"New national dex entries ({NEW_DEX_RANGE.start}-"
               f"{NEW_DEX_RANGE.stop - 1}):")
         fetch_pokemon_ids(NEW_DEX_RANGE, args.refresh)
+    if args.only in (None, "base"):
+        print(f"Base forms of the original CSV ({BASE_DEX_RANGE.start}-"
+              f"{BASE_DEX_RANGE.stop - 1}):")
+        fetch_pokemon_ids(BASE_DEX_RANGE, args.refresh)
     if args.only in (None, "sample"):
         print(f"Validation sample ({len(VALIDATION_DEX)} entries):")
         fetch_pokemon_ids(VALIDATION_DEX, args.refresh)

@@ -1,0 +1,285 @@
+ability_id,ability_name
+1,Adaptability
+2,Aftermath
+3,Air Lock
+4,Analytic
+5,Anger Point
+6,Anger Shell
+7,Anticipation
+8,Arena Trap
+9,Armor Tail
+10,Aroma Veil
+11,Aura Break
+12,Bad Dreams
+13,Ball Fetch
+14,Battery
+15,Battle Armor
+16,Beads Of Ruin
+17,Beast Boost
+18,Berserk
+19,Big Pecks
+20,Blaze
+21,Bulletproof
+22,Cheek Pouch
+23,Chilling Neigh
+24,Chlorophyll
+25,Clear Body
+26,Cloud Nine
+27,Color Change
+28,Comatose
+29,Commander
+30,Competitive
+31,Compound Eyes
+32,Contrary
+33,Corrosion
+34,Costar
+35,Cotton Down
+36,Cud Chew
+37,Cursed Body
+38,Cute Charm
+39,Damp
+40,Dancer
+41,Dark Aura
+42,Dauntless Shield
+43,Dazzling
+44,Defeatist
+45,Defiant
+46,Disguise
+47,Download
+48,Dragons Maw
+49,Drizzle
+50,Drought
+51,Dry Skin
+52,Early Bird
+53,Earth Eater
+54,Effect Spore
+55,Electric Surge
+56,Electromorphosis
+57,Emergency Exit
+58,Fairy Aura
+59,Filter
+60,Flame Body
+61,Flare Boost
+62,Flash Fire
+63,Flower Gift
+64,Flower Veil
+65,Fluffy
+66,Forecast
+67,Forewarn
+68,Friend Guard
+69,Frisk
+70,Full Metal Body
+71,Fur Coat
+72,Gale Wings
+73,Gluttony
+74,Good As Gold
+75,Gooey
+76,Grass Pelt
+77,Grassy Surge
+78,Grim Neigh
+79,Guard Dog
+80,Gulp Missile
+81,Guts
+82,Hadron Engine
+83,Harvest
+84,Healer
+85,Heatproof
+86,Heavy Metal
+87,Honey Gather
+88,Hospitality
+89,Huge Power
+90,Hunger Switch
+91,Hustle
+92,Hydration
+93,Hyper Cutter
+94,Ice Body
+95,Ice Face
+96,Ice Scales
+97,Illuminate
+98,Illusion
+99,Immunity
+100,Imposter
+101,Infiltrator
+102,Innards Out
+103,Inner Focus
+104,Insomnia
+105,Intimidate
+106,Intrepid Sword
+107,Iron Barbs
+108,Iron Fist
+109,Justified
+110,Keen Eye
+111,Klutz
+112,Leaf Guard
+113,Levitate
+114,Libero
+115,Light Metal
+116,Lightning Rod
+117,Limber
+118,Lingering Aroma
+119,Liquid Ooze
+120,Liquid Voice
+121,Long Reach
+122,Magic Bounce
+123,Magic Guard
+124,Magician
+125,Magma Armor
+126,Magnet Pull
+127,Marvel Scale
+128,Mega Launcher
+129,Merciless
+130,Minus
+131,Mirror Armor
+132,Misty Surge
+133,Mold Breaker
+134,Moody
+135,Motor Drive
+136,Moxie
+137,Multiscale
+138,Multitype
+139,Mummy
+140,Mycelium Might
+141,Natural Cure
+142,Neutralizing Gas
+143,No Guard
+144,Normalize
+145,Oblivious
+146,Opportunist
+147,Orichalcum Pulse
+148,Overcoat
+149,Overgrow
+150,Own Tempo
+151,Perish Body
+152,Pickpocket
+153,Pickup
+154,Pixilate
+155,Plus
+156,Poison Heal
+157,Poison Point
+158,Poison Puppeteer
+159,Poison Touch
+160,Power Spot
+161,Prankster
+162,Pressure
+163,Prism Armor
+164,Propeller Tail
+165,Protean
+166,Protosynthesis
+167,Psychic Surge
+168,Punk Rock
+169,Pure Power
+170,Purifying Salt
+171,Quark Drive
+172,Queenly Majesty
+173,Quick Feet
+174,Rain Dish
+175,Rattled
+176,Receiver
+177,Reckless
+178,Refrigerate
+179,Regenerator
+180,Ripen
+181,Rivalry
+182,Rks System
+183,Rock Head
+184,Rocky Payload
+185,Rough Skin
+186,Run Away
+187,Sand Force
+188,Sand Rush
+189,Sand Spit
+190,Sand Stream
+191,Sand Veil
+192,Sap Sipper
+193,Schooling
+194,Scrappy
+195,Screen Cleaner
+196,Seed Sower
+197,Serene Grace
+198,Shadow Shield
+199,Shadow Tag
+200,Sharpness
+201,Shed Skin
+202,Sheer Force
+203,Shell Armor
+204,Shield Dust
+205,Shields Down
+206,Simple
+207,Skill Link
+208,Slow Start
+209,Slush Rush
+210,Sniper
+211,Snow Cloak
+212,Snow Warning
+213,Solar Power
+214,Solid Rock
+215,Soul Heart
+216,Soundproof
+217,Speed Boost
+218,Stakeout
+219,Stall
+220,Stalwart
+221,Stamina
+222,Stance Change
+223,Static
+224,Steadfast
+225,Steam Engine
+226,Steelworker
+227,Steely Spirit
+228,Stench
+229,Sticky Hold
+230,Storm Drain
+231,Strong Jaw
+232,Sturdy
+233,Suction Cups
+234,Super Luck
+235,Supersweet Syrup
+236,Supreme Overlord
+237,Swarm
+238,Sweet Veil
+239,Swift Swim
+240,Sword Of Ruin
+241,Symbiosis
+242,Synchronize
+243,Tablets Of Ruin
+244,Tangled Feet
+245,Technician
+246,Telepathy
+247,Tera Shift
+248,Teravolt
+249,Thermal Exchange
+250,Thick Fat
+251,Tinted Lens
+252,Torrent
+253,Tough Claws
+254,Toxic Boost
+255,Toxic Chain
+256,Toxic Debris
+257,Trace
+258,Transistor
+259,Triage
+260,Truant
+261,Turboblaze
+262,Unaware
+263,Unburden
+264,Unnerve
+265,Unseen Fist
+266,Vessel Of Ruin
+267,Victory Star
+268,Vital Spirit
+269,Volt Absorb
+270,Wandering Spirit
+271,Water Absorb
+272,Water Bubble
+273,Water Compaction
+274,Water Veil
+275,Weak Armor
+276,Well Baked Body
+277,White Smoke
+278,Wimp Out
+279,Wind Power
+280,Wind Rider
+281,Wonder Guard
+282,Wonder Skin
+283,Zen Mode
+284,Zero To Hero

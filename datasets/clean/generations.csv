@@ -1,0 +1,10 @@
+generation_id,dex_start,dex_end,pokemon_count,label
+1,1,151,151,Generation I
+2,152,251,100,Generation II
+3,252,386,135,Generation III
+4,387,493,107,Generation IV
+5,494,649,156,Generation V
+6,650,721,72,Generation VI
+7,722,809,88,Generation VII
+8,810,905,96,Generation VIII
+9,906,1025,120,Generation IX

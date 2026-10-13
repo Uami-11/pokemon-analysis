@@ -1,0 +1,1026 @@
+pokedex_number,name,japanese_name,generation_id,type1_id,type2_id,classification,height_m,weight_kg,percentage_male,capture_rate,base_happiness,base_egg_steps,experience_growth,is_legendary,is_dual_type,type_pair,generation_name,main_offense,size_class
+1,Bulbasaur,Fushigidaneフシギダネ,1,10,14.0,Seed Pokémon,0.7,6.9,87.5,45,70,5120,1059860,0,1,grass / poison,Generation I,special,small
+2,Ivysaur,Fushigisouフシギソウ,1,10,14.0,Seed Pokémon,1.0,13.0,87.5,45,70,5120,1059860,0,1,grass / poison,Generation I,special,medium
+3,Venusaur,Fushigibanaフシギバナ,1,10,14.0,Seed Pokémon,2.0,100.0,87.5,45,70,5120,1059860,0,1,grass / poison,Generation I,special,large
+4,Charmander,Hitokageヒトカゲ,1,7,,Lizard Pokémon,0.6,8.5,87.5,45,70,5120,1059860,0,0,fire,Generation I,special,small
+5,Charmeleon,Lizardoリザード,1,7,,Flame Pokémon,1.1,19.0,87.5,45,70,5120,1059860,0,0,fire,Generation I,special,medium
+6,Charizard,Lizardonリザードン,1,7,8.0,Flame Pokémon,1.7,90.5,87.5,45,70,5120,1059860,0,1,fire / flying,Generation I,special,medium
+7,Squirtle,Zenigameゼニガメ,1,18,,Tiny Turtle Pokémon,0.5,9.0,87.5,45,70,5120,1059860,0,0,water,Generation I,special,small
+8,Wartortle,Kameilカメール,1,18,,Turtle Pokémon,1.0,22.5,87.5,45,70,5120,1059860,0,0,water,Generation I,special,medium
+9,Blastoise,Kamexカメックス,1,18,,Shellfish Pokémon,1.6,85.5,87.5,45,70,5120,1059860,0,0,water,Generation I,special,medium
+10,Caterpie,Caterpieキャタピー,1,1,,Worm Pokémon,0.3,2.9,50.0,255,70,3840,1000000,0,0,bug,Generation I,physical,small
+11,Metapod,Transelトランセル,1,1,,Cocoon Pokémon,0.7,9.9,50.0,120,70,3840,1000000,0,0,bug,Generation I,special,small
+12,Butterfree,Butterfreeバタフリー,1,1,8.0,Butterfly Pokémon,1.1,32.0,50.0,45,70,3840,1000000,0,1,bug / flying,Generation I,special,medium
+13,Weedle,Beedleビードル,1,1,14.0,Hairy Bug Pokémon,0.3,3.2,50.0,255,70,3840,1000000,0,1,bug / poison,Generation I,physical,small
+14,Kakuna,Cocoonコクーン,1,1,14.0,Cocoon Pokémon,0.6,10.0,50.0,120,70,3840,1000000,0,1,bug / poison,Generation I,balanced,small
+15,Beedrill,Spearスピアー,1,1,14.0,Poison Bee Pokémon,1.0,29.5,50.0,45,70,3840,1000000,0,1,bug / poison,Generation I,physical,medium
+16,Pidgey,Poppoポッポ,1,13,8.0,Tiny Bird Pokémon,0.3,1.8,50.0,255,70,3840,1059860,0,1,normal / flying,Generation I,physical,small
+17,Pidgeotto,Pigeonピジョン,1,13,8.0,Bird Pokémon,1.1,30.0,50.0,120,70,3840,1059860,0,1,normal / flying,Generation I,physical,medium
+18,Pidgeot,Pigeotピジョット,1,13,8.0,Bird Pokémon,1.5,39.5,50.0,45,70,3840,1059860,0,1,normal / flying,Generation I,physical,medium
+19,Rattata,Korattaコラッタ,1,13,,Mouse Pokémon,0.3,3.5,50.0,255,70,3840,1000000,0,0,normal,Generation I,physical,small
+20,Raticate,Rattaラッタ,1,13,,Mouse Pokémon,0.7,18.5,50.0,127,70,3840,1000000,0,0,normal,Generation I,physical,small
+21,Spearow,Onisuzumeオニスズメ,1,13,8.0,Tiny Bird Pokémon,0.3,2.0,50.0,255,70,3840,1000000,0,1,normal / flying,Generation I,physical,small
+22,Fearow,Onidrillオニドリル,1,13,8.0,Beak Pokémon,1.2,38.0,50.0,90,70,3840,1000000,0,1,normal / flying,Generation I,physical,medium
+23,Ekans,Arboアーボ,1,14,,Snake Pokémon,2.0,6.9,50.0,255,70,5120,1000000,0,0,poison,Generation I,physical,large
+24,Arbok,Arbokアーボック,1,14,,Cobra Pokémon,3.5,65.0,50.0,90,70,5120,1000000,0,0,poison,Generation I,physical,large
+25,Pikachu,Pikachuピカチュウ,1,4,,Mouse Pokémon,0.4,6.0,50.0,190,70,2560,1000000,0,0,electric,Generation I,physical,small
+26,Raichu,Raichuライチュウ,1,4,,Mouse Pokémon,0.8,30.0,50.0,75,70,2560,1000000,0,0,electric,Generation I,balanced,small
+27,Sandshrew,Sandサンド,1,11,,Mouse Pokémon,0.6,12.0,50.0,255,70,5120,1000000,0,0,ground,Generation I,physical,small
+28,Sandslash,Sandpanサンドパン,1,11,,Mouse Pokémon,1.0,29.5,50.0,90,70,5120,1000000,0,0,ground,Generation I,physical,medium
+29,Nidoran♀,Nidoran♀ニドラン♀,1,14,,Poison Pin Pokémon,0.4,7.0,0.0,235,70,5120,1059860,0,0,poison,Generation I,physical,small
+30,Nidorina,Nidorinaニドリーナ,1,14,,Poison Pin Pokémon,0.8,20.0,0.0,120,70,5120,1059860,0,0,poison,Generation I,physical,small
+31,Nidoqueen,Nidoqueenニドクイン,1,14,11.0,Drill Pokémon,1.3,60.0,0.0,45,70,5120,1059860,0,1,poison / ground,Generation I,physical,medium
+32,Nidoran♂,Nidoran♂ニドラン♂,1,14,,Poison Pin Pokémon,0.5,9.0,100.0,235,70,5120,1059860,0,0,poison,Generation I,physical,small
+33,Nidorino,Nidorinoニドリーノ,1,14,,Poison Pin Pokémon,0.9,19.5,100.0,120,70,5120,1059860,0,0,poison,Generation I,physical,small
+34,Nidoking,Nidokingニドキング,1,14,11.0,Drill Pokémon,1.4,62.0,100.0,45,70,5120,1059860,0,1,poison / ground,Generation I,physical,medium
+35,Clefairy,Pippiピッピ,1,5,,Fairy Pokémon,0.6,7.5,25.0,150,140,2560,800000,0,0,fairy,Generation I,special,small
+36,Clefable,Pixyピクシー,1,5,,Fairy Pokémon,1.3,40.0,25.0,25,140,2560,800000,0,0,fairy,Generation I,special,medium
+37,Vulpix,Rokonロコン,1,7,,Fox Pokémon,0.6,9.9,25.0,190,70,5120,1000000,0,0,fire,Generation I,special,small
+38,Ninetales,Kyukonキュウコン,1,7,,Fox Pokémon,1.1,19.9,25.0,75,70,5120,1000000,0,0,fire,Generation I,special,medium
+39,Jigglypuff,Purinプリン,1,13,5.0,Balloon Pokémon,0.5,5.5,25.0,170,70,2560,800000,0,1,normal / fairy,Generation I,balanced,small
+40,Wigglytuff,Pukurinプクリン,1,13,5.0,Balloon Pokémon,1.0,12.0,25.0,50,70,2560,800000,0,1,normal / fairy,Generation I,special,medium
+41,Zubat,Zubatズバット,1,14,8.0,Bat Pokémon,0.8,7.5,50.0,255,70,3840,1000000,0,1,poison / flying,Generation I,physical,small
+42,Golbat,Golbatゴルバット,1,14,8.0,Bat Pokémon,1.6,55.0,50.0,90,70,3840,1000000,0,1,poison / flying,Generation I,physical,medium
+43,Oddish,Nazonokusaナゾノクサ,1,10,14.0,Weed Pokémon,0.5,5.4,50.0,255,70,5120,1059860,0,1,grass / poison,Generation I,special,small
+44,Gloom,Kusaihanaクサイハナ,1,10,14.0,Weed Pokémon,0.8,8.6,50.0,120,70,5120,1059860,0,1,grass / poison,Generation I,special,small
+45,Vileplume,Ruffresiaラフレシア,1,10,14.0,Flower Pokémon,1.2,18.6,50.0,45,70,5120,1059860,0,1,grass / poison,Generation I,special,medium
+46,Paras,Parasパラス,1,1,10.0,Mushroom Pokémon,0.3,5.4,50.0,190,70,5120,1000000,0,1,bug / grass,Generation I,physical,small
+47,Parasect,Parasectパラセクト,1,1,10.0,Mushroom Pokémon,1.0,29.5,50.0,75,70,5120,1000000,0,1,bug / grass,Generation I,physical,medium
+48,Venonat,Kongpangコンパン,1,1,14.0,Insect Pokémon,1.0,30.0,50.0,190,70,5120,1000000,0,1,bug / poison,Generation I,physical,medium
+49,Venomoth,Morphonモルフォン,1,1,14.0,Poison Moth Pokémon,1.5,12.5,50.0,75,70,5120,1000000,0,1,bug / poison,Generation I,special,medium
+50,Diglett,Digdaディグダ,1,11,,Mole Pokémon,0.2,0.8,50.0,255,70,5120,1000000,0,0,ground,Generation I,physical,small
+51,Dugtrio,Dugtrioダグトリオ,1,11,,Mole Pokémon,0.7,33.3,50.0,50,70,5120,1000000,0,0,ground,Generation I,physical,small
+52,Meowth,Nyarthニャース,1,13,,Scratch Cat Pokémon,0.4,4.2,50.0,255,70,5120,1000000,0,0,normal,Generation I,physical,small
+53,Persian,Persianペルシアン,1,13,,Classy Cat Pokémon,1.0,32.0,50.0,90,70,5120,1000000,0,0,normal,Generation I,physical,medium
+54,Psyduck,Koduckコダック,1,18,,Duck Pokémon,0.8,19.6,50.0,190,70,5120,1000000,0,0,water,Generation I,special,small
+55,Golduck,Golduckゴルダック,1,18,,Duck Pokémon,1.7,76.6,50.0,75,70,5120,1000000,0,0,water,Generation I,special,medium
+56,Mankey,Mankeyマンキー,1,6,,Pig Monkey Pokémon,0.5,28.0,50.0,190,70,5120,1000000,0,0,fighting,Generation I,physical,small
+57,Primeape,Okorizaruオコリザル,1,6,,Pig Monkey Pokémon,1.0,32.0,50.0,75,70,5120,1000000,0,0,fighting,Generation I,physical,medium
+58,Growlithe,Gardieガーディ,1,7,,Puppy Pokémon,0.7,19.0,75.0,190,70,5120,1250000,0,0,fire,Generation I,balanced,small
+59,Arcanine,Windieウインディ,1,7,,Legendary Pokémon,1.9,155.0,75.0,75,70,5120,1250000,0,0,fire,Generation I,physical,medium
+60,Poliwag,Nyoromoニョロモ,1,18,,Tadpole Pokémon,0.6,12.4,50.0,255,70,5120,1059860,0,0,water,Generation I,physical,small
+61,Poliwhirl,Nyorozoニョロゾ,1,18,,Tadpole Pokémon,1.0,20.0,50.0,120,70,5120,1059860,0,0,water,Generation I,physical,medium
+62,Poliwrath,Nyorobonニョロボン,1,18,6.0,Tadpole Pokémon,1.3,54.0,50.0,45,70,5120,1059860,0,1,water / fighting,Generation I,physical,medium
+63,Abra,Caseyケーシィ,1,15,,Psi Pokémon,0.9,19.5,75.0,200,70,5120,1059860,0,0,psychic,Generation I,special,small
+64,Kadabra,Yungererユンゲラー,1,15,,Psi Pokémon,1.3,56.5,75.0,100,70,5120,1059860,0,0,psychic,Generation I,special,medium
+65,Alakazam,Foodinフーディン,1,15,,Psi Pokémon,1.5,48.0,75.0,50,70,5120,1059860,0,0,psychic,Generation I,special,medium
+66,Machop,Wanrikyワンリキー,1,6,,Superpower Pokémon,0.8,19.5,75.0,180,70,5120,1059860,0,0,fighting,Generation I,physical,small
+67,Machoke,Gorikyゴーリキー,1,6,,Superpower Pokémon,1.5,70.5,75.0,90,70,5120,1059860,0,0,fighting,Generation I,physical,medium
+68,Machamp,Kairikyカイリキー,1,6,,Superpower Pokémon,1.6,130.0,75.0,45,70,5120,1059860,0,0,fighting,Generation I,physical,medium
+69,Bellsprout,Madatsubomiマダツボミ,1,10,14.0,Flower Pokémon,0.7,4.0,50.0,255,70,5120,1059860,0,1,grass / poison,Generation I,physical,small
+70,Weepinbell,Utsudonウツドン,1,10,14.0,Flycatcher Pokémon,1.0,6.4,50.0,120,70,5120,1059860,0,1,grass / poison,Generation I,physical,medium
+71,Victreebel,Utsubotウツボット,1,10,14.0,Flycatcher Pokémon,1.7,15.5,50.0,45,70,5120,1059860,0,1,grass / poison,Generation I,physical,medium
+72,Tentacool,Menokurageメノクラゲ,1,18,14.0,Jellyfish Pokémon,0.9,45.5,50.0,190,70,5120,1250000,0,1,water / poison,Generation I,special,small
+73,Tentacruel,Dokukurageドククラゲ,1,18,14.0,Jellyfish Pokémon,1.6,55.0,50.0,60,70,5120,1250000,0,1,water / poison,Generation I,special,medium
+74,Geodude,Isitsubuteイシツブテ,1,16,11.0,Rock Pokémon,0.4,20.0,50.0,255,70,3840,1059860,0,1,rock / ground,Generation I,physical,small
+75,Graveler,Goloneゴローン,1,16,11.0,Rock Pokémon,1.0,105.0,50.0,120,70,3840,1059860,0,1,rock / ground,Generation I,physical,medium
+76,Golem,Golonyaゴローニャ,1,16,11.0,Megaton Pokémon,1.4,300.0,50.0,45,70,3840,1059860,0,1,rock / ground,Generation I,physical,medium
+77,Ponyta,Ponytaポニータ,1,7,,Fire Horse Pokémon,1.0,30.0,50.0,190,70,5120,1000000,0,0,fire,Generation I,physical,medium
+78,Rapidash,Gallopギャロップ,1,7,,Fire Horse Pokémon,1.7,95.0,50.0,60,70,5120,1000000,0,0,fire,Generation I,physical,medium
+79,Slowpoke,Yadonヤドン,1,18,15.0,Dopey Pokémon,1.2,36.0,50.0,190,70,5120,1000000,0,1,water / psychic,Generation I,physical,medium
+80,Slowbro,Yadoranヤドラン,1,18,15.0,Hermit Crab Pokémon,1.6,78.5,50.0,75,70,5120,1000000,0,1,water / psychic,Generation I,special,medium
+81,Magnemite,Coilコイル,1,4,17.0,Magnet Pokémon,0.3,6.0,,190,70,5120,1000000,0,1,electric / steel,Generation I,special,small
+82,Magneton,Rarecoilレアコイル,1,4,17.0,Magnet Pokémon,1.0,60.0,,60,70,5120,1000000,0,1,electric / steel,Generation I,special,medium
+83,Farfetch'd,Kamonegiカモネギ,1,13,8.0,Wild Duck Pokémon,0.8,15.0,50.0,45,70,5120,1000000,0,1,normal / flying,Generation I,physical,small
+84,Doduo,Dodoドードー,1,13,8.0,Twin Bird Pokémon,1.4,39.2,50.0,190,70,5120,1000000,0,1,normal / flying,Generation I,physical,medium
+85,Dodrio,Dodorioドードリオ,1,13,8.0,Triple Bird Pokémon,1.8,85.2,50.0,45,70,5120,1000000,0,1,normal / flying,Generation I,physical,medium
+86,Seel,Pawouパウワウ,1,18,,Sea Lion Pokémon,1.1,90.0,50.0,190,70,5120,1000000,0,0,water,Generation I,balanced,medium
+87,Dewgong,Jugonジュゴン,1,18,12.0,Sea Lion Pokémon,1.7,120.0,50.0,75,70,5120,1000000,0,1,water / ice,Generation I,balanced,medium
+88,Grimer,Betbeterベトベター,1,14,,Sludge Pokémon,0.9,30.0,50.0,190,70,5120,1000000,0,0,poison,Generation I,physical,small
+89,Muk,Betbetonベトベトン,1,14,,Sludge Pokémon,1.2,30.0,50.0,75,70,5120,1000000,0,0,poison,Generation I,physical,medium
+90,Shellder,Shellderシェルダー,1,18,,Bivalve Pokémon,0.3,4.0,50.0,190,70,5120,1250000,0,0,water,Generation I,physical,small
+91,Cloyster,Parshenパルシェン,1,18,12.0,Bivalve Pokémon,1.5,132.5,50.0,60,70,5120,1250000,0,1,water / ice,Generation I,physical,medium
+92,Gastly,Ghosゴース,1,9,14.0,Gas Pokémon,1.3,0.1,50.0,190,70,5120,1059860,0,1,ghost / poison,Generation I,special,medium
+93,Haunter,Ghostゴースト,1,9,14.0,Gas Pokémon,1.6,0.1,50.0,90,70,5120,1059860,0,1,ghost / poison,Generation I,special,medium
+94,Gengar,Gangarゲンガー,1,9,14.0,Shadow Pokémon,1.5,40.5,50.0,45,70,5120,1059860,0,1,ghost / poison,Generation I,special,medium
+95,Onix,Iwarkイワーク,1,16,11.0,Rock Snake Pokémon,8.8,210.0,50.0,45,70,6400,1000000,0,1,rock / ground,Generation I,physical,huge
+96,Drowzee,Sleepeスリープ,1,15,,Hypnosis Pokémon,1.0,32.4,50.0,190,70,5120,1000000,0,0,psychic,Generation I,physical,medium
+97,Hypno,Sleeperスリーパー,1,15,,Hypnosis Pokémon,1.6,75.6,50.0,75,70,5120,1000000,0,0,psychic,Generation I,balanced,medium
+98,Krabby,Crabクラブ,1,18,,River Crab Pokémon,0.4,6.5,50.0,225,70,5120,1000000,0,0,water,Generation I,physical,small
+99,Kingler,Kinglerキングラー,1,18,,Pincer Pokémon,1.3,60.0,50.0,60,70,5120,1000000,0,0,water,Generation I,physical,medium
+100,Voltorb,Biriridamaビリリダマ,1,4,,Ball Pokémon,0.5,10.4,,190,70,5120,1000000,0,0,electric,Generation I,special,small
+101,Electrode,Marumineマルマイン,1,4,,Ball Pokémon,1.2,66.6,,60,70,5120,1000000,0,0,electric,Generation I,special,medium
+102,Exeggcute,Tamatamaタマタマ,1,10,15.0,Egg Pokémon,0.4,2.5,50.0,90,70,5120,1250000,0,1,grass / psychic,Generation I,special,small
+103,Exeggutor,Nassyナッシー,1,10,15.0,Coconut Pokémon,2.0,120.0,50.0,45,70,5120,1250000,0,1,grass / psychic,Generation I,special,large
+104,Cubone,Karakaraカラカラ,1,11,,Lonely Pokémon,0.4,6.5,50.0,190,70,5120,1000000,0,0,ground,Generation I,physical,small
+105,Marowak,Garagaraガラガラ,1,11,,Bone Keeper Pokémon,1.0,45.0,50.0,75,70,5120,1000000,0,0,ground,Generation I,physical,medium
+106,Hitmonlee,Sawamularサワムラー,1,6,,Kicking Pokémon,1.5,49.8,100.0,45,70,6400,1000000,0,0,fighting,Generation I,physical,medium
+107,Hitmonchan,Ebiwalarエビワラー,1,6,,Punching Pokémon,1.4,50.2,100.0,45,70,6400,1000000,0,0,fighting,Generation I,physical,medium
+108,Lickitung,Beroringaベロリンガ,1,13,,Licking Pokémon,1.2,65.5,50.0,45,70,5120,1000000,0,0,normal,Generation I,special,medium
+109,Koffing,Dogarsドガース,1,14,,Poison Gas Pokémon,0.6,1.0,50.0,190,70,5120,1000000,0,0,poison,Generation I,physical,small
+110,Weezing,Matadogasマタドガス,1,14,,Poison Gas Pokémon,1.2,9.5,50.0,60,70,5120,1000000,0,0,poison,Generation I,physical,medium
+111,Rhyhorn,Sihornサイホーン,1,11,16.0,Spikes Pokémon,1.0,115.0,50.0,120,70,5120,1250000,0,1,ground / rock,Generation I,physical,medium
+112,Rhydon,Sidonサイドン,1,11,16.0,Drill Pokémon,1.9,120.0,50.0,60,70,5120,1250000,0,1,ground / rock,Generation I,physical,medium
+113,Chansey,Luckyラッキー,1,13,,Egg Pokémon,1.1,34.6,0.0,30,140,10240,800000,0,0,normal,Generation I,special,medium
+114,Tangela,Monjaraモンジャラ,1,10,,Vine Pokémon,1.0,35.0,50.0,45,70,5120,1000000,0,0,grass,Generation I,special,medium
+115,Kangaskhan,Garuraガルーラ,1,13,,Parent Pokémon,2.2,80.0,0.0,45,70,5120,1000000,0,0,normal,Generation I,physical,large
+116,Horsea,Tattuタッツー,1,18,,Dragon Pokémon,0.4,8.0,50.0,225,70,5120,1000000,0,0,water,Generation I,special,small
+117,Seadra,Seadraシードラ,1,18,,Dragon Pokémon,1.2,25.0,50.0,75,70,5120,1000000,0,0,water,Generation I,special,medium
+118,Goldeen,Tosakintoトサキント,1,18,,Goldfish Pokémon,0.6,15.0,50.0,225,70,5120,1000000,0,0,water,Generation I,physical,small
+119,Seaking,Azumaoアズマオウ,1,18,,Goldfish Pokémon,1.3,39.0,50.0,60,70,5120,1000000,0,0,water,Generation I,physical,medium
+120,Staryu,Hitodemanヒトデマン,1,18,,Star Shape Pokémon,0.8,34.5,,225,70,5120,1250000,0,0,water,Generation I,special,small
+121,Starmie,Starmieスターミー,1,18,15.0,Mysterious Pokémon,1.1,80.0,,60,70,5120,1250000,0,1,water / psychic,Generation I,special,medium
+122,Mr. Mime,Barrierdバリヤード,1,15,5.0,Barrier Pokémon,1.3,54.5,50.0,45,70,6400,1000000,0,1,psychic / fairy,Generation I,special,medium
+123,Scyther,Strikeストライク,1,1,8.0,Mantis Pokémon,1.5,56.0,50.0,45,70,6400,1000000,0,1,bug / flying,Generation I,physical,medium
+124,Jynx,Rougelaルージュラ,1,12,15.0,Human Shape Pokémon,1.4,40.6,0.0,45,70,6400,1000000,0,1,ice / psychic,Generation I,special,medium
+125,Electabuzz,Elebooエレブー,1,4,,Electric Pokémon,1.1,30.0,75.0,45,70,6400,1000000,0,0,electric,Generation I,special,medium
+126,Magmar,Booberブーバー,1,7,,Spitfire Pokémon,1.3,44.5,75.0,45,70,6400,1000000,0,0,fire,Generation I,special,medium
+127,Pinsir,Kailiosカイロス,1,1,,Stag Beetle Pokémon,1.5,55.0,50.0,45,70,6400,1250000,0,0,bug,Generation I,physical,medium
+128,Tauros,Kentaurosケンタロス,1,13,,Wild Bull Pokémon,1.4,88.4,100.0,45,70,5120,1250000,0,0,normal,Generation I,physical,medium
+129,Magikarp,Koikingコイキング,1,18,,Fish Pokémon,0.9,10.0,50.0,255,70,1280,1250000,0,0,water,Generation I,special,small
+130,Gyarados,Gyaradosギャラドス,1,18,8.0,Atrocious Pokémon,6.5,235.0,50.0,45,70,1280,1250000,0,1,water / flying,Generation I,physical,huge
+131,Lapras,Laplaceラプラス,1,18,12.0,Transport Pokémon,2.5,220.0,50.0,45,70,10240,1250000,0,1,water / ice,Generation I,balanced,large
+132,Ditto,Metamonメタモン,1,13,,Transform Pokémon,0.3,4.0,,35,70,5120,1000000,0,0,normal,Generation I,balanced,small
+133,Eevee,Eievuiイーブイ,1,13,,Evolution Pokémon,0.3,6.5,87.5,45,70,8960,1000000,0,0,normal,Generation I,physical,small
+134,Vaporeon,Showersシャワーズ,1,18,,Bubble Jet Pokémon,1.0,29.0,87.5,45,70,8960,1000000,0,0,water,Generation I,special,medium
+135,Jolteon,Thundersサンダース,1,4,,Lightning Pokémon,0.8,24.5,87.5,45,70,8960,1000000,0,0,electric,Generation I,special,small
+136,Flareon,Boosterブースター,1,7,,Flame Pokémon,0.9,25.0,87.5,45,70,8960,1000000,0,0,fire,Generation I,physical,small
+137,Porygon,Porygonポリゴン,1,13,,Virtual Pokémon,0.8,36.5,,45,70,5120,1000000,0,0,normal,Generation I,special,small
+138,Omanyte,Omniteオムナイト,1,16,18.0,Spiral Pokémon,0.4,7.5,87.5,45,70,7680,1000000,0,1,rock / water,Generation I,special,small
+139,Omastar,Omstarオムスター,1,16,18.0,Spiral Pokémon,1.0,35.0,87.5,45,70,7680,1000000,0,1,rock / water,Generation I,special,medium
+140,Kabuto,Kabutoカブト,1,16,18.0,Shellfish Pokémon,0.5,11.5,87.5,45,70,7680,1000000,0,1,rock / water,Generation I,physical,small
+141,Kabutops,Kabutopsカブトプス,1,16,18.0,Shellfish Pokémon,1.3,40.5,87.5,45,70,7680,1000000,0,1,rock / water,Generation I,physical,medium
+142,Aerodactyl,Pteraプテラ,1,16,8.0,Fossil Pokémon,1.8,59.0,87.5,45,70,8960,1250000,0,1,rock / flying,Generation I,physical,medium
+143,Snorlax,Kabigonカビゴン,1,13,,Sleeping Pokémon,2.1,460.0,87.5,25,70,10240,1250000,0,0,normal,Generation I,physical,large
+144,Articuno,Freezerフリーザー,1,12,8.0,Freeze Pokémon,1.7,55.4,,3,35,20480,1250000,1,1,ice / flying,Generation I,special,medium
+145,Zapdos,Thunderサンダー,1,4,8.0,Electric Pokémon,1.6,52.6,,3,35,20480,1250000,1,1,electric / flying,Generation I,special,medium
+146,Moltres,Fireファイヤー,1,7,8.0,Flame Pokémon,2.0,60.0,,3,35,20480,1250000,1,1,fire / flying,Generation I,special,large
+147,Dratini,Miniryuミニリュウ,1,3,,Dragon Pokémon,1.8,3.3,50.0,45,35,10240,1250000,0,0,dragon,Generation I,physical,medium
+148,Dragonair,Hakuryuハクリュー,1,3,,Dragon Pokémon,4.0,16.5,50.0,45,35,10240,1250000,0,0,dragon,Generation I,physical,huge
+149,Dragonite,Kairyuカイリュー,1,3,8.0,Dragon Pokémon,2.2,210.0,50.0,45,35,10240,1250000,0,1,dragon / flying,Generation I,physical,large
+150,Mewtwo,Mewtwoミュウツー,1,15,,Genetic Pokémon,2.0,122.0,,3,0,30720,1250000,1,0,psychic,Generation I,special,large
+151,Mew,Mewミュウ,1,15,,New Species Pokémon,0.4,4.0,,45,100,30720,1059860,1,0,psychic,Generation I,balanced,small
+152,Chikorita,Chicoritaチコリータ,2,10,,Leaf Pokémon,0.9,6.4,87.5,45,70,5120,1059860,0,0,grass,Generation II,balanced,small
+153,Bayleef,Bayleafベイリーフ,2,10,,Leaf Pokémon,1.2,15.8,87.5,45,70,5120,1059860,0,0,grass,Generation II,special,medium
+154,Meganium,Meganiumメガニウム,2,10,,Herb Pokémon,1.8,100.5,87.5,45,70,5120,1059860,0,0,grass,Generation II,special,medium
+155,Cyndaquil,Hinoarashiヒノアラシ,2,7,,Fire Mouse Pokémon,0.5,7.9,87.5,45,70,5120,1059860,0,0,fire,Generation II,special,small
+156,Quilava,Magmarashiマグマラシ,2,7,,Volcano Pokémon,0.9,19.0,87.5,45,70,5120,1059860,0,0,fire,Generation II,special,small
+157,Typhlosion,Bakphoonバクフーン,2,7,,Volcano Pokémon,1.7,79.5,87.5,45,70,5120,1059860,0,0,fire,Generation II,special,medium
+158,Totodile,Waninokoワニノコ,2,18,,Big Jaw Pokémon,0.6,9.5,87.5,45,70,5120,1059860,0,0,water,Generation II,physical,small
+159,Croconaw,Alligatesアリゲイツ,2,18,,Big Jaw Pokémon,1.1,25.0,87.5,45,70,5120,1059860,0,0,water,Generation II,physical,medium
+160,Feraligatr,Ordileオーダイル,2,18,,Big Jaw Pokémon,2.3,88.8,87.5,45,70,5120,1059860,0,0,water,Generation II,physical,large
+161,Sentret,Otachiオタチ,2,13,,Scout Pokémon,0.8,6.0,50.0,255,70,3840,1000000,0,0,normal,Generation II,physical,small
+162,Furret,Ootachiオオタチ,2,13,,Long Body Pokémon,1.8,32.5,50.0,90,70,3840,1000000,0,0,normal,Generation II,physical,medium
+163,Hoothoot,Hohoホーホー,2,13,8.0,Owl Pokémon,0.7,21.2,50.0,255,70,3840,1000000,0,1,normal / flying,Generation II,special,small
+164,Noctowl,Yorunozukuヨルノズク,2,13,8.0,Owl Pokémon,1.6,40.8,50.0,90,70,3840,1000000,0,1,normal / flying,Generation II,special,medium
+165,Ledyba,Redibaレディバ,2,1,8.0,Five Star Pokémon,1.0,10.8,50.0,255,70,3840,800000,0,1,bug / flying,Generation II,special,medium
+166,Ledian,Redianレディアン,2,1,8.0,Five Star Pokémon,1.4,35.6,50.0,90,70,3840,800000,0,1,bug / flying,Generation II,special,medium
+167,Spinarak,Itomaruイトマル,2,1,14.0,String Spit Pokémon,0.5,8.5,50.0,255,70,3840,800000,0,1,bug / poison,Generation II,physical,small
+168,Ariados,Ariadosアリアドス,2,1,14.0,Long Leg Pokémon,1.1,33.5,50.0,90,70,3840,800000,0,1,bug / poison,Generation II,physical,medium
+169,Crobat,Crobatクロバット,2,14,8.0,Bat Pokémon,1.8,75.0,50.0,90,70,3840,1000000,0,1,poison / flying,Generation II,physical,medium
+170,Chinchou,Chonchieチョンチー,2,18,4.0,Angler Pokémon,0.5,12.0,50.0,190,70,5120,1250000,0,1,water / electric,Generation II,special,small
+171,Lanturn,Lanternランターン,2,18,4.0,Light Pokémon,1.2,22.5,50.0,75,70,5120,1250000,0,1,water / electric,Generation II,special,medium
+172,Pichu,Pichuピチュー,2,4,,Tiny Mouse Pokémon,0.3,2.0,50.0,190,70,2560,1000000,0,0,electric,Generation II,physical,small
+173,Cleffa,Pyピィ,2,5,,Star Shape Pokémon,0.3,3.0,25.0,150,140,2560,800000,0,0,fairy,Generation II,special,small
+174,Igglybuff,Pupurinププリン,2,13,5.0,Balloon Pokémon,0.3,1.0,25.0,170,70,2560,800000,0,1,normal / fairy,Generation II,special,small
+175,Togepi,Togepyトゲピー,2,5,,Spike Ball Pokémon,0.3,1.5,87.5,190,70,2560,800000,0,0,fairy,Generation II,special,small
+176,Togetic,Togechickトゲチック,2,5,8.0,Happiness Pokémon,0.6,3.2,87.5,75,70,2560,800000,0,1,fairy / flying,Generation II,special,small
+177,Natu,Natyネイティ,2,15,8.0,Tiny Bird Pokémon,0.2,2.0,50.0,190,70,5120,1000000,0,1,psychic / flying,Generation II,special,small
+178,Xatu,Natioネイティオ,2,15,8.0,Mystic Pokémon,1.5,15.0,50.0,75,70,5120,1000000,0,1,psychic / flying,Generation II,special,medium
+179,Mareep,Merriepメリープ,2,4,,Wool Pokémon,0.6,7.8,50.0,235,70,5120,1059860,0,0,electric,Generation II,special,small
+180,Flaaffy,Mokokoモココ,2,4,,Wool Pokémon,0.8,13.3,50.0,120,70,5120,1059860,0,0,electric,Generation II,special,small
+181,Ampharos,Denryuデンリュウ,2,4,,Light Pokémon,1.4,61.5,50.0,45,70,5120,1059860,0,0,electric,Generation II,special,medium
+182,Bellossom,Kireihanaキレイハナ,2,10,,Flower Pokémon,0.4,5.8,50.0,45,70,5120,1059860,0,0,grass,Generation II,special,small
+183,Marill,Marilマリル,2,18,5.0,Aqua Mouse Pokémon,0.4,8.5,50.0,190,70,2560,800000,0,1,water / fairy,Generation II,balanced,small
+184,Azumarill,Marilliマリルリ,2,18,5.0,Aqua Rabbit Pokémon,0.8,28.5,50.0,75,70,2560,800000,0,1,water / fairy,Generation II,special,small
+185,Sudowoodo,Usokkieウソッキー,2,16,,Imitation Pokémon,1.2,38.0,50.0,65,70,5120,1000000,0,0,rock,Generation II,physical,medium
+186,Politoed,Nyorotonoニョロトノ,2,18,,Frog Pokémon,1.1,33.9,50.0,45,70,5120,1059860,0,0,water,Generation II,special,medium
+187,Hoppip,Haneccoハネッコ,2,10,8.0,Cottonweed Pokémon,0.4,0.5,50.0,255,70,5120,1059860,0,1,grass / flying,Generation II,balanced,small
+188,Skiploom,Popoccoポポッコ,2,10,8.0,Cottonweed Pokémon,0.6,1.0,50.0,120,70,5120,1059860,0,1,grass / flying,Generation II,balanced,small
+189,Jumpluff,Wataccoワタッコ,2,10,8.0,Cottonweed Pokémon,0.8,3.0,50.0,45,70,5120,1059860,0,1,grass / flying,Generation II,balanced,small
+190,Aipom,Eipamエイパム,2,13,,Long Tail Pokémon,0.8,11.5,50.0,45,70,5120,800000,0,0,normal,Generation II,physical,small
+191,Sunkern,Himanutsヒマナッツ,2,10,,Seed Pokémon,0.3,1.8,50.0,235,70,5120,1059860,0,0,grass,Generation II,balanced,small
+192,Sunflora,Kimawariキマワリ,2,10,,Sun Pokémon,0.8,8.5,50.0,120,70,5120,1059860,0,0,grass,Generation II,special,small
+193,Yanma,Yanyanmaヤンヤンマ,2,1,8.0,Clear Wing Pokémon,1.2,38.0,50.0,75,70,5120,1000000,0,1,bug / flying,Generation II,special,medium
+194,Wooper,Upahウパー,2,18,11.0,Water Fish Pokémon,0.4,8.5,50.0,255,70,5120,1000000,0,1,water / ground,Generation II,physical,small
+195,Quagsire,Nuohヌオー,2,18,11.0,Water Fish Pokémon,1.4,75.0,50.0,90,70,5120,1000000,0,1,water / ground,Generation II,physical,medium
+196,Espeon,Eifieエーフィ,2,15,,Sun Pokémon,0.9,26.5,87.5,45,70,8960,1000000,0,0,psychic,Generation II,special,small
+197,Umbreon,Brackyブラッキー,2,2,,Moonlight Pokémon,1.0,27.0,87.5,45,35,8960,1000000,0,0,dark,Generation II,physical,medium
+198,Murkrow,Yamikarasuヤミカラス,2,2,8.0,Darkness Pokémon,0.5,2.1,50.0,30,35,5120,1059860,0,1,dark / flying,Generation II,balanced,small
+199,Slowking,Yadokingヤドキング,2,18,15.0,Royal Pokémon,2.0,79.5,50.0,70,70,5120,1000000,0,1,water / psychic,Generation II,special,large
+200,Misdreavus,Mumaムウマ,2,9,,Screech Pokémon,0.7,1.0,50.0,45,35,6400,800000,0,0,ghost,Generation II,special,small
+201,Unown,Unknownアンノーン,2,15,,Symbol Pokémon,0.5,5.0,,225,70,10240,1000000,0,0,psychic,Generation II,balanced,small
+202,Wobbuffet,Sonansソーナンス,2,15,,Patient Pokémon,1.3,28.5,50.0,45,70,5120,1000000,0,0,psychic,Generation II,balanced,medium
+203,Girafarig,Kirinrikiキリンリキ,2,13,15.0,Long Neck Pokémon,1.5,41.5,50.0,60,70,5120,1000000,0,1,normal / psychic,Generation II,special,medium
+204,Pineco,Kunugidamaクヌギダマ,2,1,,Bagworm Pokémon,0.6,7.2,50.0,190,70,5120,1000000,0,0,bug,Generation II,physical,small
+205,Forretress,Foretosフォレトス,2,1,17.0,Bagworm Pokémon,1.2,125.8,50.0,75,70,5120,1000000,0,1,bug / steel,Generation II,physical,medium
+206,Dunsparce,Nokocchiノコッチ,2,13,,Land Snake Pokémon,1.5,14.0,50.0,190,70,5120,1000000,0,0,normal,Generation II,physical,medium
+207,Gligar,Gligerグライガー,2,11,8.0,Fly Scorpion Pokémon,1.1,64.8,50.0,60,70,5120,1059860,0,1,ground / flying,Generation II,physical,medium
+208,Steelix,Haganeilハガネール,2,17,11.0,Iron Snake Pokémon,9.2,400.0,50.0,25,70,6400,1000000,0,1,steel / ground,Generation II,physical,huge
+209,Snubbull,Buluブルー,2,5,,Fairy Pokémon,0.6,7.8,25.0,190,70,5120,800000,0,0,fairy,Generation II,physical,small
+210,Granbull,Granbuluグランブル,2,5,,Fairy Pokémon,1.4,48.7,25.0,75,70,5120,800000,0,0,fairy,Generation II,physical,medium
+211,Qwilfish,Harysenハリーセン,2,18,14.0,Balloon Pokémon,0.5,3.9,50.0,45,70,5120,1000000,0,1,water / poison,Generation II,physical,small
+212,Scizor,Hassamハッサム,2,1,17.0,Pincer Pokémon,1.8,118.0,50.0,25,70,6400,1000000,0,1,bug / steel,Generation II,physical,medium
+213,Shuckle,Tsubotsuboツボツボ,2,1,16.0,Mold Pokémon,0.6,20.5,50.0,190,70,5120,1059860,0,1,bug / rock,Generation II,balanced,small
+214,Heracross,Heracrosヘラクロス,2,1,6.0,Single Horn Pokémon,1.5,54.0,50.0,45,70,6400,1250000,0,1,bug / fighting,Generation II,physical,medium
+215,Sneasel,Nyulaニューラ,2,2,12.0,Sharp Claw Pokémon,0.9,28.0,50.0,60,35,5120,1059860,0,1,dark / ice,Generation II,physical,small
+216,Teddiursa,Himegumaヒメグマ,2,13,,Little Bear Pokémon,0.6,8.8,50.0,120,70,5120,1000000,0,0,normal,Generation II,physical,small
+217,Ursaring,Ringumaリングマ,2,13,,Hibernator Pokémon,1.8,125.8,50.0,60,70,5120,1000000,0,0,normal,Generation II,physical,medium
+218,Slugma,Magmagマグマッグ,2,7,,Lava Pokémon,0.7,35.0,50.0,190,70,5120,1000000,0,0,fire,Generation II,special,small
+219,Magcargo,Magcargotマグカルゴ,2,7,16.0,Lava Pokémon,0.8,55.0,50.0,75,70,5120,1000000,0,1,fire / rock,Generation II,special,small
+220,Swinub,Urimooウリムー,2,12,11.0,Pig Pokémon,0.4,6.5,50.0,225,70,5120,1250000,0,1,ice / ground,Generation II,physical,small
+221,Piloswine,Inomooイノムー,2,12,11.0,Swine Pokémon,1.1,55.8,50.0,75,70,5120,1250000,0,1,ice / ground,Generation II,physical,medium
+222,Corsola,Sunnygoサニーゴ,2,18,16.0,Coral Pokémon,0.6,5.0,25.0,60,70,5120,800000,0,1,water / rock,Generation II,special,small
+223,Remoraid,Teppouoテッポウオ,2,18,,Jet Pokémon,0.6,12.0,50.0,190,70,5120,1000000,0,0,water,Generation II,balanced,small
+224,Octillery,Okutankオクタン,2,18,,Jet Pokémon,0.9,28.5,50.0,75,70,5120,1000000,0,0,water,Generation II,balanced,small
+225,Delibird,Delibirdデリバード,2,12,8.0,Delivery Pokémon,0.9,16.0,50.0,45,70,5120,800000,0,1,ice / flying,Generation II,special,small
+226,Mantine,Mantainマンタイン,2,18,8.0,Kite Pokémon,2.1,220.0,50.0,25,70,6400,1250000,0,1,water / flying,Generation II,special,large
+227,Skarmory,Airmdエアームド,2,17,8.0,Armor Bird Pokémon,1.7,50.5,50.0,25,70,6400,1250000,0,1,steel / flying,Generation II,physical,medium
+228,Houndour,Delvilデルビル,2,2,7.0,Dark Pokémon,0.6,10.8,50.0,120,35,5120,1250000,0,1,dark / fire,Generation II,special,small
+229,Houndoom,Hellgarヘルガー,2,2,7.0,Dark Pokémon,1.4,35.0,50.0,45,35,5120,1250000,0,1,dark / fire,Generation II,special,medium
+230,Kingdra,Kingdraキングドラ,2,18,3.0,Dragon Pokémon,1.8,152.0,50.0,45,70,5120,1000000,0,1,water / dragon,Generation II,balanced,medium
+231,Phanpy,Gomazouゴマゾウ,2,11,,Long Nose Pokémon,0.5,33.5,50.0,120,70,5120,1000000,0,0,ground,Generation II,physical,small
+232,Donphan,Donfanドンファン,2,11,,Armor Pokémon,1.1,120.0,50.0,60,70,5120,1000000,0,0,ground,Generation II,physical,medium
+233,Porygon2,Porygon2ポリゴン２,2,13,,Virtual Pokémon,0.6,32.5,,45,70,5120,1000000,0,0,normal,Generation II,special,small
+234,Stantler,Odoshishiオドシシ,2,13,,Big Horn Pokémon,1.4,71.2,50.0,45,70,5120,1250000,0,0,normal,Generation II,physical,medium
+235,Smeargle,Dobleドーブル,2,13,,Painter Pokémon,1.2,58.0,50.0,45,70,5120,800000,0,0,normal,Generation II,balanced,medium
+236,Tyrogue,Balkieバルキー,2,6,,Scuffle Pokémon,0.7,21.0,100.0,75,70,6400,1000000,0,0,fighting,Generation II,balanced,small
+237,Hitmontop,Kapoererカポエラー,2,6,,Handstand Pokémon,1.4,48.0,100.0,45,70,6400,1000000,0,0,fighting,Generation II,physical,medium
+238,Smoochum,Muchulムチュール,2,12,15.0,Kiss Pokémon,0.4,6.0,0.0,45,70,6400,1000000,0,1,ice / psychic,Generation II,special,small
+239,Elekid,Elekidエレキッド,2,4,,Electric Pokémon,0.6,23.5,75.0,45,70,6400,1000000,0,0,electric,Generation II,special,small
+240,Magby,Bubyブビィ,2,7,,Live Coal Pokémon,0.7,21.4,75.0,45,70,6400,1000000,0,0,fire,Generation II,physical,small
+241,Miltank,Miltankミルタンク,2,13,,Milk Cow Pokémon,1.2,75.5,0.0,45,70,5120,1250000,0,0,normal,Generation II,physical,medium
+242,Blissey,Happinasハピナス,2,13,,Happiness Pokémon,1.5,46.8,0.0,30,140,10240,800000,0,0,normal,Generation II,special,medium
+243,Raikou,Raikouライコウ,2,4,,Thunder Pokémon,1.9,178.0,,3,35,20480,1250000,1,0,electric,Generation II,special,medium
+244,Entei,Enteiエンテイ,2,7,,Volcano Pokémon,2.1,198.0,,3,35,20480,1250000,1,0,fire,Generation II,physical,large
+245,Suicune,Suicuneスイクン,2,18,,Aurora Pokémon,2.0,187.0,,3,35,20480,1250000,1,0,water,Generation II,special,large
+246,Larvitar,Yogirasヨーギラス,2,16,11.0,Rock Skin Pokémon,0.6,72.0,50.0,45,35,10240,1250000,0,1,rock / ground,Generation II,physical,small
+247,Pupitar,Sanagirasサナギラス,2,16,11.0,Hard Shell Pokémon,1.2,152.0,50.0,45,35,10240,1250000,0,1,rock / ground,Generation II,physical,medium
+248,Tyranitar,Bangirasバンギラス,2,16,2.0,Armor Pokémon,2.0,202.0,50.0,45,35,10240,1250000,0,1,rock / dark,Generation II,physical,large
+249,Lugia,Lugiaルギア,2,15,8.0,Diving Pokémon,5.2,216.0,,3,0,30720,1250000,1,1,psychic / flying,Generation II,balanced,huge
+250,Ho-Oh,Hououホウオウ,2,7,8.0,Rainbow Pokémon,3.8,199.0,,3,0,30720,1250000,1,1,fire / flying,Generation II,physical,large
+251,Celebi,Celebiセレビィ,2,15,10.0,Time Travel Pokémon,0.6,5.0,,45,100,30720,1059860,1,1,psychic / grass,Generation II,balanced,small
+252,Treecko,Kimoriキモリ,3,10,,Wood Gecko Pokémon,0.5,5.0,87.5,45,70,5120,1059860,0,0,grass,Generation III,special,small
+253,Grovyle,Juptileジュプトル,3,10,,Wood Gecko Pokémon,0.9,21.6,87.5,45,70,5120,1059860,0,0,grass,Generation III,special,small
+254,Sceptile,Jukainジュカイン,3,10,,Forest Pokémon,1.7,52.2,87.5,45,70,5120,1059860,0,0,grass,Generation III,special,medium
+255,Torchic,Achamoアチャモ,3,7,,Chick Pokémon,0.4,2.5,87.5,45,70,5120,1059860,0,0,fire,Generation III,special,small
+256,Combusken,Wakasyamoワカシャモ,3,7,6.0,Young Fowl Pokémon,0.9,19.5,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation III,balanced,small
+257,Blaziken,Bursyamoバシャーモ,3,7,6.0,Blaze Pokémon,1.9,52.0,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation III,physical,medium
+258,Mudkip,Mizugorouミズゴロウ,3,18,,Mud Fish Pokémon,0.4,7.6,87.5,45,70,5120,1059860,0,0,water,Generation III,physical,small
+259,Marshtomp,Numacrawヌマクロー,3,18,11.0,Mud Fish Pokémon,0.7,28.0,87.5,45,70,5120,1059860,0,1,water / ground,Generation III,physical,small
+260,Swampert,Laglargeラグラージ,3,18,11.0,Mud Fish Pokémon,1.5,81.9,87.5,45,70,5120,1059860,0,1,water / ground,Generation III,physical,medium
+261,Poochyena,Pochienaポチエナ,3,2,,Bite Pokémon,0.5,13.6,50.0,255,70,3840,1000000,0,0,dark,Generation III,physical,small
+262,Mightyena,Graenaグラエナ,3,2,,Bite Pokémon,1.0,37.0,50.0,127,70,3840,1000000,0,0,dark,Generation III,physical,medium
+263,Zigzagoon,Jiguzagumaジグザグマ,3,13,,Tiny Raccoon Pokémon,0.4,17.5,50.0,255,70,3840,1000000,0,0,normal,Generation III,balanced,small
+264,Linoone,Massugumaマッスグマ,3,13,,Rushing Pokémon,0.5,32.5,50.0,90,70,3840,1000000,0,0,normal,Generation III,physical,small
+265,Wurmple,Kemussoケムッソ,3,1,,Worm Pokémon,0.3,3.6,50.0,255,70,3840,1000000,0,0,bug,Generation III,physical,small
+266,Silcoon,Karasalisカラサリス,3,1,,Cocoon Pokémon,0.6,10.0,50.0,120,70,3840,1000000,0,0,bug,Generation III,physical,small
+267,Beautifly,Agehuntアゲハント,3,1,8.0,Butterfly Pokémon,1.0,28.4,50.0,45,70,3840,1000000,0,1,bug / flying,Generation III,special,medium
+268,Cascoon,Mayuldマユルド,3,1,,Cocoon Pokémon,0.7,11.5,50.0,120,70,3840,1000000,0,0,bug,Generation III,physical,small
+269,Dustox,Dokucaleドクケイル,3,1,14.0,Poison Moth Pokémon,1.2,31.6,50.0,45,70,3840,1000000,0,1,bug / poison,Generation III,balanced,medium
+270,Lotad,Hassbohハスボー,3,18,10.0,Water Weed Pokémon,0.5,2.6,50.0,255,70,3840,1059860,0,1,water / grass,Generation III,special,small
+271,Lombre,Hasubreroハスブレロ,3,18,10.0,Jolly Pokémon,1.2,32.5,50.0,120,70,3840,1059860,0,1,water / grass,Generation III,special,medium
+272,Ludicolo,Runpappaルンパッパ,3,18,10.0,Carefree Pokémon,1.5,55.0,50.0,45,70,3840,1059860,0,1,water / grass,Generation III,special,medium
+273,Seedot,Tanebohタネボー,3,10,,Acorn Pokémon,0.5,4.0,50.0,255,70,3840,1059860,0,0,grass,Generation III,physical,small
+274,Nuzleaf,Konohanaコノハナ,3,10,2.0,Wily Pokémon,1.0,28.0,50.0,120,70,3840,1059860,0,1,grass / dark,Generation III,physical,medium
+275,Shiftry,Dirtengダーテング,3,10,2.0,Wicked Pokémon,1.3,59.6,50.0,45,70,3840,1059860,0,1,grass / dark,Generation III,physical,medium
+276,Taillow,Subameスバメ,3,13,8.0,Tiny Swallow Pokémon,0.3,2.3,50.0,200,70,3840,1059860,0,1,normal / flying,Generation III,physical,small
+277,Swellow,Ohsubameオオスバメ,3,13,8.0,Swallow Pokémon,0.7,19.8,50.0,45,70,3840,1059860,0,1,normal / flying,Generation III,physical,small
+278,Wingull,Camomeキャモメ,3,18,8.0,Seagull Pokémon,0.6,9.5,50.0,190,70,5120,1000000,0,1,water / flying,Generation III,special,small
+279,Pelipper,Pelipperペリッパー,3,18,8.0,Water Bird Pokémon,1.2,28.0,50.0,45,70,5120,1000000,0,1,water / flying,Generation III,special,medium
+280,Ralts,Raltsラルトス,3,15,5.0,Feeling Pokémon,0.4,6.6,50.0,235,35,5120,1250000,0,1,psychic / fairy,Generation III,special,small
+281,Kirlia,Kirliaキルリア,3,15,5.0,Emotion Pokémon,0.8,20.2,50.0,120,35,5120,1250000,0,1,psychic / fairy,Generation III,special,small
+282,Gardevoir,Sirnightサーナイト,3,15,5.0,Embrace Pokémon,1.6,48.4,50.0,45,35,5120,1250000,0,1,psychic / fairy,Generation III,special,medium
+283,Surskit,Ametamaアメタマ,3,1,18.0,Pond Skater Pokémon,0.5,1.7,50.0,200,70,3840,1000000,0,1,bug / water,Generation III,special,small
+284,Masquerain,Amemothアメモース,3,1,8.0,Eyeball Pokémon,0.8,3.6,50.0,75,70,3840,1000000,0,1,bug / flying,Generation III,special,small
+285,Shroomish,Kinococoキノココ,3,10,,Mushroom Pokémon,0.4,4.5,50.0,255,70,3840,1640000,0,0,grass,Generation III,balanced,small
+286,Breloom,Kinogassaキノガッサ,3,10,6.0,Mushroom Pokémon,1.2,39.2,50.0,90,70,3840,1640000,0,1,grass / fighting,Generation III,physical,medium
+287,Slakoth,Namakeroナマケロ,3,13,,Slacker Pokémon,0.8,24.0,50.0,255,70,3840,1250000,0,0,normal,Generation III,physical,small
+288,Vigoroth,Yarukimonoヤルキモノ,3,13,,Wild Monkey Pokémon,1.4,46.5,50.0,120,70,3840,1250000,0,0,normal,Generation III,physical,medium
+289,Slaking,Kekkingケッキング,3,13,,Lazy Pokémon,2.0,130.5,50.0,45,70,3840,1250000,0,0,normal,Generation III,physical,large
+290,Nincada,Tutininツチニン,3,1,11.0,Trainee Pokémon,0.5,5.5,50.0,255,70,3840,600000,0,1,bug / ground,Generation III,physical,small
+291,Ninjask,Tekkaninテッカニン,3,1,8.0,Ninja Pokémon,0.8,12.0,50.0,120,70,3840,600000,0,1,bug / flying,Generation III,physical,small
+292,Shedinja,Nukeninヌケニン,3,1,9.0,Shed Pokémon,0.8,1.2,,45,70,3840,600000,0,1,bug / ghost,Generation III,physical,small
+293,Whismur,Gonyonyoゴニョニョ,3,13,,Whisper Pokémon,0.6,16.3,50.0,190,70,5120,1059860,0,0,normal,Generation III,balanced,small
+294,Loudred,Dogohmbドゴーム,3,13,,Big Voice Pokémon,1.0,40.5,50.0,120,70,5120,1059860,0,0,normal,Generation III,balanced,medium
+295,Exploud,Bakuongバクオング,3,13,,Loud Noise Pokémon,1.5,84.0,50.0,45,70,5120,1059860,0,0,normal,Generation III,balanced,medium
+296,Makuhita,Makunoshitaマクノシタ,3,6,,Guts Pokémon,1.0,86.4,75.0,180,70,5120,1640000,0,0,fighting,Generation III,physical,medium
+297,Hariyama,Hariteyamaハリテヤマ,3,6,,Arm Thrust Pokémon,2.3,253.8,75.0,200,70,5120,1640000,0,0,fighting,Generation III,physical,large
+298,Azurill,Ruririルリリ,3,13,5.0,Polka Dot Pokémon,0.2,2.0,25.0,150,70,2560,800000,0,1,normal / fairy,Generation III,balanced,small
+299,Nosepass,Nosepassノズパス,3,16,,Compass Pokémon,1.0,97.0,50.0,255,70,5120,1000000,0,0,rock,Generation III,balanced,medium
+300,Skitty,Enecoエネコ,3,13,,Kitten Pokémon,0.6,11.0,25.0,255,70,3840,800000,0,0,normal,Generation III,physical,small
+301,Delcatty,Enekororoエネコロロ,3,13,,Prim Pokémon,1.1,32.6,25.0,60,70,3840,800000,0,0,normal,Generation III,physical,medium
+302,Sableye,Yamiramiヤミラミ,3,2,9.0,Darkness Pokémon,0.5,11.0,50.0,45,35,6400,1059860,0,1,dark / ghost,Generation III,physical,small
+303,Mawile,Kucheatクチート,3,17,5.0,Deceiver Pokémon,0.6,11.5,50.0,45,70,5120,800000,0,1,steel / fairy,Generation III,physical,small
+304,Aron,Cokodoraココドラ,3,17,16.0,Iron Armor Pokémon,0.4,60.0,50.0,180,35,8960,1250000,0,1,steel / rock,Generation III,physical,small
+305,Lairon,Kodoraコドラ,3,17,16.0,Iron Armor Pokémon,0.9,120.0,50.0,90,35,8960,1250000,0,1,steel / rock,Generation III,physical,small
+306,Aggron,Bossgodoraボスゴドラ,3,17,16.0,Iron Armor Pokémon,2.1,360.0,50.0,45,35,8960,1250000,0,1,steel / rock,Generation III,physical,large
+307,Meditite,Asananアサナン,3,6,15.0,Meditate Pokémon,0.6,11.2,50.0,180,70,5120,1000000,0,1,fighting / psychic,Generation III,balanced,small
+308,Medicham,Charemチャーレム,3,6,15.0,Meditate Pokémon,1.3,31.5,50.0,90,70,5120,1000000,0,1,fighting / psychic,Generation III,balanced,medium
+309,Electrike,Rakuraiラクライ,3,4,,Lightning Pokémon,0.6,15.2,50.0,120,70,5120,1250000,0,0,electric,Generation III,special,small
+310,Manectric,Livoltライボルト,3,4,,Discharge Pokémon,1.5,40.2,50.0,45,70,5120,1250000,0,0,electric,Generation III,special,medium
+311,Plusle,Prasleプラスル,3,4,,Cheering Pokémon,0.4,4.2,50.0,200,70,5120,1000000,0,0,electric,Generation III,special,small
+312,Minun,Minunマイナン,3,4,,Cheering Pokémon,0.4,4.2,50.0,200,70,5120,1000000,0,0,electric,Generation III,special,small
+313,Volbeat,Barubeatバルビート,3,1,,Firefly Pokémon,0.7,17.7,100.0,150,70,3840,600000,0,0,bug,Generation III,physical,small
+314,Illumise,Illumiseイルミーゼ,3,1,,Firefly Pokémon,0.6,17.7,0.0,150,70,3840,1640000,0,0,bug,Generation III,special,small
+315,Roselia,Roseliaロゼリア,3,10,14.0,Thorn Pokémon,0.3,2.0,50.0,150,70,5120,1059860,0,1,grass / poison,Generation III,special,small
+316,Gulpin,Gokulinゴクリン,3,14,,Stomach Pokémon,0.4,10.3,50.0,225,70,5120,1640000,0,0,poison,Generation III,balanced,small
+317,Swalot,Marunoomマルノーム,3,14,,Poison Bag Pokémon,1.7,80.0,50.0,75,70,5120,1640000,0,0,poison,Generation III,balanced,medium
+318,Carvanha,Kibanhaキバニア,3,18,2.0,Savage Pokémon,0.8,20.8,50.0,225,35,5120,1250000,0,1,water / dark,Generation III,physical,small
+319,Sharpedo,Samehaderサメハダー,3,18,2.0,Brutal Pokémon,1.8,88.8,50.0,60,35,5120,1250000,0,1,water / dark,Generation III,physical,medium
+320,Wailmer,Hoerukoホエルコ,3,18,,Ball Whale Pokémon,2.0,130.0,50.0,125,70,10240,1640000,0,0,water,Generation III,balanced,large
+321,Wailord,Whalohホエルオー,3,18,,Float Whale Pokémon,14.5,398.0,50.0,60,70,10240,1640000,0,0,water,Generation III,balanced,huge
+322,Numel,Donmelドンメル,3,7,11.0,Numb Pokémon,0.7,24.0,50.0,255,70,5120,1000000,0,1,fire / ground,Generation III,special,small
+323,Camerupt,Bakuudaバクーダ,3,7,11.0,Eruption Pokémon,1.9,220.0,50.0,150,70,5120,1000000,0,1,fire / ground,Generation III,special,medium
+324,Torkoal,Cotoiseコータス,3,7,,Coal Pokémon,0.5,80.4,50.0,90,70,5120,1000000,0,0,fire,Generation III,balanced,small
+325,Spoink,Banebooバネブー,3,15,,Bounce Pokémon,0.7,30.6,50.0,255,70,5120,800000,0,0,psychic,Generation III,special,small
+326,Grumpig,Boopigブーピッグ,3,15,,Manipulate Pokémon,0.9,71.5,50.0,60,70,5120,800000,0,0,psychic,Generation III,special,small
+327,Spinda,Patcheelパッチール,3,13,,Spot Panda Pokémon,1.1,5.0,50.0,255,70,3840,800000,0,0,normal,Generation III,balanced,medium
+328,Trapinch,Nuckrarナックラー,3,11,,Ant Pit Pokémon,0.7,15.0,50.0,255,70,5120,1059860,0,0,ground,Generation III,physical,small
+329,Vibrava,Vibravaビブラーバ,3,11,3.0,Vibration Pokémon,1.1,15.3,50.0,120,70,5120,1059860,0,1,ground / dragon,Generation III,physical,medium
+330,Flygon,Flygonフライゴン,3,11,3.0,Mystic Pokémon,2.0,82.0,50.0,45,70,5120,1059860,0,1,ground / dragon,Generation III,physical,large
+331,Cacnea,Saboneaサボネア,3,10,,Cactus Pokémon,0.4,51.3,50.0,190,35,5120,1059860,0,0,grass,Generation III,balanced,small
+332,Cacturne,Noctusノクタス,3,10,2.0,Scarecrow Pokémon,1.3,77.4,50.0,60,35,5120,1059860,0,1,grass / dark,Generation III,balanced,medium
+333,Swablu,Tylttoチルット,3,13,8.0,Cotton Bird Pokémon,0.4,1.2,50.0,255,70,5120,600000,0,1,normal / flying,Generation III,balanced,small
+334,Altaria,Tyltalisチルタリス,3,3,8.0,Humming Pokémon,1.1,20.6,50.0,45,70,5120,600000,0,1,dragon / flying,Generation III,balanced,medium
+335,Zangoose,Zangooseザングース,3,13,,Cat Ferret Pokémon,1.3,40.3,50.0,90,70,5120,600000,0,0,normal,Generation III,physical,medium
+336,Seviper,Habunakeハブネーク,3,14,,Fang Snake Pokémon,2.7,52.5,50.0,90,70,5120,1640000,0,0,poison,Generation III,balanced,large
+337,Lunatone,Lunatoneルナトーン,3,16,15.0,Meteorite Pokémon,1.0,168.0,,45,70,6400,800000,0,1,rock / psychic,Generation III,special,medium
+338,Solrock,Solrockソルロック,3,16,15.0,Meteorite Pokémon,1.2,154.0,,45,70,6400,800000,0,1,rock / psychic,Generation III,physical,medium
+339,Barboach,Dojoachドジョッチ,3,18,11.0,Whiskers Pokémon,0.4,1.9,50.0,190,70,5120,1000000,0,1,water / ground,Generation III,physical,small
+340,Whiscash,Namazunナマズン,3,18,11.0,Whiskers Pokémon,0.9,23.6,50.0,75,70,5120,1000000,0,1,water / ground,Generation III,physical,small
+341,Corphish,Heiganiヘイガニ,3,18,,Ruffian Pokémon,0.6,11.5,50.0,205,70,3840,1640000,0,0,water,Generation III,physical,small
+342,Crawdaunt,Shizarigerシザリガー,3,18,2.0,Rogue Pokémon,1.1,32.8,50.0,155,70,3840,1640000,0,1,water / dark,Generation III,physical,medium
+343,Baltoy,Yajilonヤジロン,3,11,15.0,Clay Doll Pokémon,0.5,21.5,,255,70,5120,1000000,0,1,ground / psychic,Generation III,balanced,small
+344,Claydol,Nendollネンドール,3,11,15.0,Clay Doll Pokémon,1.5,108.0,,90,70,5120,1000000,0,1,ground / psychic,Generation III,balanced,medium
+345,Lileep,Lilylaリリーラ,3,16,10.0,Sea Lily Pokémon,1.0,23.8,87.5,45,70,7680,600000,0,1,rock / grass,Generation III,special,medium
+346,Cradily,Yuradleユレイドル,3,16,10.0,Barnacle Pokémon,1.5,60.4,87.5,45,70,7680,600000,0,1,rock / grass,Generation III,balanced,medium
+347,Anorith,Anopthアノプス,3,16,1.0,Old Shrimp Pokémon,0.7,12.5,87.5,45,70,7680,600000,0,1,rock / bug,Generation III,physical,small
+348,Armaldo,Armaldoアーマルド,3,16,1.0,Plate Pokémon,1.5,68.2,87.5,45,70,7680,600000,0,1,rock / bug,Generation III,physical,medium
+349,Feebas,Hinbassヒンバス,3,18,,Fish Pokémon,0.6,7.4,50.0,255,70,5120,600000,0,0,water,Generation III,physical,small
+350,Milotic,Milokarossミロカロス,3,18,,Tender Pokémon,6.2,162.0,50.0,60,70,5120,600000,0,0,water,Generation III,special,huge
+351,Castform,Powalenポワルン,3,13,,Weather Pokémon,0.3,0.8,50.0,45,70,6400,1000000,0,0,normal,Generation III,balanced,small
+352,Kecleon,Kakureonカクレオン,3,13,,Color Swap Pokémon,1.0,22.0,50.0,200,70,5120,1059860,0,0,normal,Generation III,physical,medium
+353,Shuppet,Kagebouzuカゲボウズ,3,9,,Puppet Pokémon,0.6,2.3,50.0,225,35,6400,800000,0,0,ghost,Generation III,physical,small
+354,Banette,Juppetaジュペッタ,3,9,,Marionette Pokémon,1.1,12.5,50.0,45,35,6400,800000,0,0,ghost,Generation III,physical,medium
+355,Duskull,Yomawaruヨマワル,3,9,,Requiem Pokémon,0.8,15.0,50.0,190,35,6400,800000,0,0,ghost,Generation III,physical,small
+356,Dusclops,Samayouruサマヨール,3,9,,Beckon Pokémon,1.6,30.6,50.0,90,35,6400,800000,0,0,ghost,Generation III,physical,medium
+357,Tropius,Tropiusトロピウス,3,10,8.0,Fruit Pokémon,2.0,100.0,50.0,200,70,6400,1250000,0,1,grass / flying,Generation III,special,large
+358,Chimecho,Chireanチリーン,3,15,,Wind Chime Pokémon,0.6,1.0,50.0,45,70,6400,800000,0,0,psychic,Generation III,special,small
+359,Absol,Absolアブソル,3,2,,Disaster Pokémon,1.2,47.0,50.0,30,35,6400,1059860,0,0,dark,Generation III,physical,medium
+360,Wynaut,Sohnanoソーナノ,3,15,,Bright Pokémon,0.6,14.0,50.0,125,70,5120,1000000,0,0,psychic,Generation III,balanced,small
+361,Snorunt,Yukiwarashiユキワラシ,3,12,,Snow Hat Pokémon,0.7,16.8,50.0,190,70,5120,1000000,0,0,ice,Generation III,balanced,small
+362,Glalie,Onigohriオニゴーリ,3,12,,Face Pokémon,1.5,256.5,50.0,75,70,5120,1000000,0,0,ice,Generation III,balanced,medium
+363,Spheal,Tamazarashiタマザラシ,3,12,18.0,Clap Pokémon,0.8,39.5,50.0,255,70,5120,1059860,0,1,ice / water,Generation III,special,small
+364,Sealeo,Todogglerトドグラー,3,12,18.0,Ball Roll Pokémon,1.1,87.6,50.0,120,70,5120,1059860,0,1,ice / water,Generation III,special,medium
+365,Walrein,Todoserugaトドゼルガ,3,12,18.0,Ice Break Pokémon,1.4,150.6,50.0,45,70,5120,1059860,0,1,ice / water,Generation III,special,medium
+366,Clamperl,Pearluluパールル,3,18,,Bivalve Pokémon,0.4,52.5,50.0,255,70,5120,600000,0,0,water,Generation III,special,small
+367,Huntail,Huntailハンテール,3,18,,Deep Sea Pokémon,1.7,27.0,50.0,60,70,5120,600000,0,0,water,Generation III,physical,medium
+368,Gorebyss,Sakurabyssサクラビス,3,18,,South Sea Pokémon,1.8,22.6,50.0,60,70,5120,600000,0,0,water,Generation III,special,medium
+369,Relicanth,Glanthジーランス,3,18,16.0,Longevity Pokémon,1.0,23.4,87.5,25,70,10240,1250000,0,1,water / rock,Generation III,physical,medium
+370,Luvdisc,Lovecusラブカス,3,18,,Rendezvous Pokémon,0.6,8.7,25.0,225,70,5120,800000,0,0,water,Generation III,special,small
+371,Bagon,Tatsubayタツベイ,3,3,,Rock Head Pokémon,0.6,42.1,50.0,45,35,10240,1250000,0,0,dragon,Generation III,physical,small
+372,Shelgon,Komoruuコモルー,3,3,,Endurance Pokémon,1.1,110.5,50.0,45,35,10240,1250000,0,0,dragon,Generation III,physical,medium
+373,Salamence,Bohmanderボーマンダ,3,3,8.0,Dragon Pokémon,1.5,102.6,50.0,45,35,10240,1250000,0,1,dragon / flying,Generation III,physical,medium
+374,Beldum,Dumbberダンバル,3,17,15.0,Iron Ball Pokémon,0.6,95.2,,3,35,10240,1250000,0,1,steel / psychic,Generation III,physical,small
+375,Metang,Metangメタング,3,17,15.0,Iron Claw Pokémon,1.2,202.5,,3,35,10240,1250000,0,1,steel / psychic,Generation III,physical,medium
+376,Metagross,Metagrossメタグロス,3,17,15.0,Iron Leg Pokémon,1.6,550.0,,3,35,10240,1250000,0,1,steel / psychic,Generation III,physical,medium
+377,Regirock,Regirockレジロック,3,16,,Rock Peak Pokémon,1.7,230.0,,3,35,20480,1250000,1,0,rock,Generation III,physical,medium
+378,Regice,Regiceレジアイス,3,12,,Iceberg Pokémon,1.8,175.0,,3,35,20480,1250000,1,0,ice,Generation III,special,medium
+379,Registeel,Registeelレジスチル,3,17,,Iron Pokémon,1.9,205.0,,3,35,20480,1250000,1,0,steel,Generation III,balanced,medium
+380,Latias,Latiasラティアス,3,3,15.0,Eon Pokémon,1.4,40.0,0.0,3,90,30720,1250000,1,1,dragon / psychic,Generation III,special,medium
+381,Latios,Latiosラティオス,3,3,15.0,Eon Pokémon,2.0,60.0,100.0,3,90,30720,1250000,1,1,dragon / psychic,Generation III,special,large
+382,Kyogre,Kyogreカイオーガ,3,18,,Sea Basin Pokémon,4.5,352.0,,3,0,30720,1250000,1,0,water,Generation III,special,huge
+383,Groudon,Groudonグラードン,3,11,,Continent Pokémon,3.5,950.0,,3,0,30720,1250000,1,0,ground,Generation III,physical,large
+384,Rayquaza,Rayquazaレックウザ,3,3,8.0,Sky High Pokémon,7.0,206.5,,45,0,30720,1250000,1,1,dragon / flying,Generation III,balanced,huge
+385,Jirachi,Jirachiジラーチ,3,17,15.0,Wish Pokémon,0.3,1.1,,3,100,30720,1250000,1,1,steel / psychic,Generation III,balanced,small
+386,Deoxys,Deoxysデオキシス,3,15,,DNA Pokémon,1.7,60.8,,3,0,30720,1250000,1,0,psychic,Generation III,balanced,medium
+387,Turtwig,Naetleナエトル,4,10,,Tiny Leaf Pokémon,0.4,10.2,87.5,45,70,5120,1059860,0,0,grass,Generation IV,physical,small
+388,Grotle,Hayashigameハヤシガメ,4,10,,Grove Pokémon,1.1,97.0,87.5,45,70,5120,1059860,0,0,grass,Generation IV,physical,medium
+389,Torterra,Dodaitoseドダイトス,4,10,11.0,Continent Pokémon,2.2,310.0,87.5,45,70,5120,1059860,0,1,grass / ground,Generation IV,physical,large
+390,Chimchar,Hikozaruヒコザル,4,7,,Chimp Pokémon,0.5,6.2,87.5,45,70,5120,1059860,0,0,fire,Generation IV,balanced,small
+391,Monferno,Moukazaruモウカザル,4,7,6.0,Playful Pokémon,0.9,22.0,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation IV,balanced,small
+392,Infernape,Goukazaruゴウカザル,4,7,6.0,Flame Pokémon,1.2,55.0,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation IV,balanced,medium
+393,Piplup,Pochamaポッチャマ,4,18,,Penguin Pokémon,0.4,5.2,87.5,45,70,5120,1059860,0,0,water,Generation IV,special,small
+394,Prinplup,Pottaishiポッタイシ,4,18,,Penguin Pokémon,0.8,23.0,87.5,45,70,5120,1059860,0,0,water,Generation IV,special,small
+395,Empoleon,Emperteエンペルト,4,18,17.0,Emperor Pokémon,1.7,84.5,87.5,45,70,5120,1059860,0,1,water / steel,Generation IV,special,medium
+396,Starly,Mukkuruムックル,4,13,8.0,Starling Pokémon,0.3,2.0,50.0,255,70,3840,1059860,0,1,normal / flying,Generation IV,physical,small
+397,Staravia,Mukubirdムクバード,4,13,8.0,Starling Pokémon,0.6,15.5,50.0,120,70,3840,1059860,0,1,normal / flying,Generation IV,physical,small
+398,Staraptor,Mukuhawkムクホーク,4,13,8.0,Predator Pokémon,1.2,24.9,50.0,45,70,3840,1059860,0,1,normal / flying,Generation IV,physical,medium
+399,Bidoof,Bippaビッパ,4,13,,Plump Mouse Pokémon,0.5,20.0,50.0,255,70,3840,1000000,0,0,normal,Generation IV,physical,small
+400,Bibarel,Beadaruビーダル,4,13,18.0,Beaver Pokémon,1.0,31.5,50.0,127,70,3840,1000000,0,1,normal / water,Generation IV,physical,medium
+401,Kricketot,Korobohshiコロボーシ,4,1,,Cricket Pokémon,0.3,2.2,50.0,255,70,3840,1059860,0,0,bug,Generation IV,balanced,small
+402,Kricketune,Korotockコロトック,4,1,,Cricket Pokémon,1.0,25.5,50.0,45,70,3840,1059860,0,0,bug,Generation IV,physical,medium
+403,Shinx,Kolinkコリンク,4,4,,Flash Pokémon,0.5,9.5,50.0,235,70,5120,1059860,0,0,electric,Generation IV,physical,small
+404,Luxio,Luxioルクシオ,4,4,,Spark Pokémon,0.9,30.5,50.0,120,100,5120,1059860,0,0,electric,Generation IV,physical,small
+405,Luxray,Rentorarレントラー,4,4,,Gleam Eyes Pokémon,1.4,42.0,50.0,45,70,5120,1059860,0,0,electric,Generation IV,physical,medium
+406,Budew,Subomieスボミー,4,10,14.0,Bud Pokémon,0.2,1.2,50.0,255,70,5120,1059860,0,1,grass / poison,Generation IV,special,small
+407,Roserade,Roseradeロズレイド,4,10,14.0,Bouquet Pokémon,0.9,14.5,50.0,75,70,5120,1059860,0,1,grass / poison,Generation IV,special,small
+408,Cranidos,Zugaidosズガイドス,4,16,,Head Butt Pokémon,0.9,31.5,87.5,45,70,7680,600000,0,0,rock,Generation IV,physical,small
+409,Rampardos,Rampaldラムパルド,4,16,,Head Butt Pokémon,1.6,102.5,87.5,45,70,7680,600000,0,0,rock,Generation IV,physical,medium
+410,Shieldon,Tatetopsタテトプス,4,16,17.0,Shield Pokémon,0.5,57.0,87.5,45,70,7680,600000,0,1,rock / steel,Generation IV,balanced,small
+411,Bastiodon,Toridepsトリデプス,4,16,17.0,Shield Pokémon,1.3,149.5,87.5,45,70,7680,600000,0,1,rock / steel,Generation IV,physical,medium
+412,Burmy,Minomucchiミノムッチ,4,1,,Bagworm Pokémon,0.2,3.4,50.0,120,70,3840,1000000,0,0,bug,Generation IV,balanced,small
+413,Wormadam,Minomadamミノマダム,4,1,10.0,Bagworm Pokémon,0.5,6.5,0.0,45,70,3840,1000000,0,1,bug / grass,Generation IV,special,small
+414,Mothim,Gamaleガーメイル,4,1,8.0,Moth Pokémon,0.9,23.3,100.0,45,70,3840,1000000,0,1,bug / flying,Generation IV,balanced,small
+415,Combee,Mitsuhoneyミツハニー,4,1,8.0,Tiny Bee Pokémon,0.3,5.5,87.5,120,70,3840,1059860,0,1,bug / flying,Generation IV,balanced,small
+416,Vespiquen,Beequenビークイン,4,1,8.0,Beehive Pokémon,1.2,38.5,0.0,45,70,3840,1059860,0,1,bug / flying,Generation IV,balanced,medium
+417,Pachirisu,Pachirisuパチリス,4,4,,EleSquirrel Pokémon,0.4,3.9,50.0,200,100,2560,1000000,0,0,electric,Generation IV,balanced,small
+418,Buizel,Buoyselブイゼル,4,18,,Sea Weasel Pokémon,0.7,29.5,50.0,190,70,5120,1000000,0,0,water,Generation IV,physical,small
+419,Floatzel,Floazelフローゼル,4,18,,Sea Weasel Pokémon,1.1,33.5,50.0,75,70,5120,1000000,0,0,water,Generation IV,physical,medium
+420,Cherubi,Cherinboチェリンボ,4,10,,Cherry Pokémon,0.4,3.3,50.0,190,70,5120,1000000,0,0,grass,Generation IV,special,small
+421,Cherrim,Cherrimチェリム,4,10,,Blossom Pokémon,0.5,9.3,50.0,75,70,5120,1000000,0,0,grass,Generation IV,special,small
+422,Shellos,Karanakushiカラナクシ,4,18,,Sea Slug Pokémon,0.3,6.3,50.0,190,70,5120,1000000,0,0,water,Generation IV,special,small
+423,Gastrodon,Tritodonトリトドン,4,18,11.0,Sea Slug Pokémon,0.9,29.9,50.0,75,70,5120,1000000,0,1,water / ground,Generation IV,special,small
+424,Ambipom,Etebothエテボース,4,13,,Long Tail Pokémon,1.2,20.3,50.0,45,100,5120,800000,0,0,normal,Generation IV,physical,medium
+425,Drifloon,Fuwanteフワンテ,4,9,8.0,Balloon Pokémon,0.4,1.2,50.0,125,70,7680,1640000,0,1,ghost / flying,Generation IV,special,small
+426,Drifblim,Fuwarideフワライド,4,9,8.0,Blimp Pokémon,1.2,15.0,50.0,60,70,7680,1640000,0,1,ghost / flying,Generation IV,special,medium
+427,Buneary,Mimirolミミロル,4,13,,Rabbit Pokémon,0.4,5.5,50.0,190,0,5120,1000000,0,0,normal,Generation IV,physical,small
+428,Lopunny,Mimilopミミロップ,4,13,,Rabbit Pokémon,1.2,33.3,50.0,60,140,5120,1000000,0,0,normal,Generation IV,physical,medium
+429,Mismagius,Mumargiムウマージ,4,9,,Magical Pokémon,0.9,4.4,50.0,45,35,6400,800000,0,0,ghost,Generation IV,special,small
+430,Honchkrow,Dongkarasuドンカラス,4,2,8.0,Big Boss Pokémon,0.9,27.3,50.0,30,35,5120,1059860,0,1,dark / flying,Generation IV,physical,small
+431,Glameow,Nyarmarニャルマー,4,13,,Catty Pokémon,0.5,3.9,25.0,190,70,5120,800000,0,0,normal,Generation IV,physical,small
+432,Purugly,Bunyattoブニャット,4,13,,Tiger Cat Pokémon,1.0,43.8,25.0,75,70,5120,800000,0,0,normal,Generation IV,physical,medium
+433,Chingling,Lisyanリーシャン,4,15,,Bell Pokémon,0.2,0.6,50.0,120,70,6400,800000,0,0,psychic,Generation IV,special,small
+434,Stunky,Skunpuuスカンプー,4,14,2.0,Skunk Pokémon,0.4,19.2,50.0,225,70,5120,1000000,0,1,poison / dark,Generation IV,physical,small
+435,Skuntank,Skutankスカタンク,4,14,2.0,Skunk Pokémon,1.0,38.0,50.0,60,70,5120,1000000,0,1,poison / dark,Generation IV,physical,medium
+436,Bronzor,Dohmirrorドーミラー,4,17,15.0,Bronze Pokémon,0.5,60.5,,255,70,5120,1000000,0,1,steel / psychic,Generation IV,balanced,small
+437,Bronzong,Dohtakunドータクン,4,17,15.0,Bronze Bell Pokémon,1.3,187.0,,90,70,5120,1000000,0,1,steel / psychic,Generation IV,physical,medium
+438,Bonsly,Usohachiウソハチ,4,16,,Bonsai Pokémon,0.5,15.0,50.0,255,70,5120,1000000,0,0,rock,Generation IV,physical,small
+439,Mime Jr.,Maneneマネネ,4,15,5.0,Mime Pokémon,0.6,13.0,50.0,145,70,6400,1000000,0,1,psychic / fairy,Generation IV,special,small
+440,Happiny,Pinpukuピンプク,4,13,,Playhouse Pokémon,0.6,24.4,0.0,130,140,10240,800000,0,0,normal,Generation IV,special,small
+441,Chatot,Perapペラップ,4,13,8.0,Music Note Pokémon,0.5,1.9,50.0,30,35,5120,1059860,0,1,normal / flying,Generation IV,special,small
+442,Spiritomb,Mikarugeミカルゲ,4,9,2.0,Forbidden Pokémon,1.0,108.0,50.0,100,70,7680,1000000,0,1,ghost / dark,Generation IV,balanced,medium
+443,Gible,Fukamaruフカマル,4,3,11.0,Land Shark Pokémon,0.7,20.5,50.0,45,70,10240,1250000,0,1,dragon / ground,Generation IV,physical,small
+444,Gabite,Gabiteガバイト,4,3,11.0,Cave Pokémon,1.4,56.0,50.0,45,70,10240,1250000,0,1,dragon / ground,Generation IV,physical,medium
+445,Garchomp,Gaburiasガブリアス,4,3,11.0,Mach Pokémon,1.9,95.0,50.0,45,70,10240,1250000,0,1,dragon / ground,Generation IV,physical,medium
+446,Munchlax,Gonbeゴンベ,4,13,,Big Eater Pokémon,0.6,105.0,87.5,50,70,10240,1250000,0,0,normal,Generation IV,physical,small
+447,Riolu,Rioluリオル,4,6,,Emanation Pokémon,0.7,20.2,87.5,75,70,6400,1059860,0,0,fighting,Generation IV,physical,small
+448,Lucario,Lucarioルカリオ,4,6,17.0,Aura Pokémon,1.2,54.0,87.5,45,70,6400,1059860,0,1,fighting / steel,Generation IV,special,medium
+449,Hippopotas,Hippopotasヒポポタス,4,11,,Hippo Pokémon,0.8,49.5,50.0,140,70,7680,1250000,0,0,ground,Generation IV,physical,small
+450,Hippowdon,Kabaldonカバルドン,4,11,,Heavyweight Pokémon,2.0,300.0,50.0,60,70,7680,1250000,0,0,ground,Generation IV,physical,large
+451,Skorupi,Scorupiスコルピ,4,14,1.0,Scorpion Pokémon,0.8,12.0,50.0,120,70,5120,1250000,0,1,poison / bug,Generation IV,physical,small
+452,Drapion,Dorapionドラピオン,4,14,2.0,Ogre Scorpion Pokémon,1.3,61.5,50.0,45,70,5120,1250000,0,1,poison / dark,Generation IV,physical,medium
+453,Croagunk,Gureggruグレッグル,4,14,6.0,Toxic Mouth Pokémon,0.7,23.0,50.0,140,100,2560,1000000,0,1,poison / fighting,Generation IV,balanced,small
+454,Toxicroak,Dokurogドクロッグ,4,14,6.0,Toxic Mouth Pokémon,1.3,44.4,50.0,75,70,5120,1000000,0,1,poison / fighting,Generation IV,physical,medium
+455,Carnivine,Muskippaマスキッパ,4,10,,Bug Catcher Pokémon,1.4,27.0,50.0,200,70,6400,1250000,0,0,grass,Generation IV,physical,medium
+456,Finneon,Keikouoケイコウオ,4,18,,Wing Fish Pokémon,0.4,7.0,50.0,190,70,5120,600000,0,0,water,Generation IV,balanced,small
+457,Lumineon,Neolantネオラント,4,18,,Neon Pokémon,1.2,24.0,50.0,75,70,5120,600000,0,0,water,Generation IV,balanced,medium
+458,Mantyke,Tamantaタマンタ,4,18,8.0,Kite Pokémon,1.0,65.0,50.0,25,70,6400,1250000,0,1,water / flying,Generation IV,special,medium
+459,Snover,Yukikaburiユキカブリ,4,10,12.0,Frost Tree Pokémon,1.0,50.5,50.0,120,70,5120,1250000,0,1,grass / ice,Generation IV,balanced,medium
+460,Abomasnow,Yukinoohユキノオー,4,10,12.0,Frost Tree Pokémon,2.2,135.5,50.0,60,70,5120,1250000,0,1,grass / ice,Generation IV,balanced,large
+461,Weavile,Manyulaマニューラ,4,2,12.0,Sharp Claw Pokémon,1.1,34.0,50.0,45,35,5120,1059860,0,1,dark / ice,Generation IV,physical,medium
+462,Magnezone,Jibacoilジバコイル,4,4,17.0,Magnet Area Pokémon,1.2,180.0,,30,70,5120,1000000,0,1,electric / steel,Generation IV,special,medium
+463,Lickilicky,Berobeltベロベルト,4,13,,Licking Pokémon,1.7,140.0,50.0,30,70,5120,1000000,0,0,normal,Generation IV,physical,medium
+464,Rhyperior,Dosidonドサイドン,4,11,16.0,Drill Pokémon,2.4,282.8,50.0,30,70,5120,1250000,0,1,ground / rock,Generation IV,physical,large
+465,Tangrowth,Mojumboモジャンボ,4,10,,Vine Pokémon,2.0,128.6,50.0,30,70,5120,1000000,0,0,grass,Generation IV,special,large
+466,Electivire,Elekibleエレキブル,4,4,,Thunderbolt Pokémon,1.8,138.6,75.0,30,70,6400,1000000,0,0,electric,Generation IV,physical,medium
+467,Magmortar,Booburnブーバーン,4,7,,Blast Pokémon,1.6,68.0,75.0,30,70,6400,1000000,0,0,fire,Generation IV,special,medium
+468,Togekiss,Togekissトゲキッス,4,5,8.0,Jubilee Pokémon,1.5,38.0,87.5,30,70,2560,800000,0,1,fairy / flying,Generation IV,special,medium
+469,Yanmega,Megayanmaメガヤンマ,4,1,8.0,Ogre Darner Pokémon,1.9,51.5,50.0,30,70,5120,1000000,0,1,bug / flying,Generation IV,special,medium
+470,Leafeon,Leafiaリーフィア,4,10,,Verdant Pokémon,1.0,25.5,87.5,45,35,8960,1000000,0,0,grass,Generation IV,physical,medium
+471,Glaceon,Glaciaグレイシア,4,12,,Fresh Snow Pokémon,0.8,25.9,87.5,45,35,8960,1000000,0,0,ice,Generation IV,special,small
+472,Gliscor,Glionグライオン,4,11,8.0,Fang Scorpion Pokémon,2.0,42.5,50.0,30,70,5120,1059860,0,1,ground / flying,Generation IV,physical,large
+473,Mamoswine,Mammooマンムー,4,12,11.0,Twin Tusk Pokémon,2.5,291.0,50.0,50,70,5120,1250000,0,1,ice / ground,Generation IV,physical,large
+474,Porygon-Z,Porygon-ZポリゴンＺ,4,13,,Virtual Pokémon,0.9,34.0,,30,70,5120,1000000,0,0,normal,Generation IV,special,small
+475,Gallade,Erureidoエルレイド,4,15,6.0,Blade Pokémon,1.6,52.0,100.0,45,35,5120,1250000,0,1,psychic / fighting,Generation IV,physical,medium
+476,Probopass,Dainoseダイノーズ,4,16,17.0,Compass Pokémon,1.4,340.0,50.0,60,70,5120,1000000,0,1,rock / steel,Generation IV,special,medium
+477,Dusknoir,Yonoirヨノワール,4,9,,Gripper Pokémon,2.2,106.6,50.0,45,35,6400,800000,0,0,ghost,Generation IV,physical,large
+478,Froslass,Yukimenokoユキメノコ,4,12,9.0,Snow Land Pokémon,1.3,26.6,0.0,75,70,5120,1000000,0,1,ice / ghost,Generation IV,balanced,medium
+479,Rotom,Rotomロトム,4,4,9.0,Plasma Pokémon,0.3,0.3,,45,70,5120,1000000,0,1,electric / ghost,Generation IV,special,small
+480,Uxie,Yuxieユクシー,4,15,,Knowledge Pokémon,0.3,0.3,,3,140,20480,1250000,1,0,psychic,Generation IV,balanced,small
+481,Mesprit,Emritエムリット,4,15,,Emotion Pokémon,0.3,0.3,,3,140,20480,1250000,1,0,psychic,Generation IV,balanced,small
+482,Azelf,Agnomeアグノム,4,15,,Willpower Pokémon,0.3,0.3,,3,140,20480,1250000,1,0,psychic,Generation IV,balanced,small
+483,Dialga,Dialgaディアルガ,4,17,3.0,Temporal Pokémon,5.4,683.0,,3,0,30720,1250000,1,1,steel / dragon,Generation IV,special,huge
+484,Palkia,Palkiaパルキア,4,18,3.0,Spatial Pokémon,4.2,336.0,,3,0,30720,1250000,1,1,water / dragon,Generation IV,special,huge
+485,Heatran,Heatranヒードラン,4,7,17.0,Lava Dome Pokémon,1.7,430.0,50.0,3,100,2560,1250000,1,1,fire / steel,Generation IV,special,medium
+486,Regigigas,Regigigasレジギガス,4,13,,Colossal Pokémon,3.7,420.0,,3,0,30720,1250000,1,0,normal,Generation IV,physical,large
+487,Giratina,Giratinaギラティナ,4,9,3.0,Renegade Pokémon,4.5,750.0,,3,0,30720,1250000,1,1,ghost / dragon,Generation IV,balanced,huge
+488,Cresselia,Cresseliaクレセリア,4,15,,Lunar Pokémon,1.5,85.6,0.0,3,100,30720,1250000,1,0,psychic,Generation IV,special,medium
+489,Phione,Phioneフィオネ,4,18,,Sea Drifter Pokémon,0.4,3.1,,30,70,10240,1250000,1,0,water,Generation IV,balanced,small
+490,Manaphy,Manaphyマナフィ,4,18,,Seafaring Pokémon,0.3,1.4,,3,70,2560,1250000,1,0,water,Generation IV,balanced,small
+491,Darkrai,Darkraiダークライ,4,2,,Pitch-Black Pokémon,1.5,50.5,,3,0,30720,1250000,1,0,dark,Generation IV,special,medium
+492,Shaymin,Shayminシェイミ,4,10,,Gratitude Pokémon,0.2,2.1,,45,100,30720,1059860,1,0,grass,Generation IV,balanced,small
+493,Arceus,Arceusアルセウス,4,13,,Alpha Pokémon,3.2,320.0,,3,0,30720,1250000,1,0,normal,Generation IV,balanced,large
+494,Victini,Victiniビクティニ,5,15,7.0,Victory Pokémon,0.4,4.0,,3,100,30720,1250000,1,1,psychic / fire,Generation V,balanced,small
+495,Snivy,Tsutarjaツタージャ,5,10,,Grass Snake Pokémon,0.6,8.1,87.5,45,70,5120,1059860,0,0,grass,Generation V,balanced,small
+496,Servine,Janovyジャノビー,5,10,,Grass Snake Pokémon,0.8,16.0,87.5,45,70,5120,1059860,0,0,grass,Generation V,balanced,small
+497,Serperior,Jalordaジャローダ,5,10,,Regal Pokémon,3.3,63.0,87.5,45,70,5120,1059860,0,0,grass,Generation V,balanced,large
+498,Tepig,Pokabuポカブ,5,7,,Fire Pig Pokémon,0.5,9.9,87.5,45,70,5120,1059860,0,0,fire,Generation V,physical,small
+499,Pignite,Chaobooチャオブー,5,7,6.0,Fire Pig Pokémon,1.0,55.5,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation V,physical,medium
+500,Emboar,Enbuohエンブオー,5,7,6.0,Mega Fire Pig Pokémon,1.6,150.0,87.5,45,70,5120,1059860,0,1,fire / fighting,Generation V,physical,medium
+501,Oshawott,Mijumaruミジュマル,5,18,,Sea Otter Pokémon,0.5,5.9,87.5,45,70,5120,1059860,0,0,water,Generation V,special,small
+502,Dewott,Futachimaruフタチマル,5,18,,Discipline Pokémon,0.8,24.5,87.5,45,70,5120,1059860,0,0,water,Generation V,special,small
+503,Samurott,Daikenkiダイケンキ,5,18,,Formidable Pokémon,1.5,94.6,87.5,45,70,5120,1059860,0,0,water,Generation V,special,medium
+504,Patrat,Minezumiミネズミ,5,13,,Scout Pokémon,0.5,11.6,50.0,255,70,3840,1000000,0,0,normal,Generation V,physical,small
+505,Watchog,Miruhogミルホッグ,5,13,,Lookout Pokémon,1.1,27.0,50.0,255,70,5120,1000000,0,0,normal,Generation V,physical,medium
+506,Lillipup,Yorterrieヨーテリー,5,13,,Puppy Pokémon,0.4,4.1,50.0,255,70,3840,1059860,0,0,normal,Generation V,physical,small
+507,Herdier,Herderrieハーデリア,5,13,,Loyal Dog Pokémon,0.9,14.7,50.0,120,70,3840,1059860,0,0,normal,Generation V,physical,small
+508,Stoutland,Moolandムーランド,5,13,,Big-Hearted Pokémon,1.2,61.0,50.0,45,70,3840,1059860,0,0,normal,Generation V,physical,medium
+509,Purrloin,Choronekoチョロネコ,5,2,,Devious Pokémon,0.4,10.1,50.0,255,70,5120,1000000,0,0,dark,Generation V,balanced,small
+510,Liepard,Lepardasレパルダス,5,2,,Cruel Pokémon,1.1,37.5,50.0,90,70,5120,1000000,0,0,dark,Generation V,balanced,medium
+511,Pansage,Yanappuヤナップ,5,10,,Grass Monkey Pokémon,0.6,10.5,87.5,190,70,5120,1000000,0,0,grass,Generation V,balanced,small
+512,Simisage,Yanakkieヤナッキー,5,10,,Thorn Monkey Pokémon,1.1,30.5,87.5,75,70,5120,1000000,0,0,grass,Generation V,balanced,medium
+513,Pansear,Baoppuバオップ,5,7,,High Temp Pokémon,0.6,11.0,87.5,190,70,5120,1000000,0,0,fire,Generation V,balanced,small
+514,Simisear,Baokkieバオッキー,5,7,,Ember Pokémon,1.0,28.0,87.5,75,70,5120,1000000,0,0,fire,Generation V,balanced,medium
+515,Panpour,Hiyappuヒヤップ,5,18,,Spray Pokémon,0.6,13.5,87.5,190,70,5120,1000000,0,0,water,Generation V,balanced,small
+516,Simipour,Hiyakkieヒヤッキー,5,18,,Geyser Pokémon,1.0,29.0,87.5,75,70,5120,1000000,0,0,water,Generation V,balanced,medium
+517,Munna,Munnaムンナ,5,15,,Dream Eater Pokémon,0.6,23.3,50.0,190,70,2560,800000,0,0,psychic,Generation V,special,small
+518,Musharna,Musharnaムシャーナ,5,15,,Drowsing Pokémon,1.1,60.5,50.0,75,70,2560,800000,0,0,psychic,Generation V,special,medium
+519,Pidove,Mamepatoマメパト,5,13,8.0,Tiny Pigeon Pokémon,0.3,2.1,50.0,255,70,3840,1059860,0,1,normal / flying,Generation V,physical,small
+520,Tranquill,Hatobohハトーボー,5,13,8.0,Wild Pigeon Pokémon,0.6,15.0,50.0,120,70,3840,1059860,0,1,normal / flying,Generation V,physical,small
+521,Unfezant,Kenhallowケンホロウ,5,13,8.0,Proud Pokémon,1.2,29.0,50.0,45,70,3840,1059860,0,1,normal / flying,Generation V,physical,medium
+522,Blitzle,Shimamaシママ,5,4,,Electrified Pokémon,0.8,29.8,50.0,190,70,5120,1000000,0,0,electric,Generation V,physical,small
+523,Zebstrika,Zebraikaゼブライカ,5,4,,Thunderbolt Pokémon,1.6,79.5,50.0,75,70,5120,1000000,0,0,electric,Generation V,physical,medium
+524,Roggenrola,Dangoroダンゴロ,5,16,,Mantle Pokémon,0.4,18.0,50.0,255,70,3840,1059860,0,0,rock,Generation V,physical,small
+525,Boldore,Gantleガントル,5,16,,Ore Pokémon,0.9,102.0,50.0,120,70,3840,1059860,0,0,rock,Generation V,physical,small
+526,Gigalith,Gigaiathギガイアス,5,16,,Compressed Pokémon,1.7,260.0,50.0,45,70,3840,1059860,0,0,rock,Generation V,physical,medium
+527,Woobat,Koromoriコロモリ,5,15,8.0,Bat Pokémon,0.4,2.1,50.0,190,70,3840,1000000,0,1,psychic / flying,Generation V,special,small
+528,Swoobat,Kokoromoriココロモリ,5,15,8.0,Courting Pokémon,0.9,10.5,50.0,45,70,3840,1000000,0,1,psychic / flying,Generation V,special,small
+529,Drilbur,Mogurewモグリュー,5,11,,Mole Pokémon,0.3,8.5,50.0,120,70,5120,1000000,0,0,ground,Generation V,physical,small
+530,Excadrill,Doryuzuドリュウズ,5,11,17.0,Subterrene Pokémon,0.7,40.4,50.0,60,70,5120,1000000,0,1,ground / steel,Generation V,physical,small
+531,Audino,Tabunneタブンネ,5,13,,Hearing Pokémon,1.1,31.0,50.0,255,70,5120,800000,0,0,normal,Generation V,balanced,medium
+532,Timburr,Dokkorerドッコラー,5,6,,Muscular Pokémon,0.6,12.5,75.0,180,70,5120,1059860,0,0,fighting,Generation V,physical,small
+533,Gurdurr,Dotekkotsuドテッコツ,5,6,,Muscular Pokémon,1.2,40.0,75.0,90,70,5120,1059860,0,0,fighting,Generation V,physical,medium
+534,Conkeldurr,Roubushinローブシン,5,6,,Muscular Pokémon,1.4,87.0,75.0,45,70,5120,1059860,0,0,fighting,Generation V,physical,medium
+535,Tympole,Otamaroオタマロ,5,18,,Tadpole Pokémon,0.5,4.5,50.0,255,70,5120,1059860,0,0,water,Generation V,balanced,small
+536,Palpitoad,Gamagaruガマガル,5,18,11.0,Vibration Pokémon,0.8,17.0,50.0,120,70,5120,1059860,0,1,water / ground,Generation V,balanced,small
+537,Seismitoad,Gamagerogeガマゲロゲ,5,18,11.0,Vibration Pokémon,1.5,62.0,50.0,45,70,5120,1059860,0,1,water / ground,Generation V,physical,medium
+538,Throh,Nagekiナゲキ,5,6,,Judo Pokémon,1.3,55.5,100.0,45,70,5120,1000000,0,0,fighting,Generation V,physical,medium
+539,Sawk,Dagekiダゲキ,5,6,,Karate Pokémon,1.4,51.0,100.0,45,70,5120,1000000,0,0,fighting,Generation V,physical,medium
+540,Sewaddle,Kurumiruクルミル,5,1,10.0,Sewing Pokémon,0.3,2.5,50.0,255,70,3840,1059860,0,1,bug / grass,Generation V,physical,small
+541,Swadloon,Kurumayuクルマユ,5,1,10.0,Leaf-Wrapped Pokémon,0.5,7.3,50.0,120,70,3840,1059860,0,1,bug / grass,Generation V,physical,small
+542,Leavanny,Hahakomoriハハコモリ,5,1,10.0,Nurturing Pokémon,1.2,20.5,50.0,45,70,3840,1059860,0,1,bug / grass,Generation V,physical,medium
+543,Venipede,Fushideフシデ,5,1,14.0,Centipede Pokémon,0.4,5.3,50.0,255,70,3840,1059860,0,1,bug / poison,Generation V,physical,small
+544,Whirlipede,Wheegaホイーガ,5,1,14.0,Curlipede Pokémon,1.2,58.5,50.0,120,70,3840,1059860,0,1,bug / poison,Generation V,physical,medium
+545,Scolipede,Pendrorペンドラー,5,1,14.0,Megapede Pokémon,2.5,200.5,50.0,45,70,5120,1059860,0,1,bug / poison,Generation V,physical,large
+546,Cottonee,Monmenモンメン,5,10,5.0,Cotton Puff Pokémon,0.3,0.6,50.0,190,70,5120,1000000,0,1,grass / fairy,Generation V,special,small
+547,Whimsicott,Elfuunエルフーン,5,10,5.0,Windveiled Pokémon,0.7,6.6,50.0,75,70,5120,1000000,0,1,grass / fairy,Generation V,special,small
+548,Petilil,Churineチュリネ,5,10,,Bulb Pokémon,0.5,6.6,0.0,190,70,5120,1000000,0,0,grass,Generation V,special,small
+549,Lilligant,Dredearドレディア,5,10,,Flowering Pokémon,1.1,16.3,0.0,75,70,5120,1000000,0,0,grass,Generation V,special,medium
+550,Basculin,Bassraoバスラオ,5,18,,Hostile Pokémon,1.0,18.0,50.0,25,70,10240,1000000,0,0,water,Generation V,physical,medium
+551,Sandile,Megurocoメグロコ,5,11,2.0,Desert Croc Pokémon,0.7,15.2,50.0,180,70,5120,1059860,0,1,ground / dark,Generation V,physical,small
+552,Krokorok,Waruvileワルビル,5,11,2.0,Desert Croc Pokémon,1.0,33.4,50.0,90,70,5120,1059860,0,1,ground / dark,Generation V,physical,medium
+553,Krookodile,Waruvialワルビアル,5,11,2.0,Intimidation Pokémon,1.5,96.3,50.0,45,70,5120,1059860,0,1,ground / dark,Generation V,physical,medium
+554,Darumaka,Darumakkaダルマッカ,5,7,,Zen Charm Pokémon,0.6,37.5,50.0,120,70,5120,1059860,0,0,fire,Generation V,physical,small
+555,Darmanitan,Hihidarumaヒヒダルマ,5,7,,Blazing Pokémon,1.3,92.9,50.0,60,70,5120,1059860,0,0,fire,Generation V,physical,medium
+556,Maractus,Maracacchiマラカッチ,5,10,,Cactus Pokémon,1.0,28.0,50.0,255,70,5120,1000000,0,0,grass,Generation V,special,medium
+557,Dwebble,Ishizumaiイシズマイ,5,1,16.0,Rock Inn Pokémon,0.3,14.5,50.0,190,70,5120,1000000,0,1,bug / rock,Generation V,physical,small
+558,Crustle,Iwapalaceイワパレス,5,1,16.0,Stone Home Pokémon,1.4,200.0,50.0,75,70,5120,1000000,0,1,bug / rock,Generation V,physical,medium
+559,Scraggy,Zurugguズルッグ,5,2,6.0,Shedding Pokémon,0.6,11.8,50.0,180,35,3840,1000000,0,1,dark / fighting,Generation V,physical,small
+560,Scrafty,Zuruzukinズルズキン,5,2,6.0,Hoodlum Pokémon,1.1,30.0,50.0,90,70,3840,1000000,0,1,dark / fighting,Generation V,physical,medium
+561,Sigilyph,Symbolerシンボラー,5,15,8.0,Avianoid Pokémon,1.4,14.0,50.0,45,70,5120,1000000,0,1,psychic / flying,Generation V,special,medium
+562,Yamask,Desumasuデスマス,5,9,,Spirit Pokémon,0.5,1.5,50.0,190,70,6400,1000000,0,0,ghost,Generation V,special,small
+563,Cofagrigus,Desukarnデスカーン,5,9,,Coffin Pokémon,1.7,76.5,50.0,90,70,6400,1000000,0,0,ghost,Generation V,special,medium
+564,Tirtouga,Protogaプロトーガ,5,18,16.0,Prototurtle Pokémon,0.7,16.5,87.5,45,70,7680,1000000,0,1,water / rock,Generation V,physical,small
+565,Carracosta,Abagouraアバゴーラ,5,18,16.0,Prototurtle Pokémon,1.2,81.0,87.5,45,70,7680,1000000,0,1,water / rock,Generation V,physical,medium
+566,Archen,Archenアーケン,5,16,8.0,First Bird Pokémon,0.5,9.5,87.5,45,70,7680,1000000,0,1,rock / flying,Generation V,physical,small
+567,Archeops,Archeosアーケオス,5,16,8.0,First Bird Pokémon,1.4,32.0,87.5,45,70,7680,1000000,0,1,rock / flying,Generation V,physical,medium
+568,Trubbish,Yabukuronヤブクロン,5,14,,Trash Bag Pokémon,0.6,31.0,50.0,190,70,5120,1000000,0,0,poison,Generation V,physical,small
+569,Garbodor,Dustdasダストダス,5,14,,Trash Heap Pokémon,1.9,107.3,50.0,60,70,5120,1000000,0,0,poison,Generation V,physical,medium
+570,Zorua,Zoruaゾロア,5,2,,Tricky Fox Pokémon,0.7,12.5,87.5,75,70,6400,1059860,0,0,dark,Generation V,special,small
+571,Zoroark,Zoroarkゾロアーク,5,2,,Illusion Fox Pokémon,1.6,81.1,87.5,45,70,5120,1059860,0,0,dark,Generation V,special,medium
+572,Minccino,Chillarmyチラーミィ,5,13,,Chinchilla Pokémon,0.4,5.8,25.0,255,70,3840,800000,0,0,normal,Generation V,physical,small
+573,Cinccino,Chillaccinoチラチーノ,5,13,,Scarf Pokémon,0.5,7.5,25.0,60,70,3840,800000,0,0,normal,Generation V,physical,small
+574,Gothita,Gothimuゴチム,5,15,,Fixation Pokémon,0.4,5.8,25.0,200,70,5120,1059860,0,0,psychic,Generation V,special,small
+575,Gothorita,Gothimiruゴチミル,5,15,,Manipulate Pokémon,0.7,18.0,25.0,100,70,5120,1059860,0,0,psychic,Generation V,special,small
+576,Gothitelle,Gothiruselleゴチルゼル,5,15,,Astral Body Pokémon,1.5,44.0,25.0,50,70,5120,1059860,0,0,psychic,Generation V,special,medium
+577,Solosis,Uniranユニラン,5,15,,Cell Pokémon,0.3,1.0,50.0,200,70,5120,1059860,0,0,psychic,Generation V,special,small
+578,Duosion,Doublanダブラン,5,15,,Mitosis Pokémon,0.6,8.0,50.0,100,70,5120,1059860,0,0,psychic,Generation V,special,small
+579,Reuniclus,Lanculusランクルス,5,15,,Multiplying Pokémon,1.0,20.1,50.0,50,70,5120,1059860,0,0,psychic,Generation V,special,medium
+580,Ducklett,Koaruhieコアルヒー,5,18,8.0,Water Bird Pokémon,0.5,5.5,50.0,190,70,5120,1000000,0,1,water / flying,Generation V,balanced,small
+581,Swanna,Swannaスワンナ,5,18,8.0,White Bird Pokémon,1.3,24.2,50.0,45,70,5120,1000000,0,1,water / flying,Generation V,balanced,medium
+582,Vanillite,Vanipetiバニプッチ,5,12,,Fresh Snow Pokémon,0.4,5.7,50.0,255,70,5120,1250000,0,0,ice,Generation V,special,small
+583,Vanillish,Vanirichバニリッチ,5,12,,Icy Snow Pokémon,1.1,41.0,50.0,120,70,5120,1250000,0,0,ice,Generation V,special,medium
+584,Vanilluxe,Baivanillaバイバニラ,5,12,,Snowstorm Pokémon,1.3,57.5,50.0,45,70,5120,1250000,0,0,ice,Generation V,special,medium
+585,Deerling,Shikijikaシキジカ,5,13,10.0,Season Pokémon,0.6,19.5,50.0,190,70,5120,1000000,0,1,normal / grass,Generation V,physical,small
+586,Sawsbuck,Mebukijikaメブキジカ,5,13,10.0,Season Pokémon,1.9,92.5,50.0,75,70,5120,1000000,0,1,normal / grass,Generation V,physical,medium
+587,Emolga,Emolgaエモンガ,5,4,8.0,Sky Squirrel Pokémon,0.4,5.0,50.0,200,70,5120,1000000,0,1,electric / flying,Generation V,balanced,small
+588,Karrablast,Kaburumoカブルモ,5,1,,Clamping Pokémon,0.5,5.9,50.0,200,70,3840,1000000,0,0,bug,Generation V,physical,small
+589,Escavalier,Chevargoシュバルゴ,5,1,17.0,Cavalry Pokémon,1.0,33.0,50.0,75,70,3840,1000000,0,1,bug / steel,Generation V,physical,medium
+590,Foongus,Tamagetakeタマゲタケ,5,10,14.0,Mushroom Pokémon,0.2,1.0,50.0,190,70,5120,1000000,0,1,grass / poison,Generation V,balanced,small
+591,Amoonguss,Morobareruモロバレル,5,10,14.0,Mushroom Pokémon,0.6,10.5,50.0,75,70,5120,1000000,0,1,grass / poison,Generation V,balanced,small
+592,Frillish,Pururillプルリル,5,18,9.0,Floating Pokémon,1.2,33.0,50.0,190,70,5120,1000000,0,1,water / ghost,Generation V,special,medium
+593,Jellicent,Burungelブルンゲル,5,18,9.0,Floating Pokémon,2.2,135.0,50.0,60,70,5120,1000000,0,1,water / ghost,Generation V,special,large
+594,Alomomola,Mamanbouママンボウ,5,18,,Caring Pokémon,1.2,31.6,50.0,75,70,10240,800000,0,0,water,Generation V,physical,medium
+595,Joltik,Bachuruバチュル,5,1,4.0,Attaching Pokémon,0.1,0.6,50.0,190,70,5120,1000000,0,1,bug / electric,Generation V,special,small
+596,Galvantula,Dentulaデンチュラ,5,1,4.0,EleSpider Pokémon,0.8,14.3,50.0,75,70,5120,1000000,0,1,bug / electric,Generation V,special,small
+597,Ferroseed,Tesseedテッシード,5,10,17.0,Thorn Seed Pokémon,0.6,18.8,50.0,255,70,5120,1000000,0,1,grass / steel,Generation V,physical,small
+598,Ferrothorn,Nutreyナットレイ,5,10,17.0,Thorn Pod Pokémon,1.0,110.0,50.0,90,70,5120,1000000,0,1,grass / steel,Generation V,physical,medium
+599,Klink,Giaruギアル,5,17,,Gear Pokémon,0.3,21.0,,130,70,5120,1059860,0,0,steel,Generation V,physical,small
+600,Klang,Gigiaruギギアル,5,17,,Gear Pokémon,0.6,51.0,,60,70,5120,1059860,0,0,steel,Generation V,physical,small
+601,Klinklang,Gigigiaruギギギアル,5,17,,Gear Pokémon,0.6,81.0,,30,70,5120,1059860,0,0,steel,Generation V,physical,small
+602,Tynamo,Shibishirasuシビシラス,5,4,,EleFish Pokémon,0.2,0.3,50.0,190,70,5120,1250000,0,0,electric,Generation V,physical,small
+603,Eelektrik,Shibibeelシビビール,5,4,,EleFish Pokémon,1.2,22.0,50.0,60,70,5120,1250000,0,0,electric,Generation V,physical,medium
+604,Eelektross,Shibirudonシビルドン,5,4,,EleFish Pokémon,2.1,80.5,50.0,30,70,5120,1250000,0,0,electric,Generation V,physical,large
+605,Elgyem,Ligrayリグレー,5,15,,Cerebral Pokémon,0.5,9.0,50.0,255,70,5120,1000000,0,0,psychic,Generation V,special,small
+606,Beheeyem,Ohbemオーベム,5,15,,Cerebral Pokémon,1.0,34.5,50.0,90,70,5120,1000000,0,0,psychic,Generation V,special,medium
+607,Litwick,Hitomoshiヒトモシ,5,9,7.0,Candle Pokémon,0.3,3.1,50.0,190,70,5120,1059860,0,1,ghost / fire,Generation V,special,small
+608,Lampent,Lamplerランプラー,5,9,7.0,Lamp Pokémon,0.6,13.0,50.0,90,70,5120,1059860,0,1,ghost / fire,Generation V,special,small
+609,Chandelure,Chandelaシャンデラ,5,9,7.0,Luring Pokémon,1.0,34.3,50.0,45,70,5120,1059860,0,1,ghost / fire,Generation V,special,medium
+610,Axew,Kibagoキバゴ,5,3,,Tusk Pokémon,0.6,18.0,50.0,75,35,10240,1250000,0,0,dragon,Generation V,physical,small
+611,Fraxure,Onondoオノンド,5,3,,Axe Jaw Pokémon,1.0,36.0,50.0,60,35,10240,1250000,0,0,dragon,Generation V,physical,medium
+612,Haxorus,Ononokusオノノクス,5,3,,Axe Jaw Pokémon,1.8,105.5,50.0,45,35,10240,1250000,0,0,dragon,Generation V,physical,medium
+613,Cubchoo,Kumasyunクマシュン,5,12,,Chill Pokémon,0.5,8.5,50.0,120,70,5120,1000000,0,0,ice,Generation V,physical,small
+614,Beartic,Tunbearツンベアー,5,12,,Freezing Pokémon,2.6,260.0,50.0,60,70,5120,1000000,0,0,ice,Generation V,physical,large
+615,Cryogonal,Freegeoフリージオ,5,12,,Crystallizing Pokémon,1.1,148.0,,25,70,6400,1000000,0,0,ice,Generation V,special,medium
+616,Shelmet,Chobomakiチョボマキ,5,1,,Snail Pokémon,0.4,7.7,50.0,200,70,3840,1000000,0,0,bug,Generation V,balanced,small
+617,Accelgor,Agilderアギルダー,5,1,,Shell Out Pokémon,0.8,25.3,50.0,75,70,3840,1000000,0,0,bug,Generation V,special,small
+618,Stunfisk,Maggyoマッギョ,5,11,4.0,Trap Pokémon,0.7,11.0,50.0,75,70,5120,1000000,0,1,ground / electric,Generation V,special,small
+619,Mienfoo,Kojofuコジョフー,5,6,,Martial Arts Pokémon,0.9,20.0,50.0,180,70,6400,1059860,0,0,fighting,Generation V,physical,small
+620,Mienshao,Kojondoコジョンド,5,6,,Martial Arts Pokémon,1.4,35.5,50.0,45,70,6400,1059860,0,0,fighting,Generation V,physical,medium
+621,Druddigon,Crimganクリムガン,5,3,,Cave Pokémon,1.6,139.0,50.0,45,70,7680,1000000,0,0,dragon,Generation V,physical,medium
+622,Golett,Gobitゴビット,5,11,9.0,Automaton Pokémon,1.0,92.0,,190,70,6400,1000000,0,1,ground / ghost,Generation V,physical,medium
+623,Golurk,Goloogゴルーグ,5,11,9.0,Automaton Pokémon,2.8,330.0,,90,70,6400,1000000,0,1,ground / ghost,Generation V,physical,large
+624,Pawniard,Komatanaコマタナ,5,2,17.0,Sharp Blade Pokémon,0.5,10.2,50.0,120,35,5120,1000000,0,1,dark / steel,Generation V,physical,small
+625,Bisharp,Kirikizanキリキザン,5,2,17.0,Sword Blade Pokémon,1.6,70.0,50.0,45,35,5120,1000000,0,1,dark / steel,Generation V,physical,medium
+626,Bouffalant,Buffronバッフロン,5,13,,Bash Buffalo Pokémon,1.6,94.6,50.0,45,70,5120,1000000,0,0,normal,Generation V,physical,medium
+627,Rufflet,Washibonワシボン,5,13,8.0,Eaglet Pokémon,0.5,10.5,100.0,190,70,5120,1250000,0,1,normal / flying,Generation V,physical,small
+628,Braviary,Warrgleウォーグル,5,13,8.0,Valiant Pokémon,1.5,41.0,100.0,60,70,5120,1250000,0,1,normal / flying,Generation V,physical,medium
+629,Vullaby,Valchaiバルチャイ,5,2,8.0,Diapered Pokémon,0.5,9.0,0.0,190,35,5120,1250000,0,1,dark / flying,Generation V,physical,small
+630,Mandibuzz,Vulginaバルジーナ,5,2,8.0,Bone Vulture Pokémon,1.2,39.5,0.0,60,35,5120,1250000,0,1,dark / flying,Generation V,physical,medium
+631,Heatmor,Kuitaranクイタラン,5,7,,Anteater Pokémon,1.4,58.0,50.0,90,70,5120,1000000,0,0,fire,Generation V,special,medium
+632,Durant,Aiantアイアント,5,1,17.0,Iron Ant Pokémon,0.3,33.0,50.0,90,70,5120,1000000,0,1,bug / steel,Generation V,physical,small
+633,Deino,Monozuモノズ,5,2,3.0,Irate Pokémon,0.8,17.3,50.0,45,35,10240,1250000,0,1,dark / dragon,Generation V,physical,small
+634,Zweilous,Diheadジヘッド,5,2,3.0,Hostile Pokémon,1.4,50.0,50.0,45,35,10240,1250000,0,1,dark / dragon,Generation V,physical,medium
+635,Hydreigon,Sazandoraサザンドラ,5,2,3.0,Brutal Pokémon,1.8,160.0,50.0,45,35,10240,1250000,0,1,dark / dragon,Generation V,special,medium
+636,Larvesta,Merlarvaメラルバ,5,1,7.0,Torch Pokémon,1.1,28.8,50.0,45,70,10240,1250000,0,1,bug / fire,Generation V,physical,medium
+637,Volcarona,Ulgamothウルガモス,5,1,7.0,Sun Pokémon,1.6,46.0,50.0,15,70,10240,1250000,0,1,bug / fire,Generation V,special,medium
+638,Cobalion,Cobalonコバルオン,5,17,6.0,Iron Will Pokémon,2.1,250.0,,3,35,20480,1250000,1,1,steel / fighting,Generation V,balanced,large
+639,Terrakion,Terrakionテラキオン,5,16,6.0,Cavern Pokémon,1.9,260.0,,3,35,20480,1250000,1,1,rock / fighting,Generation V,physical,medium
+640,Virizion,Virizionビリジオン,5,10,6.0,Grassland Pokémon,2.0,200.0,,3,35,20480,1250000,1,1,grass / fighting,Generation V,balanced,large
+641,Tornadus,Tornelosトルネロス,5,8,,Cyclone Pokémon,1.5,63.0,100.0,3,90,30720,1250000,1,0,flying,Generation V,special,medium
+642,Thundurus,Voltolosボルトロス,5,4,8.0,Bolt Strike Pokémon,1.5,61.0,100.0,3,90,30720,1250000,1,1,electric / flying,Generation V,special,medium
+643,Reshiram,Reshiramレシラム,5,3,7.0,Vast White Pokémon,3.2,330.0,,3,0,30720,1250000,1,1,dragon / fire,Generation V,special,large
+644,Zekrom,Zekromゼクロム,5,3,4.0,Deep Black Pokémon,2.9,345.0,,3,0,30720,1250000,1,1,dragon / electric,Generation V,physical,large
+645,Landorus,Landlosランドロス,5,11,8.0,Abundance Pokémon,1.5,68.0,100.0,3,90,30720,1250000,1,1,ground / flying,Generation V,physical,medium
+646,Kyurem,Kyuremキュレム,5,3,12.0,Boundary Pokémon,3.0,325.0,,3,0,30720,1250000,1,1,dragon / ice,Generation V,balanced,large
+647,Keldeo,Keldeoケルディオ,5,18,6.0,Colt Pokémon,1.4,48.5,,3,35,20480,1250000,1,1,water / fighting,Generation V,special,medium
+648,Meloetta,Meloettaメロエッタ,5,13,15.0,Melody Pokémon,0.6,6.5,,3,100,30720,1250000,1,1,normal / psychic,Generation V,special,small
+649,Genesect,Genesectゲノセクト,5,1,17.0,Paleozoic Pokémon,1.5,82.5,,3,0,30720,1250000,1,1,bug / steel,Generation V,balanced,medium
+650,Chespin,Harimaronハリマロン,6,10,,Spiny Nut Pokémon,0.4,9.0,87.5,45,70,5120,1059860,0,0,grass,Generation VI,physical,small
+651,Quilladin,Hariborgハリボーグ,6,10,,Spiny Armor Pokémon,0.7,29.0,87.5,45,70,5120,1059860,0,0,grass,Generation VI,physical,small
+652,Chesnaught,Brigarronブリガロン,6,10,6.0,Spiny Armor Pokémon,1.6,90.0,87.5,45,70,5120,1059860,0,1,grass / fighting,Generation VI,physical,medium
+653,Fennekin,Fokkoフォッコ,6,7,,Fox Pokémon,0.4,9.4,87.5,45,70,5120,1059860,0,0,fire,Generation VI,special,small
+654,Braixen,Tairenarテールナー,6,7,,Fox Pokémon,1.0,14.5,87.5,45,70,5120,1059860,0,0,fire,Generation VI,special,medium
+655,Delphox,Mahoxyマフォクシー,6,7,15.0,Fox Pokémon,1.5,39.0,87.5,45,70,5120,1059860,0,1,fire / psychic,Generation VI,special,medium
+656,Froakie,Keromatsuケロマツ,6,18,,Bubble Frog Pokémon,0.3,7.0,87.5,45,70,5120,1059860,0,0,water,Generation VI,special,small
+657,Frogadier,Gekogashiraゲコガシラ,6,18,,Bubble Frog Pokémon,0.6,10.9,87.5,45,70,5120,1059860,0,0,water,Generation VI,special,small
+658,Greninja,Gekkougaゲッコウガ,6,18,2.0,Ninja Pokémon,1.5,40.0,87.5,45,70,5120,1059860,0,1,water / dark,Generation VI,special,medium
+659,Bunnelby,Horubeeホルビー,6,13,,Digging Pokémon,0.4,5.0,50.0,255,70,3840,1000000,0,0,normal,Generation VI,physical,small
+660,Diggersby,Horudoホルード,6,13,11.0,Digging Pokémon,1.0,42.4,50.0,127,70,3840,1000000,0,1,normal / ground,Generation VI,physical,medium
+661,Fletchling,Yayakomaヤヤコマ,6,13,8.0,Tiny Robin Pokémon,0.3,1.7,50.0,255,70,3840,1059860,0,1,normal / flying,Generation VI,physical,small
+662,Fletchinder,Hinoyakomaヒノヤコマ,6,7,8.0,Ember Pokémon,0.7,16.0,50.0,120,70,3840,1059860,0,1,fire / flying,Generation VI,physical,small
+663,Talonflame,Fiarrowファイアロー,6,7,8.0,Scorching Pokémon,1.2,24.5,50.0,45,70,3840,1059860,0,1,fire / flying,Generation VI,physical,medium
+664,Scatterbug,Kofukimushiコフキムシ,6,1,,Scatterdust Pokémon,0.3,2.5,50.0,255,70,3840,1000000,0,0,bug,Generation VI,physical,small
+665,Spewpa,Kofuuraiコフーライ,6,1,,Scatterdust Pokémon,0.3,8.4,50.0,120,70,3840,1000000,0,0,bug,Generation VI,special,small
+666,Vivillon,Viviyonビビヨン,6,1,8.0,Scale Pokémon,1.2,17.0,50.0,45,70,3840,1000000,0,1,bug / flying,Generation VI,special,medium
+667,Litleo,Shishikoシシコ,6,7,13.0,Lion Cub Pokémon,0.6,13.5,12.5,220,70,5120,1059860,0,1,fire / normal,Generation VI,special,small
+668,Pyroar,Kaenjishiカエンジシ,6,7,13.0,Royal Pokémon,1.5,81.5,12.5,65,70,5120,1059860,0,1,fire / normal,Generation VI,special,medium
+669,Flabébé,Flabebeフラベベ,6,5,,Single Bloom Pokémon,0.1,0.1,0.0,225,70,5120,1000000,0,0,fairy,Generation VI,special,small
+670,Floette,Floetteフラエッテ,6,5,,Single Bloom Pokémon,0.2,0.9,0.0,120,70,5120,1000000,0,0,fairy,Generation VI,special,small
+671,Florges,Florgesフラージェス,6,5,,Garden Pokémon,1.1,10.0,0.0,45,70,5120,1000000,0,0,fairy,Generation VI,special,medium
+672,Skiddo,Meecleメェークル,6,10,,Mount Pokémon,0.9,31.0,50.0,200,70,5120,1000000,0,0,grass,Generation VI,physical,small
+673,Gogoat,Gogoatゴーゴート,6,10,,Mount Pokémon,1.7,91.0,50.0,45,70,5120,1000000,0,0,grass,Generation VI,physical,medium
+674,Pancham,Yanchamヤンチャム,6,6,,Playful Pokémon,0.6,8.0,50.0,220,70,6400,1000000,0,0,fighting,Generation VI,physical,small
+675,Pangoro,Gorondaゴロンダ,6,6,2.0,Daunting Pokémon,2.1,136.0,50.0,65,70,6400,1000000,0,1,fighting / dark,Generation VI,physical,large
+676,Furfrou,Trimmienトリミアン,6,13,,Poodle Pokémon,1.2,28.0,50.0,160,70,5120,1000000,0,0,normal,Generation VI,physical,medium
+677,Espurr,Nyasperニャスパー,6,15,,Restraint Pokémon,0.3,3.5,50.0,190,70,5120,1000000,0,0,psychic,Generation VI,special,small
+678,Meowstic,Nyaonixニャオニクス,6,15,,Constraint Pokémon,0.6,8.5,50.0,75,70,5120,1000000,0,0,psychic,Generation VI,special,small
+679,Honedge,Hitotsukiヒトツキ,6,17,9.0,Sword Pokémon,0.8,2.0,50.0,180,70,5120,1000000,0,1,steel / ghost,Generation VI,physical,small
+680,Doublade,Nidangillニダンギル,6,17,9.0,Sword Pokémon,0.8,4.5,50.0,90,70,5120,1000000,0,1,steel / ghost,Generation VI,physical,small
+681,Aegislash,Gillgardギルガルド,6,17,9.0,Royal Sword Pokémon,1.7,53.0,50.0,45,70,5120,1000000,0,1,steel / ghost,Generation VI,balanced,medium
+682,Spritzee,Shushupuシュシュプ,6,5,,Perfume Pokémon,0.2,0.5,50.0,200,70,5120,1000000,0,0,fairy,Generation VI,special,small
+683,Aromatisse,Frefuwanフレフワン,6,5,,Fragrance Pokémon,0.8,15.5,50.0,140,70,5120,1000000,0,0,fairy,Generation VI,special,small
+684,Swirlix,Peroppafuペロッパフ,6,5,,Cotton Candy Pokémon,0.4,3.5,50.0,200,70,5120,1000000,0,0,fairy,Generation VI,special,small
+685,Slurpuff,Peroreamペロリーム,6,5,,Meringue Pokémon,0.8,5.0,50.0,140,70,5120,1000000,0,0,fairy,Generation VI,special,small
+686,Inkay,Maaiikaマーイーカ,6,2,15.0,Revolving Pokémon,0.4,3.5,50.0,190,70,5120,1000000,0,1,dark / psychic,Generation VI,physical,small
+687,Malamar,Calamaneroカラマネロ,6,2,15.0,Overturning Pokémon,1.5,47.0,50.0,80,70,5120,1000000,0,1,dark / psychic,Generation VI,physical,medium
+688,Binacle,Kameteteカメテテ,6,16,18.0,Two-Handed Pokémon,0.5,31.0,50.0,120,70,5120,1000000,0,1,rock / water,Generation VI,physical,small
+689,Barbaracle,Gamenodesガメノデス,6,16,18.0,Collective Pokémon,1.3,96.0,50.0,45,70,5120,1000000,0,1,rock / water,Generation VI,physical,medium
+690,Skrelp,Kuzumoクズモー,6,14,18.0,Mock Kelp Pokémon,0.5,7.3,50.0,225,70,5120,1000000,0,1,poison / water,Generation VI,balanced,small
+691,Dragalge,Dramidoroドラミドロ,6,14,3.0,Mock Kelp Pokémon,1.8,81.5,50.0,55,70,5120,1000000,0,1,poison / dragon,Generation VI,special,medium
+692,Clauncher,Udeppouウデッポウ,6,18,,Water Gun Pokémon,0.5,8.3,50.0,225,70,3840,1250000,0,0,water,Generation VI,special,small
+693,Clawitzer,Blosterブロスター,6,18,,Howitzer Pokémon,1.3,35.3,50.0,55,70,3840,1250000,0,0,water,Generation VI,special,medium
+694,Helioptile,Erikiteruエリキテル,6,4,13.0,Generator Pokémon,0.5,6.0,50.0,190,70,5120,1000000,0,1,electric / normal,Generation VI,special,small
+695,Heliolisk,Elezardエレザード,6,4,13.0,Generator Pokémon,1.0,21.0,50.0,75,70,5120,1000000,0,1,electric / normal,Generation VI,special,medium
+696,Tyrunt,Chigorasチゴラス,6,16,3.0,Royal Heir Pokémon,0.8,26.0,87.5,45,70,7680,1000000,0,1,rock / dragon,Generation VI,physical,small
+697,Tyrantrum,Gachigorasガチゴラス,6,16,3.0,Despot Pokémon,2.5,270.0,87.5,45,70,7680,1000000,0,1,rock / dragon,Generation VI,physical,large
+698,Amaura,Amarusアマルス,6,16,12.0,Tundra Pokémon,1.3,25.2,87.5,45,70,7680,1000000,0,1,rock / ice,Generation VI,special,medium
+699,Aurorus,Amarurugaアマルルガ,6,16,12.0,Tundra Pokémon,2.7,225.0,87.5,45,70,7680,1000000,0,1,rock / ice,Generation VI,special,large
+700,Sylveon,Nymphiaニンフィア,6,5,,Intertwining Pokémon,1.0,23.5,87.5,45,70,8960,1000000,0,0,fairy,Generation VI,special,medium
+701,Hawlucha,Luchabullルチャブル,6,6,8.0,Wrestling Pokémon,0.8,21.5,50.0,100,70,5120,1000000,0,1,fighting / flying,Generation VI,physical,small
+702,Dedenne,Dedenneデデンネ,6,4,5.0,Antenna Pokémon,0.2,2.2,50.0,180,70,5120,1000000,0,1,electric / fairy,Generation VI,special,small
+703,Carbink,Melecieメレシー,6,16,5.0,Jewel Pokémon,0.3,5.7,,60,70,6400,1250000,0,1,rock / fairy,Generation VI,balanced,small
+704,Goomy,Numeraヌメラ,6,3,,Soft Tissue Pokémon,0.3,2.8,50.0,45,35,10240,1250000,0,0,dragon,Generation VI,special,small
+705,Sliggoo,Numeilヌメイル,6,3,,Soft Tissue Pokémon,0.8,17.5,50.0,45,35,10240,1250000,0,0,dragon,Generation VI,special,small
+706,Goodra,Numelgonヌメルゴン,6,3,,Dragon Pokémon,2.0,150.5,50.0,45,35,10240,1250000,0,0,dragon,Generation VI,special,large
+707,Klefki,Cleffyクレッフィ,6,17,5.0,Key Ring Pokémon,0.2,3.0,50.0,75,70,5120,800000,0,1,steel / fairy,Generation VI,balanced,small
+708,Phantump,Bokureiボクレー,6,9,10.0,Stump Pokémon,0.4,7.0,50.0,120,70,5120,1000000,0,1,ghost / grass,Generation VI,physical,small
+709,Trevenant,Ohrotオーロット,6,9,10.0,Elder Tree Pokémon,1.5,71.0,50.0,60,70,5120,1000000,0,1,ghost / grass,Generation VI,physical,medium
+710,Pumpkaboo,Bakecchaバケッチャ,6,9,10.0,Pumpkin Pokémon,0.4,5.0,50.0,120,70,5120,1000000,0,1,ghost / grass,Generation VI,physical,small
+711,Gourgeist,Pumpjinパンプジン,6,9,10.0,Pumpkin Pokémon,0.9,12.5,50.0,60,70,5120,1000000,0,1,ghost / grass,Generation VI,physical,small
+712,Bergmite,Kachikohruカチコール,6,12,,Ice Chunk Pokémon,1.0,99.5,50.0,190,70,5120,1000000,0,0,ice,Generation VI,physical,medium
+713,Avalugg,Crebaseクレベース,6,12,,Iceberg Pokémon,2.0,505.0,50.0,55,70,5120,1000000,0,0,ice,Generation VI,physical,large
+714,Noibat,Onbatオンバット,6,8,3.0,Sound Wave Pokémon,0.5,8.0,50.0,190,70,5120,1000000,0,1,flying / dragon,Generation VI,special,small
+715,Noivern,Onvernオンバーン,6,8,3.0,Sound Wave Pokémon,1.5,85.0,50.0,45,70,5120,1000000,0,1,flying / dragon,Generation VI,special,medium
+716,Xerneas,Xerneasゼルネアス,6,5,,Life Pokémon,3.0,215.0,,45,0,30720,1250000,1,0,fairy,Generation VI,balanced,large
+717,Yveltal,Yveltalイベルタル,6,2,8.0,Destruction Pokémon,5.8,203.0,,45,0,30720,1250000,1,1,dark / flying,Generation VI,balanced,huge
+718,Zygarde,Zygardeジガルデ,6,3,11.0,Order Pokémon,5.0,305.0,,3,0,30720,1250000,1,1,dragon / ground,Generation VI,physical,huge
+719,Diancie,Diancieディアンシー,6,16,5.0,Jewel Pokémon,0.7,8.8,,3,70,6400,1250000,1,1,rock / fairy,Generation VI,balanced,small
+720,Hoopa,Hoopaフーパ,6,15,9.0,Mischief Pokémon,0.5,9.0,,3,100,30720,1250000,1,1,psychic / ghost,Generation VI,special,small
+721,Volcanion,Volcanionボルケニオン,6,7,18.0,Steam Pokémon,1.7,195.0,,3,100,30720,1250000,1,1,fire / water,Generation VI,special,medium
+722,Rowlet,Mokurohモクロー,7,10,8.0,Grass Quill Pokémon,0.3,1.5,87.5,45,70,3840,1059860,0,1,grass / flying,Generation VII,physical,small
+723,Dartrix,Fukuthrowフクスロー,7,10,8.0,Blade Quill Pokémon,0.7,16.0,87.5,45,70,3840,1059860,0,1,grass / flying,Generation VII,physical,small
+724,Decidueye,Junaiperジュナイパー,7,10,9.0,Arrow Quill Pokémon,1.6,36.6,87.5,45,70,3840,1059860,0,1,grass / ghost,Generation VII,physical,medium
+725,Litten,Nyabbyニャビー,7,7,,Fire Cat Pokémon,0.4,4.3,87.5,45,70,3840,1059860,0,0,fire,Generation VII,physical,small
+726,Torracat,Nyaheatニャヒート,7,7,,Fire Cat Pokémon,0.7,25.0,87.5,45,70,3840,1059860,0,0,fire,Generation VII,physical,small
+727,Incineroar,Gaogaenガオガエン,7,7,2.0,Heel Pokémon,1.8,83.0,87.5,45,70,3840,1059860,0,1,fire / dark,Generation VII,physical,medium
+728,Popplio,Ashimariアシマリ,7,18,,Sea Lion Pokémon,0.4,7.5,87.5,45,70,3840,1059860,0,0,water,Generation VII,special,small
+729,Brionne,Osyamariオシャマリ,7,18,,Pop Star Pokémon,0.6,17.5,87.5,45,70,3840,1059860,0,0,water,Generation VII,special,small
+730,Primarina,Ashireneアシレーヌ,7,18,5.0,Soloist Pokémon,1.8,44.0,87.5,45,70,3840,1059860,0,1,water / fairy,Generation VII,special,medium
+731,Pikipek,Tsutsukeraツツケラ,7,13,8.0,Woodpecker Pokémon,0.3,1.2,50.0,255,70,3840,1000000,0,1,normal / flying,Generation VII,physical,small
+732,Trumbeak,Kerarappaケララッパ,7,13,8.0,Bugle Beak Pokémon,0.6,14.8,50.0,120,70,3840,1000000,0,1,normal / flying,Generation VII,physical,small
+733,Toucannon,Dodekabashiドデカバシ,7,13,8.0,Cannon Pokémon,1.1,26.0,50.0,45,70,3840,1000000,0,1,normal / flying,Generation VII,physical,medium
+734,Yungoos,Youngooseヤングース,7,13,,Loitering Pokémon,0.4,6.0,50.0,255,70,3840,1000000,0,0,normal,Generation VII,physical,small
+735,Gumshoos,Dekagooseデカグース,7,13,,Stakeout Pokémon,0.7,14.2,50.0,127,70,3840,1000000,0,0,normal,Generation VII,physical,small
+736,Grubbin,Agojimushiアゴジムシ,7,1,,Larva Pokémon,0.4,4.4,50.0,255,70,3840,1000000,0,0,bug,Generation VII,physical,small
+737,Charjabug,Dendimushiデンヂムシ,7,1,4.0,Battery Pokémon,0.5,10.5,50.0,120,70,3840,1000000,0,1,bug / electric,Generation VII,physical,small
+738,Vikavolt,Kuwagannonクワガノン,7,1,4.0,Stag Beetle Pokémon,1.5,45.0,50.0,45,70,3840,1000000,0,1,bug / electric,Generation VII,special,medium
+739,Crabrawler,Makenkaniマケンカニ,7,6,,Boxing Pokémon,0.6,7.0,50.0,225,70,5120,1000000,0,0,fighting,Generation VII,physical,small
+740,Crabominable,Kekenkaniケケンカニ,7,6,12.0,Woolly Crab Pokémon,1.7,180.0,50.0,60,70,5120,1000000,0,1,fighting / ice,Generation VII,physical,medium
+741,Oricorio,Odoridoriオドリドリ,7,7,8.0,Dancing Pokémon,0.6,3.4,25.0,45,70,5120,1000000,0,1,fire / flying,Generation VII,special,small
+742,Cutiefly,Abulyアブリー,7,1,5.0,Bee Fly Pokémon,0.1,0.2,50.0,190,70,5120,1000000,0,1,bug / fairy,Generation VII,special,small
+743,Ribombee,Aburibbonアブリボン,7,1,5.0,Bee Fly Pokémon,0.2,0.5,50.0,75,70,5120,1000000,0,1,bug / fairy,Generation VII,special,small
+744,Rockruff,Iwankoイワンコ,7,16,,Puppy Pokémon,0.5,9.2,50.0,190,70,3840,1000000,0,0,rock,Generation VII,physical,small
+745,Lycanroc,Lugaruganルガルガン,7,16,,Wolf Pokémon,0.8,25.0,50.0,90,70,3840,1000000,0,0,rock,Generation VII,physical,small
+746,Wishiwashi,Yowashiヨワシ,7,18,,Small Fry Pokémon,0.2,0.3,50.0,60,70,3840,800000,0,0,water,Generation VII,special,small
+747,Mareanie,Hidoideヒドイデ,7,14,18.0,Brutal Star Pokémon,0.4,8.0,50.0,190,70,5120,1000000,0,1,poison / water,Generation VII,physical,small
+748,Toxapex,Dohidoideドヒドイデ,7,14,18.0,Brutal Star Pokémon,0.7,14.5,50.0,75,70,5120,1000000,0,1,poison / water,Generation VII,physical,small
+749,Mudbray,Dorobankoドロバンコ,7,11,,Donkey Pokémon,1.0,110.0,50.0,190,70,5120,1000000,0,0,ground,Generation VII,physical,medium
+750,Mudsdale,Banbadoroバンバドロ,7,11,,Draft Horse Pokémon,2.5,920.0,50.0,60,70,5120,1000000,0,0,ground,Generation VII,physical,large
+751,Dewpider,Shizukumoシズクモ,7,18,1.0,Water Bubble Pokémon,0.3,4.0,50.0,200,70,3840,1000000,0,1,water / bug,Generation VII,balanced,small
+752,Araquanid,Onishizukumoオニシズクモ,7,18,1.0,Water Bubble Pokémon,1.8,82.0,50.0,100,70,3840,1000000,0,1,water / bug,Generation VII,physical,medium
+753,Fomantis,Karikiriカリキリ,7,10,,Sickle Grass Pokémon,0.3,1.5,50.0,190,70,5120,1000000,0,0,grass,Generation VII,physical,small
+754,Lurantis,Lalantesラランテス,7,10,,Bloom Sickle Pokémon,0.9,18.5,50.0,75,70,5120,1000000,0,0,grass,Generation VII,physical,small
+755,Morelull,Nemasyuネマシュ,7,10,5.0,Illuminating Pokémon,0.2,1.5,50.0,190,70,5120,1000000,0,1,grass / fairy,Generation VII,special,small
+756,Shiinotic,Mashadeマシェード,7,10,5.0,Illuminating Pokémon,1.0,11.5,50.0,75,70,5120,1000000,0,1,grass / fairy,Generation VII,special,medium
+757,Salandit,Yatoumoriヤトウモリ,7,14,7.0,Toxic Lizard Pokémon,0.6,4.8,87.5,120,70,5120,1000000,0,1,poison / fire,Generation VII,special,small
+758,Salazzle,Ennewtエンニュート,7,14,7.0,Toxic Lizard Pokémon,1.2,22.2,0.0,45,70,5120,1000000,0,1,poison / fire,Generation VII,special,medium
+759,Stufful,Nuikogumaヌイコグマ,7,13,6.0,Flailing Pokémon,0.5,6.8,50.0,140,70,3840,1000000,0,1,normal / fighting,Generation VII,physical,small
+760,Bewear,Kiterugumaキテルグマ,7,13,6.0,Strong Arm Pokémon,2.1,135.0,50.0,70,70,3840,1000000,0,1,normal / fighting,Generation VII,physical,large
+761,Bounsweet,Amakajiアマカジ,7,10,,Fruit Pokémon,0.3,3.2,0.0,235,70,5120,1059860,0,0,grass,Generation VII,balanced,small
+762,Steenee,Amamaikoアママイコ,7,10,,Fruit Pokémon,0.7,8.2,0.0,120,70,5120,1059860,0,0,grass,Generation VII,balanced,small
+763,Tsareena,Amajoアマージョ,7,10,,Fruit Pokémon,1.2,21.4,0.0,45,70,5120,1059860,0,0,grass,Generation VII,physical,medium
+764,Comfey,Cuwawaキュワワー,7,5,,Posy Picker Pokémon,0.1,0.3,25.0,60,70,5120,800000,0,0,fairy,Generation VII,special,small
+765,Oranguru,Yareyuutanヤレユータン,7,13,15.0,Sage Pokémon,1.5,76.0,50.0,45,70,5120,1250000,0,1,normal / psychic,Generation VII,special,medium
+766,Passimian,Nagetukesaruナゲツケサル,7,6,,Teamwork Pokémon,2.0,82.8,50.0,45,70,5120,1250000,0,0,fighting,Generation VII,physical,large
+767,Wimpod,Kosokumushiコソクムシ,7,1,18.0,Turn Tail Pokémon,0.5,12.0,50.0,90,70,5120,1000000,0,1,bug / water,Generation VII,physical,small
+768,Golisopod,Gusokumushaグソクムシャ,7,1,18.0,Hard Scale Pokémon,2.0,108.0,50.0,45,70,5120,1000000,0,1,bug / water,Generation VII,physical,large
+769,Sandygast,Sunabaスナバァ,7,9,11.0,Sand Heap Pokémon,0.5,70.0,50.0,140,70,3840,1000000,0,1,ghost / ground,Generation VII,special,small
+770,Palossand,Sirodethnaシロデスナ,7,9,11.0,Sand Castle Pokémon,1.3,250.0,50.0,60,70,3840,1000000,0,1,ghost / ground,Generation VII,special,medium
+771,Pyukumuku,Namakobushiナマコブシ,7,18,,Sea Cucumber Pokémon,0.3,1.2,50.0,60,70,3840,800000,0,0,water,Generation VII,physical,small
+772,Type: Null,Type:Nullタイプ：ヌル,7,13,,Synthetic Pokémon,1.9,120.5,,3,0,30720,1250000,1,0,normal,Generation VII,balanced,medium
+773,Silvally,Silvadyシルヴァディ,7,13,,Synthetic Pokémon,2.3,100.5,,3,0,30720,1250000,1,0,normal,Generation VII,balanced,large
+774,Minior,Metenoメテノ,7,16,8.0,Meteor Pokémon,0.3,40.0,,30,70,6400,1059860,0,1,rock / flying,Generation VII,balanced,small
+775,Komala,Nekkoaraネッコアラ,7,13,,Drowsing Pokémon,0.4,19.9,50.0,45,70,5120,1250000,0,0,normal,Generation VII,physical,small
+776,Turtonator,Bakugamesバクガメス,7,7,3.0,Blast Turtle Pokémon,2.0,212.0,50.0,70,70,5120,1000000,0,1,fire / dragon,Generation VII,special,large
+777,Togedemaru,Togedemaruトゲデマル,7,4,17.0,Roly-Poly Pokémon,0.3,3.3,50.0,180,70,2560,1000000,0,1,electric / steel,Generation VII,physical,small
+778,Mimikyu,Mimikkyuミミッキュ,7,9,5.0,Disguise Pokémon,0.2,0.7,50.0,45,70,5120,1000000,0,1,ghost / fairy,Generation VII,physical,small
+779,Bruxish,Hagigishiriハギギシリ,7,18,15.0,Gnash Teeth Pokémon,0.9,19.0,50.0,80,70,3840,1000000,0,1,water / psychic,Generation VII,physical,small
+780,Drampa,Jijilongジジーロン,7,13,3.0,Placid Pokémon,3.0,185.0,50.0,70,70,5120,1000000,0,1,normal / dragon,Generation VII,special,large
+781,Dhelmise,Dadarinダダリン,7,9,10.0,Sea Creeper Pokémon,3.9,210.0,,25,70,6400,1000000,0,1,ghost / grass,Generation VII,physical,large
+782,Jangmo-o,Jyarakoジャラコ,7,3,,Scaly Pokémon,0.6,29.7,50.0,45,70,10240,1250000,0,0,dragon,Generation VII,physical,small
+783,Hakamo-o,Jyarangoジャランゴ,7,3,6.0,Scaly Pokémon,1.2,47.0,50.0,45,70,10240,1250000,0,1,dragon / fighting,Generation VII,physical,medium
+784,Kommo-o,Jyararangaジャラランガ,7,3,6.0,Scaly Pokémon,1.6,78.2,50.0,45,70,10240,1250000,0,1,dragon / fighting,Generation VII,physical,medium
+785,Tapu Koko,Kapu-Kokekoカプ・コケコ,7,4,5.0,Land Spirit Pokémon,1.8,20.5,,3,70,3840,1250000,1,1,electric / fairy,Generation VII,physical,medium
+786,Tapu Lele,Kapu-Tetefuカプ・テテフ,7,15,5.0,Land Spirit Pokémon,1.2,18.6,,3,70,3840,1250000,1,1,psychic / fairy,Generation VII,special,medium
+787,Tapu Bulu,Kapu-Bululカプ・ブルル,7,10,5.0,Land Spirit Pokémon,1.9,45.5,,3,70,3840,1250000,1,1,grass / fairy,Generation VII,physical,medium
+788,Tapu Fini,Kapu-Rehireカプ・レヒレ,7,18,5.0,Land Spirit Pokémon,1.3,21.2,,3,70,3840,1250000,1,1,water / fairy,Generation VII,special,medium
+789,Cosmog,Cosmogコスモッグ,7,15,,Nebula Pokémon,0.2,0.1,,45,0,30720,1250000,1,0,psychic,Generation VII,balanced,small
+790,Cosmoem,Cosmovumコスモウム,7,15,,Protostar Pokémon,0.1,999.9,,45,0,30720,1250000,1,0,psychic,Generation VII,balanced,small
+791,Solgaleo,Solgaleoソルガレオ,7,15,17.0,Sunne Pokémon,3.4,230.0,,45,0,30720,1250000,1,1,psychic / steel,Generation VII,physical,large
+792,Lunala,Lunalaルナアーラ,7,15,9.0,Moone Pokémon,4.0,120.0,,45,0,30720,1250000,1,1,psychic / ghost,Generation VII,special,huge
+793,Nihilego,Uturoidウツロイド,7,16,14.0,Parasite Pokémon,1.2,55.5,,45,0,30720,1250000,1,1,rock / poison,Generation VII,special,medium
+794,Buzzwole,Massivoonマッシブーン,7,1,6.0,Swollen Pokémon,2.4,333.6,,45,0,30720,1250000,1,1,bug / fighting,Generation VII,physical,large
+795,Pheromosa,Pheroacheフェローチェ,7,1,6.0,Lissome Pokémon,1.8,25.0,,45,0,30720,1250000,1,1,bug / fighting,Generation VII,balanced,medium
+796,Xurkitree,Denjyumokuデンジュモク,7,4,,Glowing Pokémon,3.8,100.0,,45,0,30720,1250000,1,0,electric,Generation VII,special,large
+797,Celesteela,Tekkaguyaテッカグヤ,7,17,8.0,Launch Pokémon,9.2,999.9,,45,0,30720,1250000,1,1,steel / flying,Generation VII,special,huge
+798,Kartana,Kamiturugiカミツルギ,7,10,17.0,Drawn Sword Pokémon,0.3,0.1,,45,0,30720,1250000,1,1,grass / steel,Generation VII,physical,small
+799,Guzzlord,Akuzikingアクジキング,7,2,3.0,Junkivore Pokémon,5.5,888.0,,45,0,30720,1250000,1,1,dark / dragon,Generation VII,physical,huge
+800,Necrozma,Necrozmaネクロズマ,7,15,,Prism Pokémon,2.4,230.0,,255,0,30720,1250000,1,0,psychic,Generation VII,special,large
+801,Magearna,Magearnaマギアナ,7,17,5.0,Artificial Pokémon,1.0,80.5,,3,0,30720,1250000,1,1,steel / fairy,Generation VII,special,medium
+802,Marshadow,Marshadowマーシャドー,7,6,9.0,Gloomdweller Pokémon,0.7,22.2,,3,0,30720,1250000,1,1,fighting / ghost,Generation VII,physical,small
+803,Poipole,Bevenomベベノム,7,14,,Poison Pin Pokémon,0.6,1.8,,45,0,30720,1250000,0,0,poison,Generation VII,balanced,small
+804,Naganadel,Agoyonアーゴヨン,7,14,3.0,Poison Pin Pokémon,3.6,150.0,,45,0,30720,1250000,0,1,poison / dragon,Generation VII,special,large
+805,Stakataka,Tundetundeツンデツンデ,7,16,17.0,Rampart Pokémon,5.5,820.0,,30,0,30720,1250000,0,1,rock / steel,Generation VII,physical,huge
+806,Blacephalon,Zugadoonズガドーン,7,7,9.0,Fireworks Pokémon,1.8,13.0,,30,0,30720,1250000,0,1,fire / ghost,Generation VII,special,medium
+807,Zeraora,Zeraoraゼラオラ,7,4,,Thunderclap Pokémon,1.5,44.5,,3,0,30720,1250000,1,0,electric,Generation VII,physical,medium
+808,Meltan,Meltanメルタン,7,17,,Hex Nut Pokémon,0.2,8.0,,3,0,30720,1250000,1,0,steel,Generation VII,physical,small
+809,Melmetal,Melmetalメルメタル,7,17,,Hex Nut Pokémon,2.5,800.0,,3,0,30720,1250000,1,0,steel,Generation VII,physical,large
+810,Grookey,Sarunoriサルノリ,8,10,,Chimp Pokémon,0.3,5.0,87.5,45,50,5120,1059860,0,0,grass,Generation VIII,physical,small
+811,Thwackey,Bachinkeyバチンキー,8,10,,Beat Pokémon,0.7,14.0,87.5,45,50,5120,1059860,0,0,grass,Generation VIII,physical,small
+812,Rillaboom,Goriranderゴリランダー,8,10,,Drummer Pokémon,2.1,90.0,87.5,45,50,5120,1059860,0,0,grass,Generation VIII,physical,large
+813,Scorbunny,Hibannyヒバニー,8,7,,Rabbit Pokémon,0.3,4.5,87.5,45,50,5120,1059860,0,0,fire,Generation VIII,physical,small
+814,Raboot,Rabbifutoラビフット,8,7,,Rabbit Pokémon,0.6,9.0,87.5,45,50,5120,1059860,0,0,fire,Generation VIII,physical,small
+815,Cinderace,Aceburnエースバーン,8,7,,Striker Pokémon,1.4,33.0,87.5,45,50,5120,1059860,0,0,fire,Generation VIII,physical,medium
+816,Sobble,Messonメッソン,8,18,,Water Lizard Pokémon,0.3,4.0,87.5,45,50,5120,1059860,0,0,water,Generation VIII,special,small
+817,Drizzile,Jimereonジメレオン,8,18,,Water Lizard Pokémon,0.7,11.5,87.5,45,50,5120,1059860,0,0,water,Generation VIII,special,small
+818,Inteleon,Intereonインテレオン,8,18,,Secret Agent Pokémon,1.9,45.2,87.5,45,50,5120,1059860,0,0,water,Generation VIII,special,medium
+819,Skwovet,Hoshigarisuホシガリス,8,13,,Cheeky Pokémon,0.3,2.5,50.0,255,50,5120,1000000,0,0,normal,Generation VIII,physical,small
+820,Greedent,Yokubarisuヨクバリス,8,13,,Greedy Pokémon,0.6,6.0,50.0,90,50,5120,1000000,0,0,normal,Generation VIII,physical,small
+821,Rookidee,Kokogaraココガラ,8,8,,Tiny Bird Pokémon,0.2,1.8,50.0,255,50,3840,1059860,0,0,flying,Generation VIII,physical,small
+822,Corvisquire,Aogarasuアオガラス,8,8,,Raven Pokémon,0.8,16.0,50.0,120,50,3840,1059860,0,0,flying,Generation VIII,physical,small
+823,Corviknight,Armorgaアーマーガア,8,8,17.0,Raven Pokémon,2.2,75.0,50.0,45,50,3840,1059860,0,1,flying / steel,Generation VIII,physical,large
+824,Blipbug,Sacchimushiサッチムシ,8,1,,Larva Pokémon,0.4,8.0,50.0,255,50,3840,1000000,0,0,bug,Generation VIII,special,small
+825,Dottler,Redomushiレドームシ,8,1,15.0,Radome Pokémon,0.4,19.5,50.0,120,50,3840,1000000,0,1,bug / psychic,Generation VIII,special,small
+826,Orbeetle,Eolbイオルブ,8,1,15.0,Seven Spot Pokémon,0.4,40.8,50.0,45,50,3840,1000000,0,1,bug / psychic,Generation VIII,special,small
+827,Nickit,Kusuneクスネ,8,2,,Fox Pokémon,0.6,8.9,50.0,255,50,3840,800000,0,0,dark,Generation VIII,special,small
+828,Thievul,Foxlyフォクスライ,8,2,,Fox Pokémon,1.2,19.9,50.0,127,50,3840,800000,0,0,dark,Generation VIII,special,medium
+829,Gossifleur,Himenkaヒメンカ,8,10,,Flowering Pokémon,0.4,2.2,50.0,190,50,5120,1000000,0,0,grass,Generation VIII,balanced,small
+830,Eldegoss,Watashiragaワタシラガ,8,10,,Cotton Bloom Pokémon,0.5,2.5,50.0,75,50,5120,1000000,0,0,grass,Generation VIII,special,small
+831,Wooloo,Wooluuウールー,8,13,,Sheep Pokémon,0.6,6.0,50.0,255,50,3840,1000000,0,0,normal,Generation VIII,balanced,small
+832,Dubwool,Baiwooluuバイウールー,8,13,,Sheep Pokémon,1.3,43.0,50.0,127,50,3840,1000000,0,0,normal,Generation VIII,physical,medium
+833,Chewtle,Kamukameカムカメ,8,18,,Snapping Pokémon,0.3,8.5,50.0,255,50,5120,1000000,0,0,water,Generation VIII,physical,small
+834,Drednaw,Kajirigameカジリガメ,8,18,16.0,Bite Pokémon,1.0,115.5,50.0,75,50,5120,1000000,0,1,water / rock,Generation VIII,physical,medium
+835,Yamper,Wanpachiワンパチ,8,4,,Puppy Pokémon,0.3,13.5,50.0,255,50,5120,800000,0,0,electric,Generation VIII,physical,small
+836,Boltund,Pulsewanパルスワン,8,4,,Dog Pokémon,1.0,34.0,50.0,45,50,5120,800000,0,0,electric,Generation VIII,balanced,medium
+837,Rolycoly,Tandonタンドン,8,16,,Coal Pokémon,0.3,12.0,50.0,255,50,3840,1059860,0,0,rock,Generation VIII,balanced,small
+838,Carkol,Toroggonトロッゴン,8,16,7.0,Coal Pokémon,1.1,78.0,50.0,120,50,3840,1059860,0,1,rock / fire,Generation VIII,balanced,medium
+839,Coalossal,Sekitanzanセキタンザン,8,16,7.0,Coal Pokémon,2.8,310.5,50.0,45,50,3840,1059860,0,1,rock / fire,Generation VIII,balanced,large
+840,Applin,Kajicchuカジッチュ,8,10,3.0,Apple Core Pokémon,0.2,0.5,50.0,255,50,5120,600000,0,1,grass / dragon,Generation VIII,balanced,small
+841,Flapple,Appryuアップリュー,8,10,3.0,Apple Wing Pokémon,0.3,1.0,50.0,45,50,5120,600000,0,1,grass / dragon,Generation VIII,physical,small
+842,Appletun,Taruppleタルップル,8,10,3.0,Apple Nectar Pokémon,0.4,13.0,50.0,45,50,5120,600000,0,1,grass / dragon,Generation VIII,special,small
+843,Silicobra,Sunahebiスナヘビ,8,11,,Sand Snake Pokémon,2.2,7.6,50.0,255,50,5120,1000000,0,0,ground,Generation VIII,physical,large
+844,Sandaconda,Sadaijaサダイジャ,8,11,,Sand Snake Pokémon,3.8,65.5,50.0,120,50,5120,1000000,0,0,ground,Generation VIII,physical,large
+845,Cramorant,Uuウッウ,8,8,18.0,Gulp Pokémon,0.8,18.0,50.0,45,50,5120,1000000,0,1,flying / water,Generation VIII,balanced,small
+846,Arrokuda,Sasikamasuサシカマス,8,18,,Rush Pokémon,0.5,1.0,50.0,255,50,5120,1250000,0,0,water,Generation VIII,physical,small
+847,Barraskewda,Kamasujawカマスジョー,8,18,,Skewer Pokémon,1.3,30.0,50.0,60,50,5120,1250000,0,0,water,Generation VIII,physical,medium
+848,Toxel,Elesonエレズン,8,4,14.0,Baby Pokémon,0.4,11.0,50.0,75,50,6400,1059860,0,1,electric / poison,Generation VIII,special,small
+849,Toxtricity,Strinderストリンダー,8,4,14.0,Punk Pokémon,1.6,40.0,50.0,45,50,6400,1059860,0,1,electric / poison,Generation VIII,special,medium
+850,Sizzlipede,Yakudeヤクデ,8,7,1.0,Radiator Pokémon,0.7,1.0,50.0,190,50,5120,1000000,0,1,fire / bug,Generation VIII,physical,small
+851,Centiskorch,Maruyakudeマルヤクデ,8,7,1.0,Radiator Pokémon,3.0,120.0,50.0,75,50,5120,1000000,0,1,fire / bug,Generation VIII,physical,large
+852,Clobbopus,Tatakkoタタッコ,8,6,,Tantrum Pokémon,0.6,4.0,50.0,180,50,6400,1059860,0,0,fighting,Generation VIII,physical,small
+853,Grapploct,Otosupusオトスパス,8,6,,Jujitsu Pokémon,1.6,39.0,50.0,45,50,6400,1059860,0,0,fighting,Generation VIII,physical,medium
+854,Sinistea,Yabachaヤバチャ,8,9,,Black Tea Pokémon,0.1,0.2,,120,50,5120,1000000,0,0,ghost,Generation VIII,special,small
+855,Polteageist,Potdeathポットデス,8,9,,Black Tea Pokémon,0.2,0.4,,60,50,5120,1000000,0,0,ghost,Generation VIII,special,small
+856,Hatenna,Mibrimミブリム,8,15,,Calm Pokémon,0.4,3.4,0.0,235,50,5120,1250000,0,0,psychic,Generation VIII,special,small
+857,Hattrem,Tebrimテブリム,8,15,,Serene Pokémon,0.6,4.8,0.0,120,50,5120,1250000,0,0,psychic,Generation VIII,special,small
+858,Hatterene,Brimuonブリムオン,8,15,5.0,Silent Pokémon,2.1,5.1,0.0,45,50,5120,1250000,0,1,psychic / fairy,Generation VIII,special,large
+859,Impidimp,Berobaベロバー,8,2,5.0,Wily Pokémon,0.4,5.5,100.0,255,50,5120,1000000,0,1,dark / fairy,Generation VIII,special,small
+860,Morgrem,Gimohギモー,8,2,5.0,Devious Pokémon,0.8,12.5,100.0,120,50,5120,1000000,0,1,dark / fairy,Generation VIII,special,small
+861,Grimmsnarl,Ohlongeオーロンゲ,8,2,5.0,Bulk Up Pokémon,1.5,61.0,100.0,45,50,5120,1000000,0,1,dark / fairy,Generation VIII,physical,medium
+862,Obstagoon,Tachifusagumaタチフサグマ,8,2,13.0,Blocking Pokémon,1.6,46.0,50.0,45,50,3840,1000000,0,1,dark / normal,Generation VIII,physical,medium
+863,Perrserker,Nyaikingニャイキング,8,17,,Viking Pokémon,0.8,28.0,50.0,90,50,5120,1000000,0,0,steel,Generation VIII,physical,small
+864,Cursola,Sunigoonサニゴーン,8,9,,Coral Pokémon,1.0,0.4,25.0,30,50,5120,800000,0,0,ghost,Generation VIII,special,medium
+865,Sirfetch'd,Negigaknightネギガナイト,8,6,,Wild Duck Pokémon,0.8,117.0,50.0,45,50,5120,1000000,0,0,fighting,Generation VIII,physical,small
+866,Mr. Rime,Barrikohruバリコオル,8,12,15.0,Comedian Pokémon,1.5,58.2,50.0,45,50,6400,1000000,0,1,ice / psychic,Generation VIII,special,medium
+867,Runerigus,Deathbarnデスバーン,8,11,9.0,Grudge Pokémon,1.6,66.6,50.0,90,50,6400,1000000,0,1,ground / ghost,Generation VIII,physical,medium
+868,Milcery,Mahomilマホミル,8,5,,Cream Pokémon,0.2,0.3,0.0,200,50,5120,1000000,0,0,fairy,Generation VIII,special,small
+869,Alcremie,Mawhipマホイップ,8,5,,Cream Pokémon,0.3,0.5,0.0,100,50,5120,1000000,0,0,fairy,Generation VIII,special,small
+870,Falinks,Tairetsuタイレーツ,8,6,,Formation Pokémon,3.0,62.0,,45,50,6400,1000000,0,0,fighting,Generation VIII,physical,large
+871,Pincurchin,Bachinuniバチンウニ,8,4,,Sea Urchin Pokémon,0.3,1.0,50.0,75,50,5120,1000000,0,0,electric,Generation VIII,physical,small
+872,Snom,Yukihamiユキハミ,8,12,1.0,Worm Pokémon,0.3,3.8,50.0,190,50,5120,1000000,0,1,ice / bug,Generation VIII,special,small
+873,Frosmoth,Mothnowモスノウ,8,12,1.0,Frost Moth Pokémon,1.3,42.0,50.0,75,50,5120,1000000,0,1,ice / bug,Generation VIII,special,medium
+874,Stonjourner,Ishihenginイシヘンジン,8,16,,Big Rock Pokémon,2.5,520.0,50.0,60,50,6400,1250000,0,0,rock,Generation VIII,physical,large
+875,Eiscue,Korippoコオリッポ,8,12,,Penguin Pokémon,1.4,89.0,50.0,60,50,6400,1250000,0,0,ice,Generation VIII,physical,medium
+876,Indeedee,Yessanイエッサン,8,15,13.0,Emotion Pokémon,0.9,28.0,50.0,30,140,10240,800000,0,1,psychic / normal,Generation VIII,special,small
+877,Morpeko,Morpekoモルペコ,8,4,2.0,Two-Sided Pokémon,0.3,3.0,50.0,180,50,2560,1000000,0,1,electric / dark,Generation VIII,physical,small
+878,Cufant,Zoudouゾウドウ,8,17,,Copperderm Pokémon,1.2,100.0,50.0,190,50,6400,1000000,0,0,steel,Generation VIII,physical,medium
+879,Copperajah,Daioudouダイオウドウ,8,17,,Copperderm Pokémon,3.0,650.0,50.0,90,50,6400,1000000,0,0,steel,Generation VIII,physical,large
+880,Dracozolt,Patchiragonパッチラゴン,8,4,3.0,Fossil Pokémon,1.8,190.0,,45,50,8960,1250000,0,1,electric / dragon,Generation VIII,physical,medium
+881,Arctozolt,Patchilldonパッチルドン,8,4,12.0,Fossil Pokémon,2.3,150.0,,45,50,8960,1250000,0,1,electric / ice,Generation VIII,physical,large
+882,Dracovish,Uonoragonウオノラゴン,8,18,3.0,Fossil Pokémon,2.3,215.0,,45,50,8960,1250000,0,1,water / dragon,Generation VIII,physical,large
+883,Arctovish,Uochilldonウオチルドン,8,18,12.0,Fossil Pokémon,2.0,175.0,,45,50,8960,1250000,0,1,water / ice,Generation VIII,physical,large
+884,Duraludon,Duraludonジュラルドン,8,17,3.0,Alloy Pokémon,1.8,40.0,50.0,45,50,7680,1000000,0,1,steel / dragon,Generation VIII,special,medium
+885,Dreepy,Dorameshiyaドラメシヤ,8,3,9.0,Lingering Pokémon,0.5,2.0,50.0,45,50,10240,1250000,0,1,dragon / ghost,Generation VIII,physical,small
+886,Drakloak,Doronchドロンチ,8,3,9.0,Caretaker Pokémon,1.4,11.0,50.0,45,50,10240,1250000,0,1,dragon / ghost,Generation VIII,physical,medium
+887,Dragapult,Dorapultドラパルト,8,3,9.0,Stealth Pokémon,3.0,50.0,50.0,45,50,10240,1250000,0,1,dragon / ghost,Generation VIII,physical,large
+888,Zacian,Zacianザシアン,8,5,,Warrior Pokémon,2.8,110.0,,10,0,30720,1250000,1,0,fairy,Generation VIII,physical,large
+889,Zamazenta,Zamazentaザマゼンタ,8,6,,Warrior Pokémon,2.9,210.0,,10,0,30720,1250000,1,0,fighting,Generation VIII,physical,large
+890,Eternatus,Mugendinaムゲンダイナ,8,14,3.0,Gigantic Pokémon,20.0,950.0,,255,0,30720,1250000,1,1,poison / dragon,Generation VIII,special,huge
+891,Kubfu,Dakumaダクマ,8,6,,Wushu Pokémon,0.6,12.0,87.5,3,50,30720,1250000,1,0,fighting,Generation VIII,physical,small
+892,Urshifu,Wulaosuウーラオス,8,6,2.0,Wushu Pokémon,1.9,105.0,87.5,3,50,30720,1250000,1,1,fighting / dark,Generation VIII,physical,medium
+893,Zarude,Zarudeザルード,8,2,10.0,Rogue Monkey Pokémon,1.8,70.0,,3,0,30720,1250000,1,1,dark / grass,Generation VIII,physical,medium
+894,Regieleki,Regielekiレジエレキ,8,4,,Electron Pokémon,1.2,145.0,,3,35,30720,1250000,1,0,electric,Generation VIII,balanced,medium
+895,Regidrago,Regidoragoレジドラゴ,8,3,,Dragon Orb Pokémon,2.1,200.0,,3,35,30720,1250000,1,0,dragon,Generation VIII,balanced,large
+896,Glastrier,Blizzaposブリザポス,8,12,,Wild Horse Pokémon,2.2,800.0,,3,35,30720,1250000,1,0,ice,Generation VIII,physical,large
+897,Spectrier,Wraithposレイスポス,8,9,,Swift Horse Pokémon,2.0,44.5,,3,35,30720,1250000,1,0,ghost,Generation VIII,special,large
+898,Calyrex,Budrexバドレックス,8,15,10.0,King Pokémon,1.1,7.7,,3,100,30720,1250000,1,1,psychic / grass,Generation VIII,balanced,medium
+899,Wyrdeer,Ayashishiアヤシシ,8,13,15.0,Big Horn Pokémon,1.8,95.1,50.0,135,50,5120,1250000,0,1,normal / psychic,Generation VIII,balanced,medium
+900,Kleavor,Basagiriバサギリ,8,1,16.0,Axe Pokémon,1.8,89.0,50.0,115,50,5120,1000000,0,1,bug / rock,Generation VIII,physical,medium
+901,Ursaluna,Gachigumaガチグマ,8,11,13.0,Peat Pokémon,2.4,290.0,50.0,75,50,5120,1000000,0,1,ground / normal,Generation VIII,physical,large
+902,Basculegion,Idaitouイダイトウ,8,18,9.0,Big Fish Pokémon,3.0,110.0,50.0,135,50,5120,1000000,0,1,water / ghost,Generation VIII,physical,large
+903,Sneasler,Ohnyulaオオニューラ,8,6,14.0,Free Climb Pokémon,1.3,43.0,50.0,135,50,5120,1059860,0,1,fighting / poison,Generation VIII,physical,medium
+904,Overqwil,Harymanハリーマン,8,2,14.0,Pin Cluster Pokémon,2.5,60.5,50.0,135,50,5120,1000000,0,1,dark / poison,Generation VIII,physical,large
+905,Enamorus,Lovetolosラブトロス,8,5,8.0,Love-Hate Pokémon,1.6,48.0,0.0,3,50,5120,1250000,1,1,fairy / flying,Generation VIII,special,medium
+906,Sprigatito,Nyahojaニャオハ,9,10,,Grass Cat Pokémon,0.4,4.1,87.5,45,50,5120,1059860,0,0,grass,Generation IX,physical,small
+907,Floragato,Nyaroteニャローテ,9,10,,Grass Cat Pokémon,0.9,12.2,87.5,45,50,5120,1059860,0,0,grass,Generation IX,physical,small
+908,Meowscarada,Masquernyaマスカーニャ,9,10,2.0,Magician Pokémon,1.5,31.2,87.5,45,50,5120,1059860,0,1,grass / dark,Generation IX,physical,medium
+909,Fuecoco,Hogatorホゲータ,9,7,,Fire Croc Pokémon,0.4,9.8,87.5,45,50,5120,1059860,0,0,fire,Generation IX,special,small
+910,Crocalor,Achigatorアチゲータ,9,7,,Fire Croc Pokémon,1.0,30.7,87.5,45,50,5120,1059860,0,0,fire,Generation IX,special,medium
+911,Skeledirge,Laudbonラウドボーン,9,7,9.0,Singer Pokémon,1.6,326.5,87.5,45,50,5120,1059860,0,1,fire / ghost,Generation IX,special,medium
+912,Quaxly,Kuwassuクワッス,9,18,,Duckling Pokémon,0.5,6.1,87.5,45,50,5120,1059860,0,0,water,Generation IX,physical,small
+913,Quaxwell,Welkamoウェルカモ,9,18,,Practicing Pokémon,1.2,21.5,87.5,45,50,5120,1059860,0,0,water,Generation IX,physical,medium
+914,Quaquaval,Wanivalウェーニバル,9,18,6.0,Dancer Pokémon,1.8,61.9,87.5,45,50,5120,1059860,0,1,water / fighting,Generation IX,physical,medium
+915,Lechonk,Gourtonグルトン,9,13,,Hog Pokémon,0.5,10.2,50.0,255,50,3840,1000000,0,0,normal,Generation IX,physical,small
+916,Oinkologne,Perfutonパフュートン,9,13,,Hog Pokémon,1.0,120.0,100.0,100,50,3840,1000000,0,0,normal,Generation IX,physical,medium
+917,Tarountula,Tamantulaタマンチュラ,9,1,,String Ball Pokémon,0.3,4.0,50.0,255,50,3840,600000,0,0,bug,Generation IX,physical,small
+918,Spidops,Wanaiderワナイダー,9,1,,Trap Pokémon,1.0,16.5,50.0,120,50,3840,600000,0,0,bug,Generation IX,physical,medium
+919,Nymble,Mamebattaマメバッタ,9,1,,Grasshopper Pokémon,0.2,1.0,50.0,190,20,5120,1000000,0,0,bug,Generation IX,physical,small
+920,Lokix,Exlegエクスレッグ,9,1,2.0,Grasshopper Pokémon,1.0,17.5,50.0,30,0,5120,1000000,0,1,bug / dark,Generation IX,physical,medium
+921,Pawmi,Pamoパモ,9,4,,Mouse Pokémon,0.3,2.5,50.0,190,50,3840,1000000,0,0,electric,Generation IX,physical,small
+922,Pawmo,Pamotパモット,9,4,6.0,Mouse Pokémon,0.4,6.5,50.0,80,50,3840,1000000,0,1,electric / fighting,Generation IX,physical,small
+923,Pawmot,Parmotパーモット,9,4,6.0,Hands-On Pokémon,0.9,41.0,50.0,45,50,3840,1000000,0,1,electric / fighting,Generation IX,physical,small
+924,Tandemaus,Wakkanezumiワッカネズミ,9,13,,Couple Pokémon,0.3,1.8,,150,50,2560,800000,0,0,normal,Generation IX,physical,small
+925,Maushold,Ikkanezumiイッカネズミ,9,13,,Family Pokémon,0.3,2.8,,75,50,2560,800000,0,0,normal,Generation IX,physical,small
+926,Fidough,Pupimocchiパピモッチ,9,5,,Puppy Pokémon,0.3,10.9,50.0,190,50,5120,1059860,0,0,fairy,Generation IX,physical,small
+927,Dachsbun,Bowtzelバウッツェル,9,5,,Dog Pokémon,0.5,14.9,50.0,90,50,5120,1059860,0,0,fairy,Generation IX,physical,small
+928,Smoliv,Miniveミニーブ,9,10,13.0,Olive Pokémon,0.3,6.5,50.0,255,50,5120,1059860,0,1,grass / normal,Generation IX,special,small
+929,Dolliv,Olinyoオリーニョ,9,10,13.0,Olive Pokémon,0.6,11.9,50.0,120,50,5120,1059860,0,1,grass / normal,Generation IX,special,small
+930,Arboliva,Olivaオリーヴァ,9,10,13.0,Olive Pokémon,1.4,48.2,50.0,45,50,5120,1059860,0,1,grass / normal,Generation IX,special,medium
+931,Squawkabilly,Ikirinkoイキリンコ,9,13,8.0,Parrot Pokémon,0.6,2.4,50.0,190,50,3840,600000,0,1,normal / flying,Generation IX,physical,small
+932,Nacli,Kojioコジオ,9,16,,Rock Salt Pokémon,0.4,16.0,50.0,255,50,5120,1059860,0,0,rock,Generation IX,physical,small
+933,Naclstack,Jiodumuジオヅム,9,16,,Rock Salt Pokémon,0.6,105.0,50.0,120,50,5120,1059860,0,0,rock,Generation IX,physical,small
+934,Garganacl,Kyojiohnキョジオーン,9,16,,Rock Salt Pokémon,2.3,240.0,50.0,45,50,5120,1059860,0,0,rock,Generation IX,physical,large
+935,Charcadet,Carbouカルボウ,9,7,,Fire Child Pokémon,0.6,10.5,50.0,90,50,8960,1250000,0,0,fire,Generation IX,balanced,small
+936,Armarouge,Gurenarmaグレンアルマ,9,7,15.0,Fire Warrior Pokémon,1.5,85.0,50.0,25,20,8960,1250000,0,1,fire / psychic,Generation IX,special,medium
+937,Ceruledge,Soubladesソウブレイズ,9,7,9.0,Fire Blades Pokémon,1.6,62.0,50.0,25,20,8960,1250000,0,1,fire / ghost,Generation IX,physical,medium
+938,Tadbulb,Zupikaズピカ,9,4,,EleTadpole Pokémon,0.3,0.4,50.0,190,50,5120,1000000,0,0,electric,Generation IX,special,small
+939,Bellibolt,Harabarieハラバリー,9,4,,EleFrog Pokémon,1.2,113.0,50.0,50,50,5120,1000000,0,0,electric,Generation IX,special,medium
+940,Wattrel,Kaidenカイデン,9,4,8.0,Storm Petrel Pokémon,0.4,3.6,50.0,180,50,5120,1059860,0,1,electric / flying,Generation IX,special,small
+941,Kilowattrel,Taikaidenタイカイデン,9,4,8.0,Frigatebird Pokémon,1.4,38.6,50.0,90,50,5120,1059860,0,1,electric / flying,Generation IX,special,medium
+942,Maschiff,Orachifuオラチフ,9,2,,Rascal Pokémon,0.5,16.0,50.0,150,50,5120,1059860,0,0,dark,Generation IX,physical,small
+943,Mabosstiff,Mafitiffマフィティフ,9,2,,Boss Pokémon,1.1,61.0,50.0,75,50,5120,1059860,0,0,dark,Generation IX,physical,medium
+944,Shroodle,Shirushrewシルシュルー,9,14,13.0,Toxic Mouse Pokémon,0.2,0.7,50.0,190,50,5120,1059860,0,1,poison / normal,Generation IX,physical,small
+945,Grafaiai,Taggingruタギングル,9,14,13.0,Toxic Monkey Pokémon,0.7,27.2,50.0,90,50,5120,1059860,0,1,poison / normal,Generation IX,physical,small
+946,Bramblin,Anokusaアノクサ,9,10,9.0,Tumbleweed Pokémon,0.6,0.6,50.0,190,50,5120,1000000,0,1,grass / ghost,Generation IX,physical,small
+947,Brambleghast,Anohoragusaアノホラグサ,9,10,9.0,Tumbleweed Pokémon,1.2,6.0,50.0,45,50,5120,1000000,0,1,grass / ghost,Generation IX,physical,medium
+948,Toedscool,Nonokurageノノクラゲ,9,11,10.0,Woodear Pokémon,0.9,33.0,50.0,190,50,5120,1059860,0,1,ground / grass,Generation IX,special,small
+949,Toedscruel,Rikukurageリククラゲ,9,11,10.0,Woodear Pokémon,1.9,58.0,50.0,90,50,5120,1059860,0,1,ground / grass,Generation IX,special,medium
+950,Klawf,Gakeganiガケガニ,9,16,,Ambush Pokémon,1.3,79.0,50.0,120,50,8960,1000000,0,0,rock,Generation IX,physical,medium
+951,Capsakid,Capsaijiカプサイジ,9,10,,Spicy Pepper Pokémon,0.3,3.0,50.0,190,50,5120,1000000,0,0,grass,Generation IX,balanced,small
+952,Scovillain,Scovillainスコヴィラン,9,10,7.0,Spicy Pepper Pokémon,0.9,15.0,50.0,75,50,5120,1000000,0,1,grass / fire,Generation IX,balanced,small
+953,Rellor,Shigarokoシガロコ,9,1,,Rolling Pokémon,0.2,1.0,50.0,190,50,5120,800000,0,0,bug,Generation IX,physical,small
+954,Rabsca,Beracasベラカス,9,1,15.0,Rolling Pokémon,0.3,3.5,50.0,45,50,5120,800000,0,1,bug / psychic,Generation IX,special,small
+955,Flittle,Hirahinaヒラヒナ,9,15,,Frill Pokémon,0.2,1.5,50.0,120,50,5120,1059860,0,0,psychic,Generation IX,special,small
+956,Espathra,Cuespatraクエスパトラ,9,15,,Ostrich Pokémon,1.9,90.0,50.0,60,50,5120,1059860,0,0,psychic,Generation IX,special,medium
+957,Tinkatink,Kanuchanカヌチャン,9,5,17.0,Metalsmith Pokémon,0.4,8.9,0.0,190,50,5120,1059860,0,1,fairy / steel,Generation IX,physical,small
+958,Tinkatuff,Nakanuchanナカヌチャン,9,5,17.0,Hammer Pokémon,0.7,59.1,0.0,90,50,5120,1059860,0,1,fairy / steel,Generation IX,physical,small
+959,Tinkaton,Dekanuchanデカヌチャン,9,5,17.0,Hammer Pokémon,0.7,112.8,0.0,45,50,5120,1059860,0,1,fairy / steel,Generation IX,physical,small
+960,Wiglett,Umidigdaウミディグダ,9,18,,Garden Eel Pokémon,1.2,1.8,50.0,255,50,5120,1000000,0,0,water,Generation IX,physical,medium
+961,Wugtrio,Umitrioウミトリオ,9,18,,Garden Eel Pokémon,1.2,5.4,50.0,50,50,5120,1000000,0,0,water,Generation IX,physical,medium
+962,Bombirdier,Otoshidoriオトシドリ,9,8,2.0,Item Drop Pokémon,1.5,42.9,50.0,25,50,8960,1250000,0,1,flying / dark,Generation IX,physical,medium
+963,Finizen,Namiirukaナミイルカ,9,18,,Dolphin Pokémon,1.3,60.2,50.0,200,50,10240,1250000,0,0,water,Generation IX,balanced,medium
+964,Palafin,Irukamanイルカマン,9,18,,Dolphin Pokémon,1.3,60.2,50.0,45,50,10240,1250000,0,0,water,Generation IX,physical,medium
+965,Varoom,Buroronブロロン,9,17,14.0,Single-Cyl Pokémon,1.0,35.0,50.0,190,50,5120,1000000,0,1,steel / poison,Generation IX,physical,medium
+966,Revavroom,Burororoomブロロローム,9,17,14.0,Multi-Cyl Pokémon,1.8,120.0,50.0,75,50,5120,1000000,0,1,steel / poison,Generation IX,physical,medium
+967,Cyclizar,Mototokageモトトカゲ,9,3,13.0,Mount Pokémon,1.6,63.0,50.0,190,50,7680,1059860,0,1,dragon / normal,Generation IX,physical,medium
+968,Orthworm,Mimizuzuミミズズ,9,17,,Earthworm Pokémon,2.5,310.0,50.0,25,50,8960,1250000,0,0,steel,Generation IX,physical,large
+969,Glimmet,Kirameキラーメ,9,16,14.0,Ore Pokémon,0.7,8.0,50.0,70,50,7680,1059860,0,1,rock / poison,Generation IX,special,small
+970,Glimmora,Kiraflorキラフロル,9,16,14.0,Ore Pokémon,1.5,45.0,50.0,25,50,7680,1059860,0,1,rock / poison,Generation IX,special,medium
+971,Greavard,Bochiボチ,9,9,,Ghost Dog Pokémon,0.6,35.0,50.0,120,50,5120,1059860,0,0,ghost,Generation IX,physical,small
+972,Houndstone,Hakadogハカドッグ,9,9,,Ghost Dog Pokémon,2.0,15.0,50.0,60,50,5120,1059860,0,0,ghost,Generation IX,physical,large
+973,Flamigo,Karamingoカラミンゴ,9,8,6.0,Synchronize Pokémon,1.6,37.0,50.0,100,50,5120,1059860,0,1,flying / fighting,Generation IX,physical,medium
+974,Cetoddle,Arukujiraアルクジラ,9,12,,Terra Whale Pokémon,1.2,45.0,50.0,150,50,6400,1059860,0,0,ice,Generation IX,physical,medium
+975,Cetitan,Hulkujiraハルクジラ,9,12,,Terra Whale Pokémon,4.5,700.0,50.0,50,50,6400,1059860,0,0,ice,Generation IX,physical,huge
+976,Veluza,Migalusaミガルーサ,9,18,15.0,Jettison Pokémon,2.5,90.0,50.0,100,50,5120,800000,0,1,water / psychic,Generation IX,physical,large
+977,Dondozo,Heyrusherヘイラッシャ,9,18,,Big Catfish Pokémon,12.0,220.0,50.0,25,50,10240,1250000,0,0,water,Generation IX,physical,huge
+978,Tatsugiri,Syaritatsuシャリタツ,9,3,18.0,Mimicry Pokémon,0.3,8.0,50.0,100,50,8960,1059860,0,1,dragon / water,Generation IX,special,small
+979,Annihilape,Konoyozaruコノヨザル,9,6,9.0,Rage Monkey Pokémon,1.2,56.0,50.0,45,50,5120,1000000,0,1,fighting / ghost,Generation IX,physical,medium
+980,Clodsire,Doohドオー,9,14,11.0,Spiny Fish Pokémon,1.8,223.0,50.0,90,50,5120,1000000,0,1,poison / ground,Generation IX,physical,medium
+981,Farigiraf,Rikikirinリキキリン,9,13,15.0,Long Neck Pokémon,3.2,160.0,50.0,45,50,5120,1000000,0,1,normal / psychic,Generation IX,special,large
+982,Dudunsparce,Nokokocchiノココッチ,9,13,,Land Snake Pokémon,3.6,39.2,50.0,45,50,5120,1000000,0,0,normal,Generation IX,physical,large
+983,Kingambit,Dodogezanドドゲザン,9,2,17.0,Big Blade Pokémon,2.0,120.0,50.0,25,50,5120,1000000,0,1,dark / steel,Generation IX,physical,large
+984,Great Tusk,Idainakibaイダイナキバ,9,11,6.0,Paradox Pokémon,2.2,320.0,,30,0,12800,1250000,0,1,ground / fighting,Generation IX,physical,large
+985,Scream Tail,Sakebushippoサケブシッポ,9,5,15.0,Paradox Pokémon,1.2,8.0,,50,0,12800,1250000,0,1,fairy / psychic,Generation IX,balanced,medium
+986,Brute Bonnet,Araburutakeアラブルタケ,9,10,2.0,Paradox Pokémon,1.2,21.0,,50,0,12800,1250000,0,1,grass / dark,Generation IX,physical,medium
+987,Flutter Mane,Habatakukamiハバタクカミ,9,9,5.0,Paradox Pokémon,1.4,4.0,,30,0,12800,1250000,0,1,ghost / fairy,Generation IX,special,medium
+988,Slither Wing,Chiwohauhaneチヲハウハネ,9,1,6.0,Paradox Pokémon,3.2,92.0,,30,0,12800,1250000,0,1,bug / fighting,Generation IX,physical,large
+989,Sandy Shocks,Sunanokegawaスナノケガワ,9,4,11.0,Paradox Pokémon,2.3,60.0,,30,0,12800,1250000,0,1,electric / ground,Generation IX,special,large
+990,Iron Treads,Tetsunowadachiテツノワダチ,9,11,17.0,Paradox Pokémon,0.9,240.0,,30,0,12800,1250000,0,1,ground / steel,Generation IX,physical,small
+991,Iron Bundle,Tetsunotsutsumiテツノツツミ,9,12,18.0,Paradox Pokémon,0.6,11.0,,50,0,12800,1250000,0,1,ice / water,Generation IX,special,small
+992,Iron Hands,Tetsunokainaテツノカイナ,9,6,4.0,Paradox Pokémon,1.8,380.7,,50,0,12800,1250000,0,1,fighting / electric,Generation IX,physical,medium
+993,Iron Jugulis,Tetsunokoubeテツノコウベ,9,2,8.0,Paradox Pokémon,1.3,111.0,,30,0,12800,1250000,0,1,dark / flying,Generation IX,special,medium
+994,Iron Moth,Tetsunodokugaテツノドクガ,9,7,14.0,Paradox Pokémon,1.2,36.0,,30,0,12800,1250000,0,1,fire / poison,Generation IX,special,medium
+995,Iron Thorns,Tetsunoibaraテツノイバラ,9,16,4.0,Paradox Pokémon,1.6,303.0,,30,0,12800,1250000,0,1,rock / electric,Generation IX,physical,medium
+996,Frigibax,Sebieセビエ,9,3,12.0,Ice Fin Pokémon,0.5,17.0,50.0,45,50,10240,1250000,0,1,dragon / ice,Generation IX,physical,small
+997,Arctibax,Segohruセゴール,9,3,12.0,Ice Fin Pokémon,0.8,30.0,50.0,25,50,10240,1250000,0,1,dragon / ice,Generation IX,physical,small
+998,Baxcalibur,Seglaiveセグレイブ,9,3,12.0,Ice Dragon Pokémon,2.1,210.0,50.0,10,50,10240,1250000,0,1,dragon / ice,Generation IX,physical,large
+999,Gimmighoul,Collecureiコレクレー,9,9,,Coin Chest Pokémon,0.3,5.0,,45,50,12800,1250000,0,0,ghost,Generation IX,special,small
+1000,Gholdengo,Surfugoサーフゴー,9,17,9.0,Coin Entity Pokémon,1.2,30.0,,45,50,12800,1250000,0,1,steel / ghost,Generation IX,special,medium
+1001,Wo-Chien,Chionjenチオンジェン,9,2,10.0,Ruinous Pokémon,1.5,74.2,,6,0,12800,1250000,1,1,dark / grass,Generation IX,special,medium
+1002,Chien-Pao,Paojianパオジアン,9,2,12.0,Ruinous Pokémon,1.9,152.2,,6,0,12800,1250000,1,1,dark / ice,Generation IX,physical,medium
+1003,Ting-Lu,Dinluディンルー,9,2,11.0,Ruinous Pokémon,2.7,699.7,,6,0,12800,1250000,1,1,dark / ground,Generation IX,physical,large
+1004,Chi-Yu,Yiyuiイーユイ,9,2,7.0,Ruinous Pokémon,0.4,4.9,,6,0,12800,1250000,1,1,dark / fire,Generation IX,special,small
+1005,Roaring Moon,Todorokutsukiトドロクツキ,9,3,2.0,Paradox Pokémon,2.0,380.0,,10,0,12800,1250000,0,1,dragon / dark,Generation IX,physical,large
+1006,Iron Valiant,Tetsunobujinテツノブジン,9,5,6.0,Paradox Pokémon,1.4,35.0,,10,0,12800,1250000,0,1,fairy / fighting,Generation IX,physical,medium
+1007,Koraidon,Koraidonコライドン,9,6,3.0,Paradox Pokémon,2.5,303.0,,3,0,12800,1250000,1,1,fighting / dragon,Generation IX,physical,large
+1008,Miraidon,Miraidonミライドン,9,4,3.0,Paradox Pokémon,3.5,240.0,,3,0,12800,1250000,1,1,electric / dragon,Generation IX,special,large
+1009,Walking Wake,Uneruminamoウネルミナモ,9,18,3.0,Paradox Pokémon,3.5,280.0,,5,0,12800,1250000,0,1,water / dragon,Generation IX,special,large
+1010,Iron Leaves,Tetsunoisahaテツノイサハ,9,10,15.0,Paradox Pokémon,1.5,125.0,,5,0,12800,1250000,0,1,grass / psychic,Generation IX,physical,medium
+1011,Dipplin,Kamicchuカミッチュ,9,10,3.0,Candy Apple Pokémon,0.4,9.7,50.0,45,50,5120,1250000,0,1,grass / dragon,Generation IX,special,small
+1012,Poltchageist,Chadeathチャデス,9,10,9.0,Matcha Pokémon,0.1,1.1,,120,50,12800,1250000,0,1,grass / ghost,Generation IX,special,small
+1013,Sinistcha,Yabasochaヤバソチャ,9,10,9.0,Matcha Pokémon,0.2,2.2,,60,50,12800,1250000,0,1,grass / ghost,Generation IX,special,small
+1014,Okidogi,Iineinuイイネイヌ,9,14,6.0,Retainer Pokémon,1.8,92.2,100.0,3,0,12800,1250000,1,1,poison / fighting,Generation IX,physical,medium
+1015,Munkidori,Mashimashiraマシマシラ,9,14,15.0,Retainer Pokémon,1.0,12.2,100.0,3,0,12800,1250000,1,1,poison / psychic,Generation IX,special,medium
+1016,Fezandipiti,Kichikigisuキチキギス,9,14,5.0,Retainer Pokémon,1.4,30.1,100.0,3,0,12800,1250000,1,1,poison / fairy,Generation IX,physical,medium
+1017,Ogerpon,Ogerponオーガポン,9,10,,Mask Pokémon,1.2,39.8,0.0,5,50,12800,1250000,1,0,grass,Generation IX,physical,medium
+1018,Archaludon,Bridurasブリジュラス,9,17,3.0,Alloy Pokémon,2.0,60.0,50.0,10,50,7680,1000000,0,1,steel / dragon,Generation IX,special,large
+1019,Hydrapple,Kamitsuorochiカミツオロチ,9,10,3.0,Apple Hydra Pokémon,1.8,93.0,50.0,10,50,5120,600000,0,1,grass / dragon,Generation IX,special,medium
+1020,Gouging Fire,Ugatsuhomuraウガツホムラ,9,7,3.0,Paradox Pokémon,3.5,590.0,,10,0,12800,1250000,0,1,fire / dragon,Generation IX,physical,large
+1021,Raging Bolt,Takeruraikoタケルライコ,9,4,3.0,Paradox Pokémon,5.2,480.0,,10,0,12800,1250000,0,1,electric / dragon,Generation IX,special,huge
+1022,Iron Boulder,Tetsunoiwaoテツノイワオ,9,16,15.0,Paradox Pokémon,1.5,162.5,,10,0,12800,1250000,0,1,rock / psychic,Generation IX,physical,medium
+1023,Iron Crown,Tetsunokashiraテツノカシラ,9,17,15.0,Paradox Pokémon,1.6,156.0,,10,0,12800,1250000,0,1,steel / psychic,Generation IX,special,medium
+1024,Terapagos,Terapagosテラパゴス,9,13,,Tera Pokémon,0.2,6.5,50.0,255,50,1280,1250000,1,0,normal,Generation IX,balanced,small
+1025,Pecharunt,Momowarouモモワロウ,9,14,9.0,Subjugation Pokémon,0.3,0.3,,3,0,5120,1250000,1,1,poison / ghost,Generation IX,balanced,small

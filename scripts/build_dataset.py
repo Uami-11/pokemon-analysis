@@ -36,6 +36,11 @@ OUT_CSV = ROOT / "datasets" / "pokemon_full.csv"
 ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5,
          "vi": 6, "vii": 7, "viii": 8, "ix": 9}
 
+# The raw CSV classifies the Ultra Beasts as legendary and they are grouped
+# with the legendary Pokemon in the games, but PokeAPI reports
+# is_legendary = false for them. Keep the original convention.
+ULTRA_BEASTS = {793, 794, 795, 796, 797, 798, 799}
+
 # stat name in the API -> column name in the CSV
 STAT_COLUMNS = {
     "hp": "hp",
@@ -90,6 +95,26 @@ def display_name(raw: str) -> str:
 
 
 # ------------------------------------------------------------------ type chart
+def load_cached(prefix: str, ids) -> dict:
+    """Load the cached API payloads for the given dex ids."""
+    out = {}
+    for dex_id in ids:
+        path = RAW_DIR / f"{prefix}_{int(dex_id):04d}.json"
+        if path.exists():
+            out[str(int(dex_id))] = json.loads(path.read_text(encoding="utf-8"))
+    return out
+
+
+def load_cached_types() -> dict:
+    return {p.stem.split("_", 1)[1]: json.loads(p.read_text(encoding="utf-8"))
+            for p in sorted(RAW_DIR.glob("type_*.json"))}
+
+
+def load_cached_growth() -> dict:
+    return {p.stem.split("_")[-1]: json.loads(p.read_text(encoding="utf-8"))
+            for p in sorted(RAW_DIR.glob("growth_rate_*.json"))}
+
+
 def build_type_chart(types: dict) -> dict[str, dict[str, float]]:
     """attacking type -> {defending type: multiplier}, from the raw API data."""
     chart: dict[str, dict[str, float]] = {}
@@ -158,9 +183,10 @@ def build_row(species: dict, pokemon: dict, growth: dict, chart: dict) -> dict:
         "type2": defending[1] if len(defending) > 1 else "",
         "weight_kg": fmt_float(weight / 10) if weight else "",
         "generation": str(ROMAN[species["generation"]["name"].split("-")[1]]),
-        # the raw CSV also flags mythicals (Mew, Deoxys ...) as legendary,
-        # so the same convention is used for the new rows
-        "is_legendary": "1" if species["is_legendary"] or species["is_mythical"] else "0",
+        # the raw CSV also flags mythicals (Mew, Deoxys ...) and the Ultra
+        # Beasts as legendary, so the same convention is used here
+        "is_legendary": "1" if (species["is_legendary"] or species["is_mythical"]
+                                or species["id"] in ULTRA_BEASTS) else "0",
     }
     return row
 
@@ -231,32 +257,22 @@ def main() -> None:
         print("validation cache missing - fetching sample...")
         fetch_pokemon_ids(VALIDATION_DEX)
 
-    def load(prefix: str, ids) -> dict:
-        out = {}
-        for dex_id in ids:
-            path = RAW_DIR / f"{prefix}_{int(dex_id):04d}.json"
-            if path.exists():
-                out[str(int(dex_id))] = json.loads(path.read_text(encoding="utf-8"))
-        return out
-
-    types = {p.stem.split("_", 1)[1]: json.loads(p.read_text(encoding="utf-8"))
-             for p in sorted(RAW_DIR.glob("type_*.json"))}
-    growth = {p.stem.split("_")[-1]: json.loads(p.read_text(encoding="utf-8"))
-              for p in sorted(RAW_DIR.glob("growth_rate_*.json"))}
+    types = load_cached_types()
+    growth = load_cached_growth()
     print(f"cached: {len(types)} types, {len(growth)} growth rates")
 
     chart = build_type_chart(types)
 
     # --- validation against the raw CSV --------------------------------------
     if not args.skip_validation:
-        sample_species = load("species", VALIDATION_DEX)
-        sample_pokemon = load("pokemon", VALIDATION_DEX)
+        sample_species = load_cached("species", VALIDATION_DEX)
+        sample_pokemon = load_cached("pokemon", VALIDATION_DEX)
         validate(VALIDATION_DEX, df_raw, growth, chart,
                  sample_species, sample_pokemon)
 
     # --- new rows -------------------------------------------------------------
-    new_species = load("species", range(802, 1026))
-    new_pokemon = load("pokemon", range(802, 1026))
+    new_species = load_cached("species", range(802, 1026))
+    new_pokemon = load_cached("pokemon", range(802, 1026))
     missing = [d for d in range(802, 1026) if str(d) not in new_species]
     if missing:
         print("!! missing from the API cache:", missing, file=sys.stderr)
